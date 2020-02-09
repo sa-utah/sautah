@@ -1,0 +1,86 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 800;
+}
+
+/* footer #logo-footer {
+  width: 200px;
+} */
+
+/* .navbar-brand img {
+  display: block;
+  width: auto;
+  height: 100px;
+  transition: 0.2s;
+} */
+
+.parallax {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top center;
+  border-radius: 0px;
+  margin-top: 50px;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.lh2 {
+  line-height: 2;
+}
+
+.pullquote {
+  border: 1px solid #ccc;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.pullquote .quote {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.7rem;
+  font-style: italic;
+}
+
+.fa-ul {
+  margin-left: 1.5rem !important;
+}
+
+.fa-ul.large-icons {
+  margin-left: 5rem !important;
+}
+
+.fa-ul.large-icons .fa-li {
+  left: -6em;
+  width: 6em;
+}
+
+.fa-ul .fa-li {
+  color: #1b4388;
+}
+
+/* .btn-primary {
+  background-color: #1b4388;
+  border-color: #1b4388;
+} */
+
+.font-size-smaller {
+  font-size: 0.8rem;
+}
+
+.meetings {
+  /* table-layout: fixed; */
+}
+
+.meetings-time {
+  width: 20%;
+}
+.meetings-location {
+  width: 20%;
+}
+.meetings-contact {
+  width: 20%;
+}
+.meetings-notes {
+  width: 40%;
+}

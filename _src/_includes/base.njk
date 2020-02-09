@@ -1,0 +1,60 @@
+---
+social:
+  imgsrc: 
+  imgalt: 
+  description: SA Utah (Sexaholics Anonymous Utah)
+	url: https://www.sautah.org
+	sitename: SA Utah
+title: SA Utah (Sexaholics Anonymous Utah)
+---
+
+<!doctype html>
+<html class="h-100" lang="en"{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ title }}</title>
+		<meta name="title" content="{{ title }}">
+		<meta name="description" content="{{ social.description }}">
+		{% include "partials/_opengraph.njk" %}
+		<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+		<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon.png">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700&display=swap" rel="stylesheet">
+		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link rel="stylesheet" href="{{ '/' | url }}assets/theme.css">
+		<script src="https://kit.fontawesome.com/f4dcf50210.js" crossorigin="anonymous" async></script>
+	</head>
+	<body class="d-flex flex-column h-100">
+		{% include "partials/_nav.njk" %}
+		<main role="main" class="flex-shrink-0">
+		{{ content | safe }}
+		</main>
+		<footer class="mt-auto py-5 bg-light">
+			<div class="container text-center">
+				<img id="logo-footer" src="{{ '/assets/uclt-logo.png' | url }}" alt="">
+				<p class="adr mt-4"><span class="street-address">4989 South State Street #57601</span>, <span>Murray</span>, <span class="region">Utah</span> <span class="postal-code">84107-0601</span></p>
+				<p><a href="tel:3857438872">(385) 743-8872</a></p>
+				<p class="text-muted">
+				&copy;
+				<script>document.write(new Date().getFullYear());</script>
+				SAIUT
+				</p>
+			</div>
+		</footer>
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+		{# <script>
+			window.onscroll = function() {scrollFunction()};
+			const headerLogo = document.getElementById("header-logo");
+
+			function scrollFunction() {
+				if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+					if (headerLogo.style.height !== "50px") headerLogo.style.height = "50px";
+				} else {
+					if (headerLogo.style.height !== "100px") headerLogo.style.height = "100px";
+				}
+			}
+		</script> #}
+	</body>
+</html>
+		{# <style>{{ css | cssmin | safe }}</style> #}

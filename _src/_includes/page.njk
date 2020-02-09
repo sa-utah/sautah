@@ -1,0 +1,14 @@
+---
+layout: base
+images:
+  jumbotron: default.jpg
+pageHeading: Default Title
+---
+<div class="jumbotron parallax" style="background-image: url({{ '/assets/' | url }}{{ images.jumbotron }})">
+  <div class="container">
+    <h1 class="my-5 text-center text-white text-uppercase display-4 font-weight-bold">{{ pageHeading }}</h1>
+  </div>
+</div>
+<div class="">
+{{ content | safe }}
+</div>

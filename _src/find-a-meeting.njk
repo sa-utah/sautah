@@ -1,0 +1,55 @@
+---
+layout: page
+pageHeading: Meetings and Groups
+pagination:
+ data: meetings.locations
+ size: 1000
+---
+
+<div class="container-fluid">
+  <div class="mb-5 text-center">
+    <h2 class="h5 text-uppercase">Locations by county</h2>
+    {%- for location in pagination.items %}
+      <a href="#{{ location.name | slug }}" class="btn btn-primary btn-sm d-inline-block mr-2 mb-2">
+        {{ location.name }}
+        <span class="badge badge-light">{{ location.meetings.length }}</span>
+        <span class="sr-only">meetings</span>
+      </a>
+    {% endfor -%}
+  </div>
+  <div class="table-responsive">
+    <table class="table meetings">
+      {%- for location in pagination.items %}
+      <thead class="thead-dark">
+        <tr>
+          <th id="{{ location.name | slug }}" scope="col" colspan="4">{{ location.name }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {%- for meeting in location.meetings %}
+        <tr>
+          <th class="meetings-time" scope="row">
+            {{ meeting.day }}<br>
+            <span class="font-weight-normal">{{ meeting.time.start }} – {{ meeting.time.end }}</span>
+          </th>
+          <td class="meetings-location">
+            {{ meeting.address }}<br>
+            <span class="font-weight-bold">{{ meeting.city }}</span>
+          </td>
+          <td class="meetings-contact">
+            {{ meeting.contact.name }}<br>
+            <a href="tel:{{ meeting.contact.phone }}" class="text-nowrap">{{ meeting.contact.phone }}</a><br>
+            {% if meeting.contact.email %}<a href="mailto:{{ meeting.contact.email }}" class="text-nowrap">{{ meeting.contact.email }}</a>{% endif %}
+            {% if meeting.contact.instructions %}<span class="font-weight-light">{{ meeting.contact.instructions }}</span>{% endif %}
+          </td>
+          <td class="meetings-notes">
+            {% if meeting.name %}{{ meeting.name }}<br>{% endif %}
+            <span class="font-weight-light">{{ meeting.notes }}</span>
+          </td>
+        </tr>
+        {% endfor -%}
+      </tbody>
+      {% endfor -%}
+    </table>
+  </div>
+</div>

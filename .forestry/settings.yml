@@ -8,7 +8,7 @@ sections:
   path: _src
   label: Pages
   create: all
-  match: "**/*"
+  match: "*.njk"
 - type: document
   path: _src/_data/meetings.json
   label: Meeting List

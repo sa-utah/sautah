@@ -8,9 +8,9 @@ sections:
   path: _src
   label: Pages
   create: all
-  match: "*.njk"
+  match: "**/*.njk"
 - type: document
-  path: _src/_data/meetings.json
+  path: _src/meetings.njk
   label: Meeting List
 upload_dir: uploads
 public_path: "/uploads"

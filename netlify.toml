@@ -5,3 +5,4 @@ command = "DEBUG=* eleventy"
 [[redirects]]
 from = "/wp-content/uploads/SA_Meetings/MeetingsSA.pdf"
 to = "/meetings/"
+status = 301

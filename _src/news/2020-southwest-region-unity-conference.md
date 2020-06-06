@@ -8,4 +8,8 @@ tags: news
 
 Find more details on [this PDF](/assets/documents/UC2020Flyer.pdf).
 
+Download the [S-Anon program schedlue](/assets/documents/UC2020SAnonSchedule.pdf).
+
+Download the [SA program schedlue](/assets/documents/UC2020SASchedule.pdf).
+
 Register [here](https://www.sa.org/store/conventions?conv=70).

@@ -5,7 +5,6 @@ social:
   description: SA Utah (Sexaholics Anonymous Utah)
 	url: https://www.sautah.org
 	sitename: SA Utah
-title: SA Utah (Sexaholics Anonymous Utah)
 ---
 
 <!doctype html>
@@ -23,16 +22,18 @@ title: SA Utah (Sexaholics Anonymous Utah)
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title }}</title>
 		<meta name="title" content="{{ title }}">
-		<meta name="description" content="{{ social.description }}">
-		{% include "partials/_opengraph.njk" %}
+		{# <meta name="description" content="{{ social.description }}"> #}
+		{# {% include "partials/_opengraph.njk" %} #}
 		<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-		<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icon/apple-touch-icon.png' | url }}">
+		<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/icon/favicon-32x32.png' | url }}">
+		<link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/icon/favicon-16x16.png' | url }}">
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,700&display=swap" rel="stylesheet">
 		<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 		<link rel="stylesheet" href="{{ '/' | url }}assets/theme.css">
 		<script src="https://kit.fontawesome.com/f4dcf50210.js" crossorigin="anonymous" async></script>
 	</head>
-	<body class="d-flex flex-column h-100">
+	<body class="d-flex flex-column h-100 {{ bodyClass if bodyClass else '' }}">
 		{% include "partials/_nav.njk" %}
 		<main role="main" class="flex-shrink-0">
 		{{ content | safe }}

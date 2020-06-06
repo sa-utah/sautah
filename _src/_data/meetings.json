@@ -1,6 +1,27 @@
 {
   "locations": [
     {
+      "name": "Online / Phone",
+      "meetings": [
+        {
+          "city": "",
+          "name": "Zoom",
+          "day": "Monday – Friday",
+          "time": {
+            "start": "12pm",
+            "end": "1pm"
+          },
+          "address": "Online",
+          "notes": "Meeting ID: 233882267, Meeting Password: Password: 001309, One tap mobile number: +14086380968,,233882267#",
+          "contact": {
+            "name": "TBD",
+            "phone": ""
+          },
+          "link": "https://tiny.cc/sautahzoom"
+        }
+      ]
+    },
+    {
       "name": "Cache",
       "meetings": [
         {
@@ -174,11 +195,11 @@
             "start": "6pm",
             "end": "7:20pm"
           },
-          "address": "151 East 5600 South",
-          "notes": "Washington Building. Go upstairs, turn left, go down the hallway and use the double doors.",
+          "address": "111 East 5600 South",
+          "notes": "Independence Hall (West building in square) Suite 304",
           "contact": {
-            "name": "Ted",
-            "phone": "801-599-6326"
+            "name": "Chandler W",
+            "phone": "812-447-9452"
           }
         },
         {
@@ -222,9 +243,10 @@
           "address": "11978 S. Redwood Rd",
           "notes": "Topic Study. Enter through southwest door and follow signs to basement meeting room.",
           "contact": {
-            "name": "Cory A",
-            "phone": "801-349-6575"
-          }
+            "name": "Jared P",
+            "phone": "801-910-8291"
+          },
+          "link": "https://tiny.cc/sasfphone"
         },
         {
           "city": "Salt Lake City",
@@ -235,7 +257,7 @@
             "end": "8pm"
           },
           "address": "428 C Street",
-          "notes": "Step Study. Education Center, Classroom G (second door on right).",
+          "notes": "Step Study with all four texts. Education Center, Classroom G (second door on right).",
           "contact": {
             "name": "Jerred B",
             "phone": "801-891-9009"
@@ -252,8 +274,8 @@
           "address": "9176 South 300 West",
           "notes": "Upstairs to suite 20.",
           "contact": {
-            "name": "Collin H",
-            "phone": "801-864-5584"
+            "name": "Erik",
+            "phone": "801-874-4553"
           }
         },
         {
@@ -297,8 +319,24 @@
           "address": "2015 East Newcastle Drive",
           "notes": "Step Study. Enter Church using classroom entrance, then to classroom 1B",
           "contact": {
-            "name": "Jonathan R",
-            "phone": "801-664-2789"
+            "name": "Sean",
+            "phone": "801-759-8760"
+          },
+          "link": "https://tiny.cc/sasfphone"
+        },
+        {
+          "city": "Murray",
+          "name": "Sobriety Through Unity",
+          "day": "Saturday",
+          "time": {
+            "start": "7:30am",
+            "end": "8:30am"
+          },
+          "address": "111 East 5600 South",
+          "notes": "Independence Hall (West building in square) Suite 304",
+          "contact": {
+            "name": "Taylor Y",
+            "phone": "801-413-3991"
           }
         },
         {
@@ -314,21 +352,6 @@
           "contact": {
             "name": "Jeff O",
             "phone": "801-358-8993"
-          }
-        },
-        {
-          "city": "Murray",
-          "name": "Sobriety Through Unity",
-          "day": "Saturday",
-          "time": {
-            "start": "7:30am",
-            "end": "8:30am"
-          },
-          "address": "111 East 5600 South",
-          "notes": "Independence Hall (West building in square) Suite 304",
-          "contact": {
-            "name": "Taylor Y",
-            "phone": "801-413-3991"
           }
         },
         {
@@ -416,8 +439,8 @@
           "name": "",
           "day": "Tuesday",
           "time": {
-            "start": "7pm",
-            "end": "8pm"
+            "start": "7am",
+            "end": "8am"
           },
           "address": "350 E Center St",
           "notes": "Through main doors, down the stairs, turn right down hallway, first door to the left after restrooms.",
@@ -571,10 +594,25 @@
         {
           "city": "St. George",
           "name": "",
-          "day": "Wednesday",
+          "day": "Monday",
           "time": {
             "start": "7:30pm",
             "end": "8:30pm"
+          },
+          "address": "694 S Main St",
+          "notes": "",
+          "contact": {
+            "name": "William",
+            "phone": "435-294-5861"
+          }
+        },
+        {
+          "city": "St. George",
+          "name": "",
+          "day": "Thursday",
+          "time": {
+            "start": "6:30pm",
+            "end": "7:30pm"
           },
           "address": "559 North 1060 East",
           "notes": "Alano Club in the old Industrial Park",

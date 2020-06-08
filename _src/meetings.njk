@@ -47,7 +47,7 @@ highly recommend contacting the person listed for that meeting.</p>
           </td>
           <td class="meetings-notes">
             {% if meeting.name %}{{ meeting.name }}<br>{% endif %}
-            {% if meeting.link %}<a href="{{ meeting.link }}">{{ meeting.link }}</a><br>{% endif %}
+            {% if meeting.link %}<a href="{{ meeting.link.url }}">{{ meeting.link.text if meeting.link.text else meeting.link.url }}</a><br>{% endif %}
             <span class="font-weight-light">{{ meeting.notes }}</span>
           </td>
         </tr>

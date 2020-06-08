@@ -17,7 +17,9 @@
             "name": "TBD",
             "phone": ""
           },
-          "link": "https://tiny.cc/sautahzoom"
+          "link": {
+            "url": "https://tiny.cc/sautahzoom"
+          }
         }
       ]
     },
@@ -246,7 +248,9 @@
             "name": "Jared P",
             "phone": "801-910-8291"
           },
-          "link": "https://tiny.cc/sasfphone"
+          "link": {
+            "url": "https://tiny.cc/sasfphone"
+          }
         },
         {
           "city": "Salt Lake City",
@@ -322,7 +326,9 @@
             "name": "Sean",
             "phone": "801-759-8760"
           },
-          "link": "https://tiny.cc/sasfphone"
+          "link": {
+            "url": "https://tiny.cc/sasfphone"
+          }
         },
         {
           "city": "Murray",
@@ -584,6 +590,10 @@
             "name": "Sandy C",
             "phone": "385-535-2651",
             "email": "nevergiveup1977@hotmail.com"
+          },
+          "link": {
+            "url": "/assets/documents/WISAflyer.pdf",
+            "text": "Informational Flyer"
           }
         }
       ]

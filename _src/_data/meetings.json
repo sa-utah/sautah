@@ -481,8 +481,8 @@
           "address": "1330 South 740 East",
           "notes": "Basement of the counseling center. Down stairs on right-hand side of building. If it's locked, come in through main door and downstairs to the left.",
           "contact": {
-            "name": "Zach P",
-            "phone": "801-833-5719"
+            "name": "Ben F",
+            "phone": "208-615-4778"
           }
         },
         {
@@ -532,15 +532,15 @@
           }
         },
         {
-          "city": "",
-          "name": "Open to anyone",
+          "city": "Provo",
+          "name": "Not a Glum Lot",
           "day": "Friday",
           "time": {
             "start": "6pm",
             "end": "7pm"
           },
           "address": "Please call for address",
-          "notes": "Common Solution literature study. Enter through northwest side door, first door on the right, downstairs to basement.",
+          "notes": "Open meeting. Literature study. Come into the back yard through the gate on the left side of the house, then down the stone steps on your right and into the doors to the basement.",
           "contact": {
             "name": "Spencer S",
             "phone": "385-245-7178"
@@ -562,15 +562,15 @@
           }
         },
         {
-          "city": "",
-          "name": "Primary Purpose Group",
+          "city": "Provo",
+          "name": "Not a Glum Lot",
           "day": "Saturday",
           "time": {
             "start": "9am",
             "end": "10am"
           },
           "address": "Please call for address",
-          "notes": "Open meeting. Big Book Study. Enter through northwest side door, first door on the right, downstairs to basement.",
+          "notes": "Open meeting. Big Book study. Come into the back yard through the gate on the left side of the house, then down the stone steps on your right and into the doors to the basement.",
           "contact": {
             "name": "Spencer S",
             "phone": "385-245-7178"

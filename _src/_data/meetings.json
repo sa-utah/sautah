@@ -12,7 +12,7 @@
             "end": "1pm"
           },
           "address": "Online",
-          "notes": "Meeting ID: 233882267, Meeting Password: Password: 001309, One tap mobile number: +14086380968,,233882267#",
+          "notes": "Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#",
           "contact": {
             "name": "TBD",
             "phone": ""
@@ -630,6 +630,29 @@
             "name": "Paul J",
             "phone": "435-749-9908",
             "instructions": "Texts only please"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Intergroup",
+      "meetings": [
+        {
+          "city": "",
+          "name": "Zoom",
+          "day": "Second Saturday",
+          "time": {
+            "start": "10:30am",
+            "end": "11:30am"
+          },
+          "address": "Online",
+          "notes": "Meeting ID: 710606753, Password: 044507, One tap mobile: +16699006833,,710606753#, (save as a contact in phone) (712) 770-4146,,,189707#",
+          "contact": {
+            "name": "Tim B",
+            "phone": "801-949-2978"
+          },
+          "link": {
+            "url": "https://tiny.cc/sautahzoom"
           }
         }
       ]

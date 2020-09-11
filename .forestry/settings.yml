@@ -16,6 +16,7 @@ sections:
   label: Pages
   create: all
   match: "**/*.md"
+  exclude: _src/news/**
 - type: document
   path: _src/meetings.njk
   label: Meeting List

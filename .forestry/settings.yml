@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: news
+  label: News
+  create: all
+  match: "**/*.md"
+- type: directory
   path: _src
   label: Pages
   create: all

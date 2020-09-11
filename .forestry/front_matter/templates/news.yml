@@ -4,16 +4,21 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: text
-  name: exerpt
-  label: exerpt
-- type: text
-  name: image
-  label: image
+  label: Title
+  config:
+    required: true
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: text
-  name: tags
-  label: tags
+  name: exerpt
+  label: Exerpt
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags

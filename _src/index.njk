@@ -23,7 +23,7 @@ bodyClass: home
         <img src="{{ '/assets/' + post.data.image | url }}" class="card-img-top">
         <div class="card-body">
           <h2 class="card-title h5">{{ post.data.title }}</h2>
-          <p class="card-text">{{ post.data.exerpt }}</p>
+          <p class="card-text">{{ post.data.excerpt }}</p>
           <a href="{{ post.url | url }}" class="btn btn-outline-primary">Read More</a>
         </div>
       </div>
@@ -37,7 +37,7 @@ bodyClass: home
       <div class="card mb-4">
         <div class="card-body">
           <h3 class="card-title h5">{{ post.data.title }}</h3>
-          <p class="card-text">{{ post.data.exerpt }}</p>
+          <p class="card-text">{{ post.data.excerpt }}</p>
           <a href="{{ post.url | url }}" class="card-link">Read More</a>
         </div>
       </div>

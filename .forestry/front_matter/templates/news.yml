@@ -11,8 +11,8 @@ fields:
   name: date
   label: Date
 - type: text
-  name: exerpt
-  label: Exerpt
+  name: excerpt
+  label: Excerpt
 - name: image
   type: file
   config:

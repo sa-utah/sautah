@@ -1,4 +1,15 @@
 ---
 label: CTA Button
 hide_body: true
-fields: []
+fields:
+- name: button_label
+  type: text
+  config:
+    required: true
+  label: Button Label
+- name: button_url
+  type: text
+  config:
+    required: true
+  label: Button URL
+  default: https://

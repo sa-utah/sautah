@@ -1,0 +1,19 @@
+---
+label: News
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: exerpt
+  label: exerpt
+- type: text
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: tags
+  label: tags

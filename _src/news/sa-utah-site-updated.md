@@ -1,5 +1,5 @@
 ---
-page_heading: SA Utah Site Updated
+title: SA Utah Site Updated
 excerpt: We’ve update sautah.org. We’d love your feedback.
 image: 
 date: 2020-02-01

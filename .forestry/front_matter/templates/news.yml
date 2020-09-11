@@ -3,8 +3,8 @@ label: News
 hide_body: false
 fields:
 - type: text
-  name: page_heading
-  label: Page Heading
+  name: title
+  label: Title
   config:
     required: true
 - type: datetime

@@ -1,5 +1,5 @@
 ---
-page_heading: 2021 SA International Retreat
+title: 2021 SA International Retreat
 excerpt: Salt Lake City, Utah will host the 2021 International Retreat.
 image: /assets/international.jpg
 date: 2020-04-01

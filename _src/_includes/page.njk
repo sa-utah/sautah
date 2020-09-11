@@ -2,19 +2,16 @@
 layout: base
 images:
   jumbotron: default.jpg
-page_heading: Default Title
+title: Default Title
 ---
 
 <div class="jumbotron parallax mb-0" style="background-image: url({{ '/assets/' | url }}{{ images.jumbotron }})">
   <div class="container">
-    <h1 class="my-5 text-center text-white text-uppercase display-4 font-weight-bold">{{ page_heading }}</h1>
+    <h1 class="my-5 text-center text-white text-uppercase display-4 font-weight-bold">{{ title }}</h1>
   </div>
 </div>
 <div class="py-2 py-sm-5">
   <div class="container">
-    {% if title %}
-    <h2 class="mb-3">{{ title }}</h2>
-    {% endif %}
     {{ content | safe }}
   </div>
 </div>

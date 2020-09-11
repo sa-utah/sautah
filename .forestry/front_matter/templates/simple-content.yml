@@ -2,6 +2,11 @@
 label: Simple Content
 hide_body: true
 fields:
+- name: section_title
+  type: text
+  config:
+    required: true
+  label: Title
 - name: content
   type: textarea
   default: ''

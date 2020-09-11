@@ -3,7 +3,7 @@ tags:
 - news
 - sa-international
 - events
-title: SA Internet Marathon
+page_heading: SA Internet Marathon
 date: 2020-09-11T10:00:00-06:00
 excerpt: Join us for the third annual SA 24-hour web marathon with members from around
   the world sharing experience, strength and hope.  It’s like an international convention

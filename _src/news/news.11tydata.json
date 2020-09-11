@@ -1,5 +1,5 @@
 {
   "layout": "page.njk",
   "tags": "news",
-  "pageHeading": "News"
+  "page_heading": "News"
 }

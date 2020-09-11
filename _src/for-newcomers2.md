@@ -12,9 +12,11 @@ page_sections:
     Sexaholics Anonymous is a recovery program based on the principles of Alcoholics Anonymous and received permission from AA to use its Twelve Steps and Twelve Traditions in 1979.
   footnotes: "\\* Adapted with permission from The AA Grapevine, Inc.  \nSA adaptation
     © 1982, 1989, 2001 SA Literature.  \nReprinted with permission of SA Literature."
+  section_title: What is SA?
 - template: cta-button
   button_url: "/meetings"
   button_label: Join us in a meeting
+  button_title: Join us
 - template: simple-content
   content: |-
     ## There is a solution
@@ -30,5 +32,6 @@ page_sections:
     Meetings that do not adhere to and follow Sexaholics Anonymous’ sobriety statement as set forth in the foregoing Statement of Principle adopted by the General Delegate Assembly in 2016 are not SA meetings and shall not call themselves SA meetings.
   footnotes: Addendum to the Statement of Principle passed by the General Delegate
     Assembly on July 8, 2016.
+  section_title: There is a solution
 
 ---

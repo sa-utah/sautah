@@ -2,6 +2,11 @@
 label: CTA Button
 hide_body: true
 fields:
+- name: button_title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: button_label
   type: text
   config:

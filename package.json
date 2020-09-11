@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rm -rf _site && npx @11ty/eleventy --serve --quiet --port=3000",
+    "forestry:preview": "eleventy --serve --port 8080 --output=dist",
     "debug": "rm -rf _site && DEBUG=Eleventy* npx @11ty/eleventy --serve --port=3000"
   },
   "keywords": [],

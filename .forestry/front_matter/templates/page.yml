@@ -1,0 +1,13 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: metaTitle
+  label: metaTitle
+- type: text
+  name: title
+  label: title

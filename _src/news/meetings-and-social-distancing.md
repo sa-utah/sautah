@@ -1,7 +1,7 @@
 ---
 title: Meetings and Social Distancing
 excerpt: Contact the meeting organizer to find details for connecting remotely.
-image: web-conf.jpg
+image: /assets/web-conf.jpg
 date: 2020-03-12
 tags: news
 ---

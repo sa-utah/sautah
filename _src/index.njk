@@ -20,7 +20,7 @@ bodyClass: home
     {%- for post in home_news.slice(0, news_feature_size) -%}
     <div class="col-12 col-md-4">
       <div class="card mb-4 mb-sm-0">
-        <img src="{{ '/assets/' + post.data.image | url }}" class="card-img-top">
+        <img src="{{ post.data.image | url }}" class="card-img-top">
         <div class="card-body">
           <h2 class="card-title h5">{{ post.data.title }}</h2>
           <p class="card-text">{{ post.data.excerpt }}</p>

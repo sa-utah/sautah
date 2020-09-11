@@ -15,8 +15,9 @@ image: "/assets/screen-shot-2020-09-11-at-9-51-45-am.png"
 
 **24 Hours Long  
 November 19-20, 2020  
-Begins at 12:00 Noon UTC  
-**[simhp.com](https://simhp.com/ "https://simhp.com/")
+Begins at 12:00 Noon UTC**
+
+[simhp.com](https://simhp.com/ "https://simhp.com/")
 
 Join us for the third annual SA 24-hour web marathon with members from around the world sharing experience, strength and hope.  It’s like an international convention on your phone or computer. Last year over 1,200 SA members participated! Learn from fellow members, laugh together, make new friends and celebrate what our Higher Power is doing in our lives!
 

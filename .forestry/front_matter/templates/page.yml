@@ -8,5 +8,14 @@ fields:
 - type: text
   name: title
   label: title
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - simple-content
+  - cta-button
+  config:
+    min: 
+    max: 
 pages:
 - _src/for-newcomers2.md

@@ -8,7 +8,7 @@ date: 2020-09-11T10:00:00-06:00
 excerpt: Join us for the third annual SA 24-hour web marathon with members from around
   the world sharing experience, strength and hope.  It’s like an international convention
   on your phone or computer.
-image: "/uploads/screen-shot-2020-09-11-at-9-51-45-am.png"
+image: "/assets/screen-shot-2020-09-11-at-9-51-45-am.png"
 
 ---
 # Connecting the SA Fellowship Worldwide 

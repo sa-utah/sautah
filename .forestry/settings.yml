@@ -13,7 +13,7 @@ sections:
   path: _src
   label: Pages
   create: all
-  match: "**/*.njk"
+  match: "**/*.md"
 - type: document
   path: _src/meetings.njk
   label: Meeting List

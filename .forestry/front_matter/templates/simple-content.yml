@@ -11,3 +11,12 @@ fields:
     schema:
       format: markdown
   label: Content
+- name: footnotes
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Footnotes

@@ -9,6 +9,8 @@ sections:
   label: News
   create: all
   match: "**/*.md"
+  templates:
+  - news
 - type: directory
   path: _src
   label: Pages

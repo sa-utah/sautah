@@ -18,7 +18,7 @@ sections:
   match: "**/*.md"
   exclude: _src/news
 - type: document
-  path: _src/_data/meetings.njk
+  path: _src/_data/meetings.json
   label: Meeting List
 upload_dir: _src/assets
 public_path: "/assets"

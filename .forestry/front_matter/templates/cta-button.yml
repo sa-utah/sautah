@@ -2,7 +2,7 @@
 label: CTA Button
 hide_body: true
 fields:
-- name: button_title
+- name: section_title
   type: text
   config:
     required: false

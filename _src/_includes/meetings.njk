@@ -2,9 +2,6 @@
 layout: page
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
-pagination:
- data: meetings.locations
- size: 1000
 ---
 
 <div class="container-fluid">
@@ -13,7 +10,7 @@ pagination:
 highly recommend contacting the person listed for that meeting.</p>
     <p class="alert alert-info">Please note: unless noted as open, all meetings are closed (meaning only those seeking their own sexual sobriety, please).</p>
     <h2 class="h4 mt-5 text-uppercase">Locations</h2>
-    {%- for location in pagination.items %}
+    {%- for location in locations %}
       <a href="#{{ location.name | slug }}" class="btn btn-primary btn-sm d-inline-block mr-2 mb-2">
         {{ location.name }}
         <span class="badge badge-light">{{ location.meetings.length }}</span>
@@ -23,7 +20,7 @@ highly recommend contacting the person listed for that meeting.</p>
   </div>
   <div class="table-responsive">
     <table class="table meetings">
-      {%- for location in pagination.items %}
+      {%- for location in locations %}
       <thead class="thead-dark">
         <tr>
           <th id="{{ location.name | slug }}" scope="col" colspan="4">{{ location.name }}</th>

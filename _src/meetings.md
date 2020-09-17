@@ -513,6 +513,52 @@ meeting:
   notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
   city: ''
 meetings:
+- label: Intergroup Business
+  city: ''
+  day: Second Saturday
+  time_start: 10:30am
+  time_end: 11:30am
+  address: Online
+  notes: 'Meeting ID: 87288098212, Password: 535316, One tap mobile: +16699006833,,87288098212#,
+    (save as a contact in phone) (712) 770-4146,,,535316#'
+  contact_name: Tim B
+  contact_phone: 801-949-2978
+  contact_email: ''
+  contact_instructions: ''
+  link_url: https://tiny.cc/sautahzoom
+  link_text: ''
+  location: Online / Phone
+  name: ''
+- label: St George Monday
+  city: St. George
+  day: Monday
+  time_start: 7:30pm
+  time_end: 8:30pm
+  address: 694 S Main St
+  notes: ''
+  contact_name: Brandon
+  contact_phone: 702-375-5283
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Washington
+  name: ''
+- label: St George Thursday
+  city: St. George
+  day: Thursday
+  time_start: 6:30pm
+  time_end: 7:30pm
+  address: 559 North 1060 East
+  notes: Alano Club in the old Industrial Park
+  contact_name: Paul J
+  contact_phone: 435-749-9908
+  contact_email: ''
+  contact_instructions: Texts only please
+  link_url: ''
+  link_text: ''
+  location: Washington
+  name: ''
 - label: Provo Tuesday
   city: Provo
   day: Tuesday
@@ -527,6 +573,8 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: AF Tuesday
   city: American Fork
   day: Tuesday
@@ -541,6 +589,8 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Orem Wednesday
   city: Orem
   day: Wednesday
@@ -555,6 +605,8 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Lehi Wednesday
   city: Lehi
   day: Wednesday
@@ -568,6 +620,8 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Provo Thursday Center St
   city: Provo
   day: Thursday
@@ -582,6 +636,8 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Provo Thursday 200 North
   city: Provo
   day: Thursday
@@ -595,6 +651,8 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: Texts or voicemails preferred
+  contact_email: ''
+  link_text: ''
 - label: Provo Not a Glum Lot Friday
   city: Provo
   day: Friday
@@ -610,6 +668,8 @@ meetings:
   link_url: ''
   location: Utah
   name: Not a Glum Lot
+  contact_email: ''
+  link_text: ''
 - label: Provo Saturday 200 North
   city: Provo
   day: Saturday
@@ -624,6 +684,8 @@ meetings:
   link_url: ''
   location: Utah
   name: ''
+  contact_email: ''
+  link_text: ''
 - label: Provo Not a Glum Lot Saturday
   city: Provo
   day: Saturday
@@ -639,6 +701,8 @@ meetings:
   link_url: ''
   location: Utah
   name: " Not a Glum Lot"
+  contact_email: ''
+  link_text: ''
 - label: Orem Saturday
   city: Orem
   day: Saturday
@@ -654,6 +718,8 @@ meetings:
   link_url: "/assets/documents/WISAflyer.pdf"
   location: Utah
   name: Women's Only
+  contact_email: nevergiveup1977@hotmail.com
+  link_text: Informational Flyer
 - label: SA for Veterans
   city: ''
   day: Thursday
@@ -667,6 +733,8 @@ meetings:
   location: Online / Phone
   name: SA for Veterans
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Online Weekday IG
   day: Monday – Friday
   time_start: 12pm
@@ -680,6 +748,8 @@ meetings:
   city: ''
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Logan TBD
   city: Logan
   day: TBD
@@ -693,6 +763,8 @@ meetings:
   location: Cache
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Ogden Tuesday
   city: Ogden
   day: Tuesday
@@ -706,6 +778,8 @@ meetings:
   location: Davis & Weber
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Bountiful Primary Purpose Tuesday
   city: Bountiful
   day: Tuesday
@@ -719,6 +793,8 @@ meetings:
   location: Davis & Weber
   name: Bountiful Primary Purpose
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Bountiful Primary Purpose Thursday
   city: Bountiful
   day: Thursday
@@ -732,6 +808,8 @@ meetings:
   location: Davis & Weber
   name: Bountiful Primary Purpose
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Kaysville Thursday
   city: Kaysville
   day: Thursday
@@ -745,6 +823,8 @@ meetings:
   notes: White, barn-shaped building. Straight ahead at the top of the stairs
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Bountiful Primary Purpose Saturday
   city: Bountiful
   day: Saturday
@@ -758,6 +838,8 @@ meetings:
   notes: Newcomers welcome. Hope Room
   name: Bountiful Primary Purpose
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Kaysville Saturday
   city: Kaysville
   day: Saturday
@@ -771,6 +853,8 @@ meetings:
   notes: White, barn-shaped building. Straight ahead at the top of the stairs
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Cedar City Wednesday
   city: Cedar City
   day: Wednesday
@@ -784,6 +868,8 @@ meetings:
   notes: Go up the ramp in the back. First room on the right.
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Sandy Monday
   city: Sandy
   day: Monday
@@ -797,6 +883,8 @@ meetings:
   notes: Upstairs to suite 20
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Murray Monday
   city: Murray
   day: Monday
@@ -810,6 +898,8 @@ meetings:
   notes: Building 6, Room 2. Regular meeting for 40 minutes then meditate for 20 minutes
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Murray Tuesday
   city: Murray
   day: Tuesday
@@ -823,6 +913,8 @@ meetings:
   notes: Independence Hall (West building in square) Suite 304
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Sandy Tuesday
   city: Sandy
   day: Tuesday
@@ -836,6 +928,8 @@ meetings:
   notes: Upstairs to suite 20
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Millcreek Wednesday
   city: Millcreek
   day: Wednesday
@@ -849,6 +943,8 @@ meetings:
   location: Salt Lake
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Riverton Sobriety First Wednesday
   city: Riverton
   day: Wednesday
@@ -863,6 +959,8 @@ meetings:
     room.
   name: Sobriety First Group
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: SLC Thursday
   day: Thursday
   time_start: 7pm
@@ -877,6 +975,8 @@ meetings:
   notes: Step Study with all four texts. Education Center, Classroom G (second door
     on right).
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Sandy Thursday
   city: Sandy
   day: Thursday
@@ -890,6 +990,8 @@ meetings:
   location: Salt Lake
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Millcreek Friday
   city: Millcreek
   day: Friday
@@ -903,6 +1005,8 @@ meetings:
   name: ''
   notes: Enter through rear door
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: SLC Friday
   city: Salt Lake City
   day: Friday
@@ -916,6 +1020,8 @@ meetings:
   location: Salt Lake
   name: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Sandy Sobriety First Saturday
   city: Sandy
   day: Saturday
@@ -929,6 +1035,8 @@ meetings:
   name: Sobriety First Group
   notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Murray Saturday
   city: Murray
   day: Saturday
@@ -942,6 +1050,8 @@ meetings:
   address: 111 East 5600 South
   notes: Independence Hall (West building in square) Suite 304
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: SLC Work It Saturday
   city: Salt Lake City
   day: Saturday
@@ -957,6 +1067,8 @@ meetings:
     shoes. West main entrance, down hallway, turn left, central elevators up one floor.
     Turn right then into first hallway on left. End of hallway to second door on left.'
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: SLC Sunday
   city: Salt Lake City
   day: Sunday
@@ -972,6 +1084,8 @@ meetings:
     West main entrance, down hallway, turn left, central elevators up one floor. Turn
     right then into first hallway on left. End of hallway to second door on left.'
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Moab TBD
   city: Moab
   day: TBD
@@ -985,6 +1099,8 @@ meetings:
   name: ''
   notes: Interest, looking for others…
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Ephraim Tuesday
   city: Ephraim
   day: Tuesday
@@ -998,6 +1114,8 @@ meetings:
   name: ''
   notes: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 - label: Park City Tuesday
   city: Park City
   day: Tuesday
@@ -1011,5 +1129,7 @@ meetings:
   name: ''
   notes: ''
   contact_instructions: ''
+  contact_email: ''
+  link_text: ''
 
 ---

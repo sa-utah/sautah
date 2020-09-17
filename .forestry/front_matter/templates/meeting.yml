@@ -1,4 +1,61 @@
 ---
 label: Meeting
 hide_body: true
-fields: []
+fields:
+- name: meeting
+  type: field_group_list
+  fields:
+  - name: city
+    type: text
+    config:
+      required: false
+    label: City
+  - name: day
+    type: text
+    config:
+      required: true
+    label: Day
+  - name: time_start
+    type: text
+    config:
+      required: true
+    label: Start Time
+  - name: time_end
+    type: text
+    config:
+      required: true
+    label: End Time
+  - name: address
+    type: text
+    config:
+      required: true
+    label: Address
+  - name: notes
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Notes
+  - name: contact_name
+    type: text
+    config:
+      required: true
+    label: Contact Name
+  - name: contact_phone
+    type: text
+    config:
+      required: true
+    label: Contact Phone
+  - name: link_url
+    type: text
+    config:
+      required: false
+    label: Link URL
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Meeting

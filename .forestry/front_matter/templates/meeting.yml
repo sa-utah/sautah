@@ -83,10 +83,20 @@ fields:
         file: 
         path: 
     label: Location
+  - name: name
+    type: text
+    config:
+      required: false
+    label: Name
   config:
     min: 
     max: 
     labelField: label
   label: Meeting
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 pages:
 - _src/meetings.md

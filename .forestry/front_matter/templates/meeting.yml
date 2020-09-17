@@ -54,6 +54,29 @@ fields:
     config:
       required: false
     label: Link URL
+  - name: location
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+      - Online / Phone
+      - Cache
+      - Davis & Weber
+      - Iron
+      - Salt Lake
+      - San Juan
+      - Sanpete
+      - Summit
+      - Utah
+      - Washington
+      - Intergroup
+      source:
+        type: simple
+        section: meeting-list
+        file: 
+        path: 
+    label: Location
   config:
     min: 
     max: 

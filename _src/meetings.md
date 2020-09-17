@@ -513,6 +513,82 @@ meeting:
   notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
   city: ''
 meetings:
+- label: Provo Tuesday
+  city: Provo
+  day: Tuesday
+  time_start: 7am
+  time_end: 8am
+  address: 350 E Center St
+  notes: Through main doors, down the stairs, turn right down hallway, first door
+    to the left after restrooms.
+  contact_name: Kyler M
+  contact_phone: 385-204-8290
+  link_url: ''
+  location: Utah
+  name: ''
+- label: AF Tuesday
+  city: American Fork
+  day: Tuesday
+  time_start: 6pm
+  time_end: 7:30pm
+  address: 75 North 100 East
+  notes: Park in the back, enter through the brown door beneath the Community Presbyterian
+    Church sign, down the hall to classrooms 3 and 4 on the right.
+  contact_name: Zach P
+  contact_phone: 801-833-5719
+  link_url: ''
+  location: Utah
+  name: ''
+- label: Orem Wednesday
+  city: Orem
+  day: Wednesday
+  time_start: 6:30pm
+  time_end: 8pm
+  address: 1330 South 740 East
+  notes: Basement of the counseling center. Down stairs on right-hand side of building.
+    If it's locked, come in through main door and downstairs to the left.
+  contact_name: Ben F
+  contact_phone: 208-615-4778
+  link_url: ''
+  location: Utah
+  name: ''
+- label: Lehi Wednesday
+  city: Lehi
+  day: Wednesday
+  time_start: 6:30pm
+  time_end: 8pm
+  address: 55 W Main St
+  notes: Newcomers welcome. Enter from front of church building.
+  contact_name: Matt C
+  contact_phone: 208-863-5461
+  link_url: ''
+  location: Utah
+  name: ''
+- label: Provo Thursday Center St
+  city: Provo
+  day: Thursday
+  time_start: 7am
+  time_end: 8am
+  address: 350 E Center St
+  notes: Through main doors, down the stairs, turn right down hallway, first door
+    to the left after restrooms.
+  contact_name: Ben E
+  contact_phone: 385-201-8343
+  link_url: ''
+  location: Utah
+  name: ''
+- label: Provo Thursday 200 North
+  city: Provo
+  day: Thursday
+  time_start: 6:30pm
+  time_end: 7:45pm
+  address: 50 West 200 North
+  notes: Enter through west doors, up stairs in room at top of stairs.
+  contact_name: Spencer F
+  contact_phone: 801-358-4274
+  link_url: ''
+  location: Utah
+  name: ''
 - label: SA for Veterans
   city: ''
   day: Thursday
@@ -767,5 +843,81 @@ meetings:
   location: Salt Lake
   name: Sobriety First Group
   notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
+- label: Murray Saturday
+  city: Murray
+  day: Saturday
+  time_start: 7:30am
+  time_end: 8:30am
+  contact_name: Taylor Y
+  contact_phone: 801-413-3991
+  link_url: ''
+  location: Salt Lake
+  name: ''
+  address: 111 East 5600 South
+  notes: Independence Hall (West building in square) Suite 304
+- label: SLC Work It Saturday
+  city: Salt Lake City
+  day: Saturday
+  time_start: 8:30am
+  time_end: 9:30am
+  address: 428 C Street
+  contact_name: Jeff O
+  contact_phone: 801-358-8993
+  link_url: ''
+  location: Salt Lake
+  name: ''
+  notes: 'Education Center, Amicus Board Room. Dress code: shirt, pants, closed-toe
+    shoes. West main entrance, down hallway, turn left, central elevators up one floor.
+    Turn right then into first hallway on left. End of hallway to second door on left.'
+- label: SLC Sunday
+  city: Salt Lake City
+  day: Sunday
+  time_start: 6pm
+  time_end: 7pm
+  address: 428 C Street
+  contact_name: Damon G
+  contact_phone: 801-859-8774
+  link_url: ''
+  location: Salt Lake
+  name: ''
+  notes: 'Education Center, Classroom G. Dress code: shirt, pants, closed-toe shoes.
+    West main entrance, down hallway, turn left, central elevators up one floor. Turn
+    right then into first hallway on left. End of hallway to second door on left.'
+- label: Moab TBD
+  city: Moab
+  day: TBD
+  time_start: TBD
+  time_end: TBD
+  address: TBD
+  contact_name: Jason M
+  contact_phone: 928-925-2961
+  link_url: ''
+  location: San Juan
+  name: ''
+  notes: Interest, looking for others…
+- label: Ephraim Tuesday
+  city: Ephraim
+  day: Tuesday
+  time_start: 8pm
+  time_end: 9pm
+  address: 390 West 100 North
+  contact_name: Shane R
+  contact_phone: 801-884-8752
+  link_url: ''
+  location: Sanpete
+  name: ''
+  notes: ''
+- label: Park City Tuesday
+  city: Park City
+  day: Tuesday
+  time_start: 8pm
+  time_end: 9pm
+  address: 1283 Deer Valley Drive
+  contact_name: Jeff H
+  contact_phone: 713-480-7318
+  link_url: ''
+  location: Summit
+  name: ''
+  notes: ''
 
 ---

@@ -5,24 +5,6 @@
       "meetings": [
         {
           "city": "",
-          "name": "SA for Veterans",
-          "day": "Thursday",
-          "time": {
-            "start": "6:30pm",
-            "end": "7:30pm"
-          },
-          "address": "Online",
-          "notes": "For information, contact Matt S at 801-651-2183 or sa4veterans@gmail.com",
-          "contact": {
-            "name": "Matt S",
-            "phone": "801-651-2183"
-          },
-          "link": {
-            "url": "https://meet.google.com/wbf-nbat-dta"
-          }
-        },
-        {
-          "city": "",
           "name": "Zoom",
           "day": "Monday – Friday",
           "time": {
@@ -37,6 +19,24 @@
           },
           "link": {
             "url": "https://tiny.cc/sautahzoom"
+          }
+        },
+        {
+          "city": "",
+          "name": "SA for Veterans",
+          "day": "Thursday",
+          "time": {
+            "start": "6:30pm",
+            "end": "7:30pm"
+          },
+          "address": "Online",
+          "notes": "For information, contact Matt S at 801-651-2183 or sa4veterans@gmail.com",
+          "contact": {
+            "name": "Matt S",
+            "phone": "801-651-2183"
+          },
+          "link": {
+            "url": "https://meet.google.com/wbf-nbat-dta"
           }
         }
       ]

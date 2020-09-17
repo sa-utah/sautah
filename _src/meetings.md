@@ -500,7 +500,7 @@ locations:
       phone: 801-949-2978
     link:
       url: https://tiny.cc/sautahzoom
-meetings:
+meeting:
 - label: Online Weekday IG
   day: Monday – Friday
   time_start: 12pm
@@ -512,5 +512,183 @@ meetings:
   location: Online / Phone
   notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
   city: ''
+meetings:
+- label: Millcreek Wednesday
+  city: Millcreek
+  day: Wednesday
+  time_start: 6am
+  time_end: 7am
+  address: 248 East 3900 South
+  notes: Enter through rear door
+  contact_name: Cory A
+  contact_phone: 801-349-6575
+  link_url: ''
+  location: Salt Lake
+- label: SA for Veterans
+  city: ''
+  day: Thursday
+  time_start: 6:30pm
+  time_end: 7:30pm
+  address: Online
+  notes: For information, contact Matt S at 801-651-2183 or sa4veterans@gmail.com
+  contact_name: Matt S
+  contact_phone: 801-651-2183
+  link_url: https://meet.google.com/wbf-nbat-dta
+  location: Online / Phone
+- label: Online Weekday IG
+  day: Monday – Friday
+  time_start: 12pm
+  time_end: 1pm
+  address: Online
+  contact_name: TBD
+  contact_phone: TBD
+  link_url: https://tiny.cc/sautahzoom
+  location: Online / Phone
+  notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
+  city: ''
+- label: Logan TBD
+  city: Logan
+  day: TBD
+  time_start: TBD
+  time_end: TBD
+  address: TBD
+  notes: ''
+  contact_name: TBD
+  contact_phone: TBD
+  link_url: ''
+  location: Cache
+- label: Ogden Tuesday
+  city: Ogden
+  day: Tuesday
+  time_start: 12pm
+  time_end: 1pm
+  address: 2484 Washington Blvd
+  notes: '5th Floor Room 501 Door Code: 2002'
+  contact_name: Steve A
+  contact_phone: 385-519-5728
+  link_url: ''
+  location: Davis & Weber
+- label: Bountiful Primary Purpose Tuesday
+  city: Bountiful
+  day: Tuesday
+  time_start: 6am
+  time_end: 7am
+  address: 25 North 200 West
+  notes: Hope Room
+  contact_name: Scott S
+  contact_phone: 801-540-3913
+  link_url: ''
+  location: Davis & Weber
+- label: Bountiful Primary Purpose Thursday
+  city: Bountiful
+  day: Thursday
+  time_start: 6am
+  time_end: 7am
+  address: 25 North 200 West
+  notes: Hope Room
+  contact_name: Scott S
+  contact_phone: 801-540-3913
+  link_url: ''
+  location: Davis & Weber
+- label: Kaysville Thursday
+  city: Kaysville
+  day: Thursday
+  time_start: 12pm
+  time_end: 1pm
+  address: 521 Sportsplex Drive
+  contact_name: John H
+  contact_phone: 801-631-4883
+  link_url: ''
+  location: Davis & Weber
+  notes: White, barn-shaped building. Straight ahead at the top of the stairs
+- label: Bountiful Primary Purpose Saturday
+  city: Bountiful
+  day: Saturday
+  time_start: 7am
+  time_end: 8:30am
+  address: 25 North 200 West
+  contact_name: Derek T
+  contact_phone: 801-821-3135
+  link_url: ''
+  location: Davis & Weber
+  notes: Newcomers welcome. Hope Room
+- label: Kaysville Saturday
+  city: Kaysville
+  day: Saturday
+  time_end: 9:45am
+  address: 521 Sportsplex Drive
+  contact_name: John C
+  contact_phone: 801-706-9981
+  link_url: ''
+  location: Davis & Weber
+  time_start: 8:30am
+  notes: White, barn-shaped building. Straight ahead at the top of the stairs
+- label: Cedar City Wednesday
+  city: Cedar City
+  day: Wednesday
+  time_start: 6pm
+  address: 203 E. Cobble Creek Road
+  contact_name: Ben B
+  contact_phone: 435-592-3242
+  link_url: ''
+  location: Iron
+  time_end: 7pm
+  notes: Go up the ramp in the back. First room on the right.
+- label: Sandy Monday
+  city: Sandy
+  day: Monday
+  time_start: 12pm
+  time_end: 1pm
+  address: 9176 South 300 West
+  contact_name: Bob B
+  contact_phone: 801-893-2315
+  link_url: ''
+  location: Salt Lake
+  notes: Upstairs to suite 20
+- label: Murray Monday
+  city: Murray
+  day: Monday
+  time_start: 8pm
+  time_end: 9pm
+  address: 5121 Cottonwood Street
+  contact_name: Lincoln N
+  contact_phone: 801-638-0511
+  link_url: ''
+  location: Salt Lake
+  notes: Building 6, Room 2. Regular meeting for 40 minutes then meditate for 20 minutes
+- label: Murray Tuesday
+  city: Murray
+  day: Tuesday
+  time_start: 6pm
+  time_end: 7:20pm
+  address: 111 East 5600 South
+  contact_name: Chandler W
+  contact_phone: 812-447-9452
+  link_url: ''
+  location: Salt Lake
+  notes: Independence Hall (West building in square) Suite 304
+- label: Sandy Tuesday
+  city: Sandy
+  day: Tuesday
+  time_start: 7pm
+  time_end: 8pm
+  address: 9176 South 300 West
+  contact_name: Matt F
+  contact_phone: 801-613-1017
+  link_url: ''
+  location: Salt Lake
+  notes: Upstairs to suite 20
+- label: Riverton Wednesday
+  city: Riverton
+  day: Wednesday
+  time_start: 8pm
+  time_end: 9pm
+  address: Online only for now (11978 S. Redwood Rd)
+  contact_name: Jared P
+  contact_phone: 801-910-8291
+  link_url: https://tiny.cc/sasfphone
+  location: Salt Lake
+  notes: Topic Study. Enter through southwest door and follow signs to basement meeting
+    room.
 
 ---

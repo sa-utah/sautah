@@ -55,6 +55,11 @@ fields:
     config:
       required: true
     label: Contact Phone
+  - name: contact_instructions
+    type: text
+    config:
+      required: false
+    label: Contact Instructions
   - name: link_url
     type: text
     config:

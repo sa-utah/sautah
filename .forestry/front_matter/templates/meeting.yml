@@ -5,6 +5,12 @@ fields:
 - name: meeting
   type: field_group_list
   fields:
+  - name: label
+    type: text
+    config:
+      required: true
+    label: Label
+    description: Used in the Forestry UI
   - name: city
     type: text
     config:

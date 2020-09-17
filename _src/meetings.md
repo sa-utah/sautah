@@ -513,17 +513,6 @@ meeting:
   notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
   city: ''
 meetings:
-- label: Millcreek Wednesday
-  city: Millcreek
-  day: Wednesday
-  time_start: 6am
-  time_end: 7am
-  address: 248 East 3900 South
-  notes: Enter through rear door
-  contact_name: Cory A
-  contact_phone: 801-349-6575
-  link_url: ''
-  location: Salt Lake
 - label: SA for Veterans
   city: ''
   day: Thursday
@@ -535,6 +524,7 @@ meetings:
   contact_phone: 801-651-2183
   link_url: https://meet.google.com/wbf-nbat-dta
   location: Online / Phone
+  name: SA for Veterans
 - label: Online Weekday IG
   day: Monday – Friday
   time_start: 12pm
@@ -546,6 +536,7 @@ meetings:
   location: Online / Phone
   notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
   city: ''
+  name: ''
 - label: Logan TBD
   city: Logan
   day: TBD
@@ -557,6 +548,7 @@ meetings:
   contact_phone: TBD
   link_url: ''
   location: Cache
+  name: ''
 - label: Ogden Tuesday
   city: Ogden
   day: Tuesday
@@ -568,6 +560,7 @@ meetings:
   contact_phone: 385-519-5728
   link_url: ''
   location: Davis & Weber
+  name: ''
 - label: Bountiful Primary Purpose Tuesday
   city: Bountiful
   day: Tuesday
@@ -579,6 +572,7 @@ meetings:
   contact_phone: 801-540-3913
   link_url: ''
   location: Davis & Weber
+  name: Bountiful Primary Purpose
 - label: Bountiful Primary Purpose Thursday
   city: Bountiful
   day: Thursday
@@ -590,6 +584,7 @@ meetings:
   contact_phone: 801-540-3913
   link_url: ''
   location: Davis & Weber
+  name: Bountiful Primary Purpose
 - label: Kaysville Thursday
   city: Kaysville
   day: Thursday
@@ -601,6 +596,7 @@ meetings:
   link_url: ''
   location: Davis & Weber
   notes: White, barn-shaped building. Straight ahead at the top of the stairs
+  name: ''
 - label: Bountiful Primary Purpose Saturday
   city: Bountiful
   day: Saturday
@@ -612,6 +608,7 @@ meetings:
   link_url: ''
   location: Davis & Weber
   notes: Newcomers welcome. Hope Room
+  name: Bountiful Primary Purpose
 - label: Kaysville Saturday
   city: Kaysville
   day: Saturday
@@ -623,6 +620,7 @@ meetings:
   location: Davis & Weber
   time_start: 8:30am
   notes: White, barn-shaped building. Straight ahead at the top of the stairs
+  name: ''
 - label: Cedar City Wednesday
   city: Cedar City
   day: Wednesday
@@ -634,6 +632,7 @@ meetings:
   location: Iron
   time_end: 7pm
   notes: Go up the ramp in the back. First room on the right.
+  name: ''
 - label: Sandy Monday
   city: Sandy
   day: Monday
@@ -645,6 +644,7 @@ meetings:
   link_url: ''
   location: Salt Lake
   notes: Upstairs to suite 20
+  name: ''
 - label: Murray Monday
   city: Murray
   day: Monday
@@ -656,6 +656,7 @@ meetings:
   link_url: ''
   location: Salt Lake
   notes: Building 6, Room 2. Regular meeting for 40 minutes then meditate for 20 minutes
+  name: ''
 - label: Murray Tuesday
   city: Murray
   day: Tuesday
@@ -667,6 +668,7 @@ meetings:
   link_url: ''
   location: Salt Lake
   notes: Independence Hall (West building in square) Suite 304
+  name: ''
 - label: Sandy Tuesday
   city: Sandy
   day: Tuesday
@@ -678,7 +680,20 @@ meetings:
   link_url: ''
   location: Salt Lake
   notes: Upstairs to suite 20
-- label: Riverton Wednesday
+  name: ''
+- label: Millcreek Wednesday
+  city: Millcreek
+  day: Wednesday
+  time_start: 6am
+  time_end: 7am
+  address: 248 East 3900 South
+  notes: Enter through rear door
+  contact_name: Cory A
+  contact_phone: 801-349-6575
+  link_url: ''
+  location: Salt Lake
+  name: ''
+- label: Riverton Sobriety First Wednesday
   city: Riverton
   day: Wednesday
   time_start: 8pm
@@ -690,5 +705,67 @@ meetings:
   location: Salt Lake
   notes: Topic Study. Enter through southwest door and follow signs to basement meeting
     room.
+  name: Sobriety First Group
+- label: SLC Thursday
+  day: Thursday
+  time_start: 7pm
+  time_end: 8pm
+  address: 428 C Street
+  contact_name: Jerred B
+  contact_phone: 801-891-9009
+  link_url: ''
+  location: Salt Lake
+  name: ''
+  city: Salt Lake City
+  notes: Step Study with all four texts. Education Center, Classroom G (second door
+    on right).
+- label: Sandy Thursday
+  city: Sandy
+  day: Thursday
+  time_start: 7:30pm
+  time_end: 8:30pm
+  address: 9176 South 300 West
+  notes: Upstairs to suite 20
+  contact_name: Erik
+  contact_phone: 801-874-4553
+  link_url: ''
+  location: Salt Lake
+  name: ''
+- label: Millcreek Friday
+  city: Millcreek
+  day: Friday
+  time_start: 6:30am
+  time_end: 7:30am
+  address: 248 East 3900 South
+  contact_name: Cory A
+  contact_phone: 801-895-3708
+  link_url: ''
+  location: Salt Lake
+  name: ''
+  notes: Enter through rear door
+- label: SLC Friday
+  city: Salt Lake City
+  day: Friday
+  time_start: 12pm
+  time_end: 12:45pm
+  address: 231 East 100 South
+  notes: Enter through south doors, upstairs, room on the right.
+  contact_name: Scott P
+  contact_phone: 808-285-5066
+  link_url: ''
+  location: Salt Lake
+  name: ''
+- label: Sandy Sobriety First Saturday
+  city: Sandy
+  day: Saturday
+  time_start: 7am
+  time_end: 8am
+  address: Online only for now (2015 East Newcastle Drive)
+  contact_name: Nic J
+  contact_phone: 801-602-5787
+  link_url: https://tiny.cc/sasfphone
+  location: Salt Lake
+  name: Sobriety First Group
+  notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
 
 ---

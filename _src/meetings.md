@@ -500,7 +500,7 @@ locations:
       phone: 801-949-2978
     link:
       url: https://tiny.cc/sautahzoom
-meeting:
+meetings:
 - label: Online Weekday IG
   day: Monday – Friday
   time_start: 12pm

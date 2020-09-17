@@ -88,3 +88,5 @@ fields:
     max: 
     labelField: label
   label: Meeting
+pages:
+- _src/meetings.md

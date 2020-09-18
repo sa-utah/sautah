@@ -1,8 +1,8 @@
 ---
 layout: page
-metaTitle: Sexaholics Anonymous Meetings in Utah
-title: Meetings & Groups
 ---
+{% set meetingLocations = meetings | meetingLocations %}
+{# <pre>{{ meetingLocations | dump(2) }}</pre> #}
 
 <div class="container-fluid">
   <div class="mb-5 text-center">
@@ -10,7 +10,7 @@ title: Meetings & Groups
 highly recommend contacting the person listed for that meeting.</p>
     <p class="alert alert-info">Please note: unless noted as open, all meetings are closed (meaning only those seeking their own sexual sobriety, please).</p>
     <h2 class="h4 mt-5 text-uppercase">Locations</h2>
-    {%- for location in locations %}
+    {%- for location in meetingLocations %}
       <a href="#{{ location.name | slug }}" class="btn btn-primary btn-sm d-inline-block mr-2 mb-2">
         {{ location.name }}
         <span class="badge badge-light">{{ location.meetings.length }}</span>
@@ -20,7 +20,7 @@ highly recommend contacting the person listed for that meeting.</p>
   </div>
   <div class="table-responsive">
     <table class="table meetings">
-      {%- for location in locations %}
+      {%- for location in meetingLocations %}
       <thead class="thead-dark">
         <tr>
           <th id="{{ location.name | slug }}" scope="col" colspan="4">{{ location.name }}</th>
@@ -31,21 +31,21 @@ highly recommend contacting the person listed for that meeting.</p>
         <tr>
           <th class="meetings-time" scope="row">
             {{ meeting.day }}<br>
-            <span class="font-weight-normal">{{ meeting.time.start }} – {{ meeting.time.end }}</span>
+            <span class="font-weight-normal">{{ meeting.time_start }} – {{ meeting.time_end }}</span>
           </th>
           <td class="meetings-location">
             {{ meeting.address }}<br>
             <span class="font-weight-bold">{{ meeting.city }}</span>
           </td>
           <td class="meetings-contact">
-            {{ meeting.contact.name }}<br>
-            <a href="tel:{{ meeting.contact.phone }}" class="text-nowrap">{{ meeting.contact.phone }}</a><br>
-            {% if meeting.contact.email %}<a href="mailto:{{ meeting.contact.email }}" class="text-nowrap">{{ meeting.contact.email }}</a>{% endif %}
-            {% if meeting.contact.instructions %}<span class="font-weight-light">{{ meeting.contact.instructions }}</span>{% endif %}
+            {{ meeting.contact_name }}<br>
+            <a href="tel:{{ meeting.contact_phone }}" class="text-nowrap">{{ meeting.contact_phone }}</a><br>
+            {% if meeting.contact_email %}<a href="mailto:{{ meeting.contact_email }}" class="text-nowrap">{{ meeting.contact_email }}</a>{% endif %}
+            {% if meeting.contact_instructions %}<span class="font-weight-light">{{ meeting.contact_instructions }}</span>{% endif %}
           </td>
           <td class="meetings-notes">
             {% if meeting.name %}{{ meeting.name }}<br>{% endif %}
-            {% if meeting.link %}<a href="{{ meeting.link.url }}">{{ meeting.link.text if meeting.link.text else meeting.link.url }}</a><br>{% endif %}
+            {% if meeting.link_url %}<a href="{{ meeting.link_url }}">{{ meeting.link_text if meeting.link_text else meeting.link_url }}</a><br>{% endif %}
             <span class="font-weight-light">{{ meeting.notes }}</span>
           </td>
         </tr>

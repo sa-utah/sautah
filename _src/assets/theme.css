@@ -29,6 +29,10 @@ h1, h2, h3 {
   margin-bottom: -3rem;
 }
 
+.container img {
+  max-width: 100%;
+}
+
 .parallax {
   background-size: cover;
   background-position: center center;

@@ -17,8 +17,6 @@ module.exports = function(eleventyConfig) {
 
     locations = sortObject(locations);
     
-    console.log(locations);
-
     locations = Object.keys(locations).map(k => {
       return { name: k } 
     });

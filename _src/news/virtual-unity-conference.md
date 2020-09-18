@@ -15,9 +15,11 @@ image: "/assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg"
 
 ### October 24, 2020
 
+![](/assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg)
+
 **Program Outline**:  The attached Program Outline shows the activities that are available and the time for each activity.
 
-“Pick-and-Choose”:  The online nature of our Unity Conference has allowed the committee to create an incredibly full and rich schedule of activities.  There is no expectation that you will engage in every activity.  Please ‘pick-and-choose’ the activities in which you want to participate. “…take what you need and leave the rest…” 
+“Pick-and-Choose”:  The online nature of our Unity Conference has allowed the committee to create an incredibly full and rich schedule of activities.  There is no expectation that you will engage in every activity.  Please ‘pick-and-choose’ the activities in which you want to participate. “…take what you need and leave the rest…”
 
 **Speakers**:  We are blessed with having a good variety of experienced SA and S-Anon speakers, some of whom are from out of our area.
 

@@ -193,23 +193,6 @@ meetings:
   name: " Not a Glum Lot"
   contact_email: ''
   link_text: ''
-- label: Orem Saturday
-  city: Orem
-  day: Saturday
-  time_start: 9am
-  time_end: 10:30am
-  address: 1330 South 740 East
-  notes: Held downstairs, enter stairs on right side of building. Door remains locked
-    for safety and security purposes. Please knock for entrance if the door is not
-    open.
-  contact_name: Sandy C
-  contact_phone: 385-535-2651
-  contact_instructions: ''
-  link_url: "/assets/documents/WISAflyer.pdf"
-  location: Utah
-  name: Women's Only
-  contact_email: nevergiveup1977@hotmail.com
-  link_text: Informational Flyer
 - label: SA for Veterans
   city: ''
   day: Thursday

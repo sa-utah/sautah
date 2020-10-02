@@ -199,10 +199,11 @@ meetings:
   time_start: 6:30pm
   time_end: 7:30pm
   address: Online
-  notes: For information, contact Matt S at 801-651-2183 or sa4veterans@gmail.com
+  notes: For meeting information including the Zoom link, contact Matt S at 801-651-2183
+    or sa4veterans@gmail.com
   contact_name: Matt S
   contact_phone: 801-651-2183
-  link_url: https://meet.google.com/wbf-nbat-dta
+  link_url: ''
   location: Online / Phone
   name: SA for Veterans
   contact_instructions: ''

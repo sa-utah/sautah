@@ -305,8 +305,8 @@ meetings:
   time_start: 7am
   time_end: 8:30am
   address: 25 North 200 West
-  contact_name: Derek T
-  contact_phone: 801-821-3135
+  contact_name: Kyle K
+  contact_phone: 801-499-6845
   link_url: ''
   location: Davis & Weber
   notes: Newcomers welcome. Hope Room

@@ -410,15 +410,19 @@ meetings:
   time_start: 6am
   time_end: 7am
   address: 248 East 3900 South
-  notes: Enter through rear door
+  notes: |-
+    Meeting ID: 823 5032 4722
+    Passcode: join
+
+    Due to the impending destruction of our meeting place and in light of COVID-19 we have created a Zoom meeting for those who wish to join us remotely.
   contact_name: Cory A
   contact_phone: 801-349-6575
-  link_url: ''
+  link_url: https://us05web.zoom.us/j/82350324722?pwd=cFo1SjNNL2IzZEIzUVpwYzFwbEx0UT09
   location: Salt Lake
   name: ''
   contact_instructions: ''
   contact_email: ''
-  link_text: ''
+  link_text: Zoom Meeting
 - label: Riverton Sobriety First Wednesday
   city: Riverton
   day: Wednesday

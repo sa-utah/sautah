@@ -471,17 +471,18 @@ meetings:
   contact_email: ''
   link_text: ''
 - label: Millcreek Friday
-  city: Millcreek
+  city: Salt Lake City
   day: Friday
   time_start: 6:30am
   time_end: 7:30am
-  address: 248 East 3900 South
-  contact_name: Cory A
+  address: 111 E 5600 S, Unit 304
+  contact_name: Chris
   contact_phone: 801-895-3708
   link_url: ''
   location: Salt Lake
   name: ''
-  notes: Enter through rear door
+  notes: Connections Counseling Services, northeast entrance, door to the right of
+    304
   contact_instructions: ''
   contact_email: ''
   link_text: ''

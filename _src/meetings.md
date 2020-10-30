@@ -416,7 +416,7 @@ meetings:
 
     Due to the impending destruction of our meeting place and in light of COVID-19 we have created a Zoom meeting for those who wish to join us remotely.
   contact_name: Cory A
-  contact_phone: 801-349-6575
+  contact_phone: 385-419-0253‬
   link_url: https://us05web.zoom.us/j/82350324722?pwd=cFo1SjNNL2IzZEIzUVpwYzFwbEx0UT09
   location: Salt Lake
   name: ''

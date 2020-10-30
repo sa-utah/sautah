@@ -23,5 +23,6 @@ fields:
   default: []
   label: Tags
 pages:
+- _src/news/gratitude-day-vii-capital-area-sa.md
 - _src/news/sa-internet-marathon.md
 - _src/news/virtual-unity-conference.md

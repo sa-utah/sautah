@@ -478,11 +478,12 @@ meetings:
   address: 111 E 5600 S, Unit 304
   contact_name: Chris
   contact_phone: 801-895-3708
-  link_url: ''
+  link_url: https://meet.google.com/xuh-ssyx-mbd
   location: Salt Lake
   name: ''
-  notes: Connections Counseling Services, northeast entrance, door to the right of
-    304
+  notes: While in-person attendance is preferred, due to the current COVID crisis
+    we have created a Google Meet meeting for those who wish to join remotely. Connections
+    Counseling Services, northeast entrance, door to the right of 304
   contact_instructions: ''
   contact_email: ''
   link_text: ''

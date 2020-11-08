@@ -1,0 +1,41 @@
+---
+label: Contact
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: metaTitle
+  label: metaTitle
+- type: text
+  name: title
+  label: title
+- type: text
+  name: lead
+  label: lead
+- type: field_group
+  name: org
+  label: org
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: email
+    label: email
+  - type: text
+    name: phone
+    label: phone
+  - type: text
+    name: address
+    label: address
+  - type: text
+    name: city
+    label: city
+  - type: text
+    name: state
+    label: state
+  - type: text
+    name: zip
+    label: zip

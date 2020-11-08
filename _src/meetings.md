@@ -135,12 +135,12 @@ meetings:
   time_end: 7:45pm
   address: 50 West 200 North
   notes: Enter through west doors, up stairs in room at top of stairs.
-  contact_name: Spencer F
-  contact_phone: 801-358-4274
+  contact_name: Spencer
+  contact_phone: 801-822-9799
   link_url: ''
   location: Utah
   name: ''
-  contact_instructions: Texts or voicemails preferred
+  contact_instructions: ''
   contact_email: ''
   link_text: ''
 - label: Provo Not a Glum Lot Friday

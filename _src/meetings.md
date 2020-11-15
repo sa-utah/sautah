@@ -3,6 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Divorced Dads
+  city: Pleasant Grove
+  day: Monday
+  time_start: 6:15pm
+  time_end: 7:15pm
+  address: 2436 W 450 S
+  notes: Enter east side of the building, follow the sign to the right
+  contact_name: Danny P
+  contact_phone: 435-778-2092
+  contact_email: ''
+  contact_instructions: ''
+  link_url: https://uetn-org.zoom.us/j/87366561529?pwd=ZVg5RU5YQ2RubFJzRG5kcjd1NVdpZz09
+  link_text: ''
+  location: Utah
+  name: Divorced or Separated Dads Group
 - label: Intergroup Business
   city: ''
   day: Second Saturday

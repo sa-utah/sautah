@@ -17,7 +17,7 @@ meetings:
   link_url: https://uetn-org.zoom.us/j/87366561529?pwd=ZVg5RU5YQ2RubFJzRG5kcjd1NVdpZz09
   link_text: ''
   location: Utah
-  name: Divorced or Separated Dads Group
+  name: Divorced or Separated Dads SA Group – DDSA
 - label: Intergroup Business
   city: ''
   day: Second Saturday

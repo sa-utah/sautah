@@ -229,8 +229,8 @@ meetings:
   time_start: 12pm
   time_end: 1pm
   address: Online
-  contact_name: TBD
-  contact_phone: TBD
+  contact_name: Tim B
+  contact_phone: 801-949-2978‬
   link_url: https://tiny.cc/sautahzoom
   location: Online / Phone
   notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'

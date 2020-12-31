@@ -444,8 +444,8 @@ meetings:
   time_start: 8pm
   time_end: 9pm
   address: Online only for now (11978 S. Redwood Rd)
-  contact_name: Jared P
-  contact_phone: 801-910-8291
+  contact_name: Nic J
+  contact_phone: 801-602-5787
   link_url: https://tiny.cc/sasfphone
   location: Salt Lake
   notes: Topic Study. Enter through southwest door and follow signs to basement meeting

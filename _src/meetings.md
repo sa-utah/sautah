@@ -86,10 +86,10 @@ meetings:
   time_start: 6pm
   time_end: 7:30pm
   address: 75 North 100 East
-  notes: Park in the back, enter through the brown door beneath the Community Presbyterian
-    Church sign, down the hall to classrooms 3 and 4 on the right.
-  contact_name: Zach P
-  contact_phone: 801-833-5719
+  notes: Park in the back, enter through the white door beneath the sign that says
+    Community Presbyterian Church. Go down the hall to the main room on your left.
+  contact_name: Kevin
+  contact_phone: 208-340-5454
   link_url: ''
   location: Utah
   name: ''

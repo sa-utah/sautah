@@ -374,21 +374,6 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Murray Monday
-  city: Murray
-  day: Monday
-  time_start: 8pm
-  time_end: 9pm
-  address: 5121 Cottonwood Street
-  contact_name: Lincoln N
-  contact_phone: 801-638-0511
-  link_url: ''
-  location: Salt Lake
-  notes: Building 6, Room 2. Regular meeting for 40 minutes then meditate for 20 minutes
-  name: ''
-  contact_instructions: ''
-  contact_email: ''
-  link_text: ''
 - label: Murray Tuesday
   city: Murray
   day: Tuesday

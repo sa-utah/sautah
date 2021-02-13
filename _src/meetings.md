@@ -119,9 +119,9 @@ meetings:
   time_end: 8pm
   address: 55 W Main St
   notes: Newcomers welcome. Enter from front of church building.
-  contact_name: Matt C
-  contact_phone: 208-863-5461
-  link_url: ''
+  contact_name: Reed H
+  contact_phone: 801-301-0491
+  link_url: https://us02web.zoom.us/j/4056659951
   location: Utah
   name: ''
   contact_instructions: ''

@@ -234,8 +234,8 @@ meetings:
   contact_phone: 203-375-0064
   contact_email: ''
   contact_instructions: ''
-  link_url: ''
-  link_text: ''
+  link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
+  link_text: Zoom Info
   location: Online / Phone
   name: ''
 - label: SA for Veterans
@@ -265,8 +265,8 @@ meetings:
   contact_phone: 203-375-0064
   contact_email: ''
   contact_instructions: ''
-  link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
-  link_text: Zoom Link
+  link_url: ''
+  link_text: ''
   location: Online / Phone
   name: ''
 - label: Logan TBD

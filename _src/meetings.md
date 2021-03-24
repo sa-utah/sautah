@@ -235,7 +235,7 @@ meetings:
   contact_email: ''
   contact_instructions: ''
   link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
-  link_text: Zoom Info
+  link_text: Zoom Link
   location: Online / Phone
   name: ''
 - label: SA for Veterans

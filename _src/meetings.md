@@ -208,6 +208,36 @@ meetings:
   name: " Not a Glum Lot"
   contact_email: ''
   link_text: ''
+- label: Online Weekday IG
+  day: Monday – Friday
+  time_start: 12pm
+  time_end: 1pm
+  address: Online
+  contact_name: Tim B
+  contact_phone: 801-949-2978‬
+  link_url: https://tiny.cc/sautahzoom
+  location: Online / Phone
+  notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
+  city: ''
+  name: ''
+  contact_instructions: ''
+  contact_email: ''
+  link_text: ''
+- label: Zoom Wednesday
+  city: ''
+  day: Wednesday
+  time_start: 12pm
+  time_end: 1pm
+  address: Online
+  notes: ''
+  contact_name: Michael S
+  contact_phone: N/A
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Online / Phone
+  name: ''
 - label: SA for Veterans
   city: ''
   day: Thursday
@@ -224,21 +254,21 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Online Weekday IG
-  day: Monday – Friday
-  time_start: 12pm
-  time_end: 1pm
-  address: Online
-  contact_name: Tim B
-  contact_phone: 801-949-2978‬
-  link_url: https://tiny.cc/sautahzoom
-  location: Online / Phone
-  notes: 'Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#'
+- label: Zoom Saturday
   city: ''
-  name: ''
-  contact_instructions: ''
+  day: Saturday
+  time_start: 8am
+  time_end: 9am
+  address: Online
+  notes: ''
+  contact_name: Michael S
+  contact_phone: N/A
   contact_email: ''
-  link_text: ''
+  contact_instructions: ''
+  link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
+  link_text: Zoom Link
+  location: Online / Phone
+  name: ''
 - label: Logan TBD
   city: Logan
   day: TBD

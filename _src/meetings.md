@@ -231,7 +231,7 @@ meetings:
   address: Online
   notes: ''
   contact_name: Michael S
-  contact_phone: N/A
+  contact_phone: 203-375-0064
   contact_email: ''
   contact_instructions: ''
   link_url: ''
@@ -262,7 +262,7 @@ meetings:
   address: Online
   notes: ''
   contact_name: Michael S
-  contact_phone: N/A
+  contact_phone: 203-375-0064
   contact_email: ''
   contact_instructions: ''
   link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09

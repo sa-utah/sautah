@@ -468,7 +468,7 @@ meetings:
   name: Sobriety First Group
   contact_instructions: ''
   contact_email: ''
-  link_text: ''
+  link_text: Zoom Info
 - label: SLC Thursday
   day: Thursday
   time_start: 7pm
@@ -546,7 +546,7 @@ meetings:
   notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
   contact_instructions: ''
   contact_email: ''
-  link_text: ''
+  link_text: Zoom Info
 - label: Murray Saturday
   city: Murray
   day: Saturday

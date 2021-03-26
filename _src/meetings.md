@@ -12,7 +12,7 @@ meetings:
   notes: Closed meeting. Women's only please.
   location: Utah
   contact_name: Kristine
-  contact_phone: TBD
+  contact_phone: 740-338-4062
   contact_email: ''
   contact_instructions: ''
   link_url: ''

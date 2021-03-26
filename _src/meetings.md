@@ -9,7 +9,7 @@ meetings:
   time_start: 6pm
   time_end: 7pm
   address: Please call for address
-  notes: Closed meeting. Women's only please.
+  notes: Closed meeting.
   location: Utah
   contact_name: Kristine
   contact_phone: 740-338-4062

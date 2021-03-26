@@ -475,7 +475,7 @@ meetings:
   time_end: 9pm
   address: Online only for now (11978 S. Redwood Rd)
   contact_name: Nic J
-  contact_phone: 801-602-5787
+  contact_phone: "‪435-494-1216‬"
   link_url: https://tiny.cc/sasfphone
   location: Salt Lake
   notes: Topic Study. Enter through southwest door and follow signs to basement meeting
@@ -554,7 +554,7 @@ meetings:
   time_end: 8am
   address: Online only for now (2015 East Newcastle Drive)
   contact_name: Nic J
-  contact_phone: 801-602-5787
+  contact_phone: 435-494-1216‬
   link_url: https://tiny.cc/sasfphone
   location: Salt Lake
   name: Sobriety First Group

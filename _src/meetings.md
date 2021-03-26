@@ -12,7 +12,7 @@ meetings:
   notes: Closed meeting. Women's only please.
   location: Utah
   contact_name: Kristine
-  contact_phone: 801-687-1689
+  contact_phone: TBD
   contact_email: ''
   contact_instructions: ''
   link_url: ''

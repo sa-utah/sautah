@@ -583,17 +583,18 @@ meetings:
   time_start: 8:30am
   time_end: 9:30am
   address: 428 C Street
-  contact_name: Jeff O
-  contact_phone: 801-358-8993
-  link_url: ''
+  contact_name: Tim B
+  contact_phone: 801-949-2978
+  link_url: https://us02web.zoom.us/j/86238197798?pwd=OTA2ZmY5YUVzcURMRllId3JyRVliZz09
   location: Salt Lake
-  name: ''
-  notes: 'Education Center, Amicus Board Room. Dress code: shirt, pants, closed-toe
-    shoes. West main entrance, down hallway, turn left, central elevators up one floor.
-    Turn right then into first hallway on left. End of hallway to second door on left.'
+  name: Work It
+  notes: |-
+    Currently online only.
+
+    Education Center, Amicus Board Room. Dress code: shirt, pants, closed-toe shoes. West main entrance, down hallway, turn left, central elevators up one floor. Turn right then into first hallway on left. End of hallway to second door on left.
   contact_instructions: ''
   contact_email: ''
-  link_text: ''
+  link_text: Zoom Link
 - label: SLC Sunday
   city: Salt Lake City
   day: Sunday

@@ -280,8 +280,8 @@ meetings:
   contact_phone: 203-375-0064
   contact_email: ''
   contact_instructions: ''
-  link_url: ''
-  link_text: ''
+  link_url: https://us05web.zoom.us/j/81259256918?pwd=dFVDREVlNzFPTEhsUy96bWN0dU5UZz09
+  link_text: Zoom Link
   location: Online / Phone
   name: ''
 - label: Logan TBD

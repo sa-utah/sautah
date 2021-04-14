@@ -253,22 +253,6 @@ meetings:
   link_text: Zoom Link
   location: Online / Phone
   name: ''
-- label: SA for Veterans
-  city: ''
-  day: Thursday
-  time_start: 6:30pm
-  time_end: 7:30pm
-  address: Online
-  notes: For meeting information including the Zoom link, contact Matt S at 801-651-2183
-    or sa4veterans@gmail.com
-  contact_name: Matt S
-  contact_phone: 801-651-2183
-  link_url: ''
-  location: Online / Phone
-  name: SA for Veterans
-  contact_instructions: ''
-  contact_email: ''
-  link_text: ''
 - label: Zoom Saturday
   city: ''
   day: Saturday

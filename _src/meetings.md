@@ -491,8 +491,8 @@ meetings:
   time_end: 8:30pm
   address: 9176 South 300 West
   notes: Upstairs to suite 20
-  contact_name: Erik
-  contact_phone: 801-874-4553
+  contact_name: Tony
+  contact_phone: 801-584-9320
   link_url: ''
   location: Salt Lake
   name: ''

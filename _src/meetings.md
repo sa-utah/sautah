@@ -3,21 +3,6 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
-- label: Women's only Monday
-  city: American Fork
-  day: Monday
-  time_start: 6pm
-  time_end: 7pm
-  address: Please call for address
-  notes: Closed meeting.
-  location: Utah
-  contact_name: Kristine
-  contact_phone: 740-338-4062
-  contact_email: ''
-  contact_instructions: ''
-  link_url: ''
-  link_text: ''
-  name: Women's Only Group
 - label: Divorced Dads
   city: Pleasant Grove
   day: Monday

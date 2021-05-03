@@ -186,7 +186,7 @@ meetings:
   contact_name: Josh H
   contact_phone: 801-319-0694
   contact_instructions: ''
-  link_url: https://us02web.zoom.us/j/88242502108
+  link_url: ''
   location: Utah
   name: ''
   contact_email: ''

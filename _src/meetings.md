@@ -121,7 +121,7 @@ meetings:
   notes: Newcomers welcome. Enter from front of church building.
   contact_name: Ryan O
   contact_phone: 408-387-3436
-  link_url: https://us02web.zoom.us/j/4056659951
+  link_url: https://purestorage.zoom.us/j/95390524547?pwd=eHNCOTU3MEhaVUJTb2V2ZHN4Wkt4QT09
   location: Utah
   name: ''
   contact_instructions: ''

@@ -2,7 +2,7 @@
 tags:
 - news
 title: Gratitude Day VII (Capital Area SA)
-date: 
+date: 2020-11-01T06:00:00Z
 excerpt: There will be speakers from several SA regions in North America but all members
   of SA are welcome. We welcome you virtually to the Greater Washington, DC area marathon.
   We have registrants from more than ten countries signed up. And there's a little

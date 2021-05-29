@@ -3,6 +3,23 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Sobriety First Tuesday Zoom Meeting
+  city: ''
+  day: Tuesday
+  time_start: 8:00 PM
+  time_end: 9:00 PM
+  address: Online
+  notes: "A standing Zoom meeting sponsored by the Sobriety First group.\n\nDial in
+    by phone: 669-900-6833 or 346-248-7799\nMeeting ID: 613 980 2805 \nTo mute/unmute:
+    *6\nTo raise your hand: *9\n\n"
+  contact_name: Ben T
+  contact_phone: "-"
+  contact_email: dusty8343@gmail.com
+  contact_instructions: Email contact only please
+  link_url: https://zoom.us/j/6139802805
+  link_text: Zoom Link
+  location: Online / Phone
+  name: Sobriety First
 - label: Divorced Dads
   city: Pleasant Grove
   day: Monday

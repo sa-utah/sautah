@@ -521,13 +521,14 @@ meetings:
   day: Saturday
   time_start: 7am
   time_end: 8am
-  address: 2015 East Newcastle Drive (Back to in-person only)
+  address: 2015 East Newcastle Drive
   contact_name: Nic J
   contact_phone: 435-494-1216‬
   link_url: ''
   location: Salt Lake
   name: Sobriety First Group
-  notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
+  notes: Now back to in-person only. Step Study. Enter Church using classroom entrance,
+    then to classroom 1B
   contact_instructions: ''
   contact_email: ''
   link_text: ''

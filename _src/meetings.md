@@ -521,16 +521,16 @@ meetings:
   day: Saturday
   time_start: 7am
   time_end: 8am
-  address: Online only for now (2015 East Newcastle Drive)
+  address: 2015 East Newcastle Drive (Back to in-person only)
   contact_name: Nic J
   contact_phone: 435-494-1216‬
-  link_url: https://tiny.cc/sasfphone
+  link_url: ''
   location: Salt Lake
   name: Sobriety First Group
   notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
   contact_instructions: ''
   contact_email: ''
-  link_text: Zoom Info
+  link_text: ''
 - label: Murray Saturday
   city: Murray
   day: Saturday

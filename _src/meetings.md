@@ -442,17 +442,17 @@ meetings:
   day: Wednesday
   time_start: 8pm
   time_end: 9pm
-  address: Online only for now (11978 S. Redwood Rd)
+  address: 11978 S. Redwood Rd (Back to In-Person Only)
   contact_name: Nic J
   contact_phone: "‪435-494-1216‬"
-  link_url: https://tiny.cc/sasfphone
+  link_url: ''
   location: Salt Lake
   notes: Topic Study. Enter through southwest door and follow signs to basement meeting
     room.
   name: Sobriety First Group
   contact_instructions: ''
   contact_email: ''
-  link_text: Zoom Info
+  link_text: ''
 - label: SLC Thursday
   day: Thursday
   time_start: 7pm

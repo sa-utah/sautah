@@ -445,7 +445,7 @@ meetings:
   day: Wednesday
   time_start: 8pm
   time_end: 9pm
-  address: Online only for now (11978 S. Redwood Rd)
+  address: 11978 S. Redwood Rd
   contact_name: Nic J
   contact_phone: "‪435-494-1216‬"
   link_url: https://tiny.cc/sasfphone
@@ -524,7 +524,7 @@ meetings:
   day: Saturday
   time_start: 7am
   time_end: 8am
-  address: Online only for now (2015 East Newcastle Drive)
+  address: 2015 East Newcastle Drive
   contact_name: Nic J
   contact_phone: 435-494-1216‬
   link_url: https://tiny.cc/sasfphone

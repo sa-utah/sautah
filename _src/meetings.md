@@ -255,21 +255,21 @@ meetings:
   link_text: Zoom Link
   location: Online / Phone
   name: Open & Honest
-- label: Zoom Saturday
-  city: ''
+- label: AF Saturday Meeting -Open & Honest Group
+  city: American Fork
   day: Saturday
   time_start: 8am
   time_end: 9am
-  address: Online
-  notes: ''
-  contact_name: Michael S
-  contact_phone: 203-375-0064
+  address: 765 East 340 South Suite 240 American Fork, UT 84003
+  notes: Saturday morning meeting for the Open & Honest Group
+  contact_name: Matt P
+  contact_phone: "(801) 828-8459"
   contact_email: ''
   contact_instructions: ''
-  link_url: https://us05web.zoom.us/j/81259256918?pwd=dFVDREVlNzFPTEhsUy96bWN0dU5UZz09
-  link_text: Zoom Link
-  location: Online / Phone
-  name: ''
+  link_url: ''
+  link_text: ''
+  location: Utah
+  name: Open & Honest
 - label: Logan TBD
   city: Logan
   day: TBD

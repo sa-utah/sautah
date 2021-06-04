@@ -254,7 +254,7 @@ meetings:
   link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
   link_text: Zoom Link
   location: Online / Phone
-  name: ''
+  name: Open & Honest
 - label: Zoom Saturday
   city: ''
   day: Saturday

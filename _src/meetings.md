@@ -243,8 +243,8 @@ meetings:
 - label: Zoom Wednesday
   city: ''
   day: Wednesday
-  time_start: 12pm
-  time_end: 1pm
+  time_start: 8pm
+  time_end: 9pm
   address: Online
   notes: ''
   contact_name: Michael S

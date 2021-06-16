@@ -3,6 +3,23 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Sobriety First Tuesday Zoom Meeting
+  city: ''
+  day: Tuesda
+  time_start: 8:00 PM
+  time_end: 9:00 PM
+  address: Online
+  notes: "A standing Zoom meeting sponsored by the Sobriety First group.\n\nDial in
+    by phone: 669-900-6833 or 346-248-7799\nMeeting ID: 613 980 2805 \nTo mute/unmute:
+    *6\nTo raise your hand: *9\n\n"
+  contact_name: Ben T
+  contact_phone: "-"
+  contact_email: dusty8343@gmail.com
+  contact_instructions: Email contact only please
+  link_url: https://zoom.us/j/6139802805
+  link_text: Zoom Link
+  location: Online / Phone
+  name: Sobriety First
 - label: Divorced Dads
   city: Pleasant Grove
   day: Monday
@@ -119,9 +136,9 @@ meetings:
   time_end: 8pm
   address: 55 W Main St
   notes: Newcomers welcome. Enter from front of church building.
-  contact_name: Reed H
-  contact_phone: 801-301-0491
-  link_url: https://us02web.zoom.us/j/4056659951
+  contact_name: Ryan O
+  contact_phone: 408-387-3436
+  link_url: https://purestorage.zoom.us/j/95390524547?pwd=eHNCOTU3MEhaVUJTb2V2ZHN4Wkt4QT09
   location: Utah
   name: ''
   contact_instructions: ''
@@ -226,8 +243,8 @@ meetings:
 - label: Zoom Wednesday
   city: ''
   day: Wednesday
-  time_start: 12pm
-  time_end: 1pm
+  time_start: 8pm
+  time_end: 9pm
   address: Online
   notes: ''
   contact_name: Michael S
@@ -237,22 +254,22 @@ meetings:
   link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
   link_text: Zoom Link
   location: Online / Phone
-  name: ''
-- label: Zoom Saturday
-  city: ''
+  name: Open & Honest
+- label: AF Saturday Meeting -Open & Honest Group
+  city: American Fork
   day: Saturday
   time_start: 8am
   time_end: 9am
-  address: Online
-  notes: ''
-  contact_name: Michael S
-  contact_phone: 203-375-0064
+  address: 765 East 340 South Suite 240 American Fork, UT 84003
+  notes: Saturday morning meeting for the Open & Honest Group
+  contact_name: Matt P
+  contact_phone: "(801) 828-8459"
   contact_email: ''
   contact_instructions: ''
-  link_url: https://us05web.zoom.us/j/81259256918?pwd=dFVDREVlNzFPTEhsUy96bWN0dU5UZz09
-  link_text: Zoom Link
-  location: Online / Phone
-  name: ''
+  link_url: ''
+  link_text: ''
+  location: Utah
+  name: Open & Honest
 - label: Logan TBD
   city: Logan
   day: TBD
@@ -425,13 +442,10 @@ meetings:
   time_end: 7am
   address: 248 East 3900 South
   notes: |-
-    Meeting in person at Genesis bookstore with an optional Zoom link.
-
-    Entrance is at the rear of the building, follow the sign reading "Meeting".
-
-
     Meeting ID: 823 5032 4722
     Passcode: join
+
+    Due to the impending destruction of our meeting place and in light of COVID-19 we have created a Zoom meeting for those who wish to join us remotely.
   contact_name: Cory A
   contact_phone: 385-419-0253‬
   link_url: https://us05web.zoom.us/j/82350324722?pwd=cFo1SjNNL2IzZEIzUVpwYzFwbEx0UT09
@@ -439,23 +453,23 @@ meetings:
   name: ''
   contact_instructions: ''
   contact_email: ''
-  link_text: Zoom Link
+  link_text: Zoom Meeting
 - label: Riverton Sobriety First Wednesday
   city: Riverton
   day: Wednesday
   time_start: 8pm
   time_end: 9pm
-  address: 11978 S. Redwood Rd
+  address: '11978 S. Redwood Rd '
   contact_name: Nic J
   contact_phone: "‪435-494-1216‬"
-  link_url: https://tiny.cc/sasfphone
+  link_url: ''
   location: Salt Lake
-  notes: Topic Study. Enter through southwest door and follow signs to basement meeting
-    room.
+  notes: Now back to in-person only. Topic Study. Enter through southwest door and
+    follow signs to basement meeting room.
   name: Sobriety First Group
   contact_instructions: ''
   contact_email: ''
-  link_text: Zoom Info
+  link_text: ''
 - label: SLC Thursday
   day: Thursday
   time_start: 7pm
@@ -527,13 +541,14 @@ meetings:
   address: 2015 East Newcastle Drive
   contact_name: Nic J
   contact_phone: 435-494-1216‬
-  link_url: https://tiny.cc/sasfphone
+  link_url: ''
   location: Salt Lake
   name: Sobriety First Group
-  notes: Step Study. Enter Church using classroom entrance, then to classroom 1B
+  notes: Now back to in-person only. Step Study. Enter Church using classroom entrance,
+    then to classroom 1B
   contact_instructions: ''
   contact_email: ''
-  link_text: Zoom Info
+  link_text: ''
 - label: Murray Saturday
   city: Murray
   day: Saturday

@@ -5,7 +5,7 @@ title: Meetings & Groups
 meetings:
 - label: Sobriety First Tuesday Zoom Meeting
   city: ''
-  day: Tuesda
+  day: Tuesday
   time_start: 8:00 PM
   time_end: 9:00 PM
   address: Online

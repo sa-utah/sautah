@@ -19,7 +19,7 @@ meetings:
   link_url: https://zoom.us/j/6139802805
   link_text: Zoom Link
   location: Online / Phone
-  name: Sobriety First
+  name: ''
 - label: Divorced Dads
   city: Pleasant Grove
   day: Monday

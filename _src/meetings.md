@@ -165,8 +165,10 @@ meetings:
   day: Thursday
   time_start: 6:30pm
   time_end: 7:45pm
-  address: 50 West 200 North
-  notes: Enter through west doors, up stairs in room at top of stairs.
+  address: 350 E Center Street
+  notes: Meeting is in the basement of the law office. Enter through the south entrance
+    and go down the stairs. Meeting is in the room on the east side of the hallway
+    next to the circuit breaker box,
   contact_name: Spencer
   contact_phone: 801-822-9799
   link_url: ''

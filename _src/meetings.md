@@ -494,7 +494,7 @@ meetings:
   time_start: 7:30pm
   time_end: 8:30pm
   address: 9176 South 300 West
-  notes: Upstairs to suite 20
+  notes: Suite 20- Use stairs by the North side of Embroidery Warehouse
   contact_name: Tony
   contact_phone: 801-584-9320
   link_url: ''

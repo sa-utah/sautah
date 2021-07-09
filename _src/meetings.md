@@ -520,21 +520,6 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: SLC Friday
-  city: Salt Lake City
-  day: Friday
-  time_start: 12pm
-  time_end: 12:45pm
-  address: 231 East 100 South
-  notes: Enter through south doors, upstairs, room on the right.
-  contact_name: Scott P
-  contact_phone: 808-285-5066
-  link_url: ''
-  location: Salt Lake
-  name: ''
-  contact_instructions: ''
-  contact_email: ''
-  link_text: ''
 - label: Sandy Sobriety First Saturday
   city: Sandy
   day: Saturday

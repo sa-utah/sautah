@@ -9,7 +9,7 @@ meetings:
   time_start: 6 PM
   time_end: 7 PM
   address: Call for address or leave a voicemail for Kristine:740-338-4062
-  notes: ''
+  notes: Women's only meeting
   contact_name: Kristine
   contact_phone: 740-338-4062
   contact_email: ''

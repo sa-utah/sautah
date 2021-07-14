@@ -8,8 +8,8 @@ meetings:
   day: Monday
   time_start: 6 PM
   time_end: 7 PM
-  address: Women's only meeting. Call for address or leave a voicemail for Kristine.
-  notes: Women's only meeting
+  address: Call for address or leave a voicemail
+  notes: 'Call for address or leave a voicemail: Kristine 740-338-4062'
   contact_name: Kristine
   contact_phone: 740-338-4062
   contact_email: ''
@@ -17,7 +17,7 @@ meetings:
   link_url: ''
   link_text: ''
   location: Utah
-  name: ''
+  name: American Fork Women's Only Meeting
 - label: Sobriety First Tuesday Zoom Meeting
   city: ''
   day: Tuesday

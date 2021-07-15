@@ -382,8 +382,8 @@ meetings:
   day: Saturday
   time_end: 9:45am
   address: 521 Sportsplex Drive
-  contact_name: John C
-  contact_phone: 801-706-9981
+  contact_name: Camille G.
+  contact_phone: 801-821-6221
   link_url: ''
   location: Davis & Weber
   time_start: 8:30am

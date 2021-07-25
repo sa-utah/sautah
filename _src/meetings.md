@@ -120,8 +120,8 @@ meetings:
   address: 75 North 100 East
   notes: Park in the back, enter through the white door beneath the sign that says
     Community Presbyterian Church. Go down the hall to the main room on your left.
-  contact_name: Kevin
-  contact_phone: 208-340-5454
+  contact_name: Matt H
+  contact_phone: 801-897-0561
   link_url: ''
   location: Utah
   name: ''
@@ -475,8 +475,8 @@ meetings:
   time_start: 8pm
   time_end: 9pm
   address: '11978 S. Redwood Rd '
-  contact_name: Nic J
-  contact_phone: "‪435-494-1216‬"
+  contact_name: Jon T
+  contact_phone: hold
   link_url: ''
   location: Salt Lake
   notes: Now back to in-person only. Topic Study. Enter through southwest door and

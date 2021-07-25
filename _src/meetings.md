@@ -229,10 +229,9 @@ meetings:
   day: Saturday
   time_start: 9am
   time_end: 10am
-  address: Please call for address
-  notes: Open meeting. Big Book study. Come into the back yard through the gate on
-    the left side of the house, then down the stone steps on your right and into the
-    doors to the basement.
+  address: 350 E Center Street Provo, UT
+  notes: Open meeting. Big Book study. Through the main doors, down the stairs, turn
+    right down the hallway, first door to the left after the restrooms.
   contact_name: Spencer S
   contact_phone: 385-245-7178
   contact_instructions: ''

@@ -476,7 +476,7 @@ meetings:
   time_end: 9pm
   address: '11978 S. Redwood Rd '
   contact_name: Jon T
-  contact_phone: hold
+  contact_phone: 865-375-0115
   link_url: ''
   location: Salt Lake
   notes: Now back to in-person only. Topic Study. Enter through southwest door and

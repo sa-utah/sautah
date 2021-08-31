@@ -1,6 +1,6 @@
 ---
 tags: []
-title: 2021 SW SA/S-Anon Unity Conference
+title: 2021 SA/S-Anon Unity Conference
 date: 2021-10-01T20:00:00Z
 excerpt: This year's Unity Conference will be held from 10/1- 10/3 in Ontario, California
 image: "/assets/unity-conference.JPG"

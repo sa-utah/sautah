@@ -92,6 +92,7 @@ fields:
       - Utah
       - Washington
       - Intergroup
+      - Tooele
       source:
         type: simple
         section: meeting-list

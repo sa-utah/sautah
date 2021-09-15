@@ -169,9 +169,7 @@ meetings:
     Newcomers welcome. Enter from front of church building.
 
 
-    Zoom Link: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
-
-    Meeting ID: 899 4202 6673
+     Zoom Meeting ID: 899 4202 6673
     Passcode: $aLeh1
   contact_name: Ryan O
   contact_phone: 408-387-3436

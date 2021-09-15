@@ -165,10 +165,17 @@ meetings:
   time_start: 6:30pm
   time_end: 8pm
   address: 55 W Main St
-  notes: Newcomers welcome. Enter from front of church building.
+  notes: |-
+    Newcomers welcome. Enter from front of church building.
+
+
+    Zoom Link: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
+
+    Meeting ID: 899 4202 6673
+    Passcode: $aLeh1
   contact_name: Ryan O
   contact_phone: 408-387-3436
-  link_url: https://purestorage.zoom.us/j/95390524547?pwd=eHNCOTU3MEhaVUJTb2V2ZHN4Wkt4QT09
+  link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
   location: Utah
   name: ''
   contact_instructions: ''

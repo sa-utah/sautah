@@ -399,7 +399,7 @@ meetings:
   city: Kaysville
   day: Saturday
   time_end: 9:45am
-  address: 497 N Main Street, Suite A, Kaysville, Utah
+  address: 497 N Main Street, Suite A
   contact_name: Camille G.
   contact_phone: 801-821-6221
   link_url: ''

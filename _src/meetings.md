@@ -399,13 +399,15 @@ meetings:
   city: Kaysville
   day: Saturday
   time_end: 9:45am
-  address: 521 Sportsplex Drive
+  address: 497 N Main Street, Suite A, Kaysville, Utah
   contact_name: Camille G.
   contact_phone: 801-821-6221
   link_url: ''
   location: Davis & Weber
   time_start: 8:30am
-  notes: White, barn-shaped building. Straight ahead at the top of the stairs
+  notes: This meeting accommodates both in-person and virtual attendees. Reach out
+    to Camille for information on how to attend virtually. This meeting is for both
+    men and women.
   name: ''
   contact_instructions: ''
   contact_email: ''

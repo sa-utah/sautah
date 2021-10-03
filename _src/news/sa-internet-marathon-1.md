@@ -1,7 +1,7 @@
 ---
 tags: []
-title: SA Internet Marathon - 24 Hours Long
-date: 2021-11-18T12:00:00Z
+title: SA Internet Marathon
+date: 2021-11-18T12:00:00.000+00:00
 excerpt: Connecting the SA Fellowship Worldwide
 image: "/assets/unnamed.jpg"
 

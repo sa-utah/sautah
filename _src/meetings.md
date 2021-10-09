@@ -561,8 +561,8 @@ meetings:
   time_start: 7am
   time_end: 8am
   address: 2015 East Newcastle Drive
-  contact_name: Nic J
-  contact_phone: 435-494-1216‬
+  contact_name: Sean J
+  contact_phone: 801-759-8760
   link_url: ''
   location: Salt Lake
   name: Sobriety First Group

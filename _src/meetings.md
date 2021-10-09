@@ -511,15 +511,14 @@ meetings:
   day: Thursday
   time_start: 7pm
   time_end: 8pm
-  address: 428 C Street
+  address: Zoom Only At present
   contact_name: Jerred B
   contact_phone: 801-891-9009
-  link_url: ''
+  link_url: https://zoom.us/j/989872403?pwd=emV3ay8zdDFlZUV4TUJOVHRWSEVpQT09
   location: Salt Lake
   name: ''
   city: Salt Lake City
-  notes: Step Study with all four texts. Education Center, Classroom G (second door
-    on right).
+  notes: " Currently on Zoom only. Step Study with all four texts."
   contact_instructions: ''
   contact_email: ''
   link_text: ''

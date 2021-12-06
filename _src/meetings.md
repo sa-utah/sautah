@@ -529,8 +529,8 @@ meetings:
   time_end: 8:30pm
   address: 9176 South 300 West
   notes: Suite 20- Use stairs by the North side of Embroidery Warehouse
-  contact_name: Tony
-  contact_phone: 801-584-9320
+  contact_name: Jason O
+  contact_phone: 801-901-7910
   link_url: ''
   location: Salt Lake
   name: ''

@@ -638,8 +638,8 @@ meetings:
 - label: Ephraim Tuesday
   city: Ephraim
   day: Tuesday
-  time_start: 8pm
-  time_end: 9pm
+  time_start: 8:30 PM
+  time_end: 9:30 PM
   address: 390 West 100 North
   contact_name: Shane R
   contact_phone: 801-884-8752

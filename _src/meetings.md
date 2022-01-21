@@ -336,21 +336,6 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Ogden Tuesday
-  city: Ogden
-  day: Tuesday
-  time_start: 12pm
-  time_end: 1pm
-  address: 2484 Washington Blvd
-  notes: '5th Floor Room 501 Door Code: 2002'
-  contact_name: Steve A
-  contact_phone: 385-519-5728
-  link_url: ''
-  location: Davis & Weber
-  name: ''
-  contact_instructions: ''
-  contact_email: ''
-  link_text: ''
 - label: Bountiful Primary Purpose Tuesday
   city: Bountiful
   day: Tuesday

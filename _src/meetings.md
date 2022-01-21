@@ -9,7 +9,8 @@ meetings:
   time_start: 8:30 AM
   time_end: 9:30 AM
   address: 178 W Center St. Logan, UT 84341
-  notes: Park on the east side and enter the basement and go through the kitchen.
+  notes: New Meeting beginning on February 12th! Park on the east side and enter the
+    basement and go through the kitchen.
   contact_name: Matt G
   contact_phone: 801-368-9782
   contact_email: saloganutah@gmail.com

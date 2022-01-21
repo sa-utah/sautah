@@ -187,8 +187,8 @@ meetings:
 
      Zoom Meeting ID: 899 4202 6673
     Passcode: $aLeh1
-  contact_name: Ryan O
-  contact_phone: 408-387-3436
+  contact_name: Jim C
+  contact_phone: 818-415-1743
   link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
   location: Utah
   name: ''

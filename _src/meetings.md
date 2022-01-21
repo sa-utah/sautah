@@ -313,8 +313,8 @@ meetings:
   time_end: 9am
   address: 765 East 340 South Suite 240 American Fork, UT 84003
   notes: Saturday morning meeting for the Open & Honest Group
-  contact_name: Matt P
-  contact_phone: "(801) 828-8459"
+  contact_name: TBD
+  contact_phone: TBD
   contact_email: ''
   contact_instructions: ''
   link_url: ''

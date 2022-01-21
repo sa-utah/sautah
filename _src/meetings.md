@@ -528,9 +528,11 @@ meetings:
   time_start: 7:30pm
   time_end: 8:30pm
   address: 9176 South 300 West
-  notes: Suite 20- Use stairs by the North side of Embroidery Warehouse
+  notes: Suite 20- Use entrance on the North side of the building near the Embroidery
+    Warehouse. Door opens to a set of stairs that lead up to the second floor. Follow
+    them up and look to your left.
   contact_name: Jason O
-  contact_phone: 801-901-7910
+  contact_phone: 801-971-7910
   link_url: ''
   location: Salt Lake
   name: ''

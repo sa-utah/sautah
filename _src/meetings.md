@@ -423,7 +423,8 @@ meetings:
   link_url: ''
   location: Iron
   time_end: 7pm
-  notes: Go up the ramp in the back. First room on the right.
+  notes: Go up the ramp in the back. Turn right after entering the building and go
+    all the way to the back.
   name: ''
   contact_instructions: ''
   contact_email: ''

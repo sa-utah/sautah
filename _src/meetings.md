@@ -3,6 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Cache Valley/ Logan Saturday Morning
+  city: Logan
+  day: Saturday
+  time_start: 8:30 AM
+  time_end: 9:30 AM
+  address: 178 W Center St. Logan, UT 84341
+  notes: Park on the east side and enter the basement and go through the kitchen.
+  contact_name: Matt G
+  contact_phone: 801-368-9782
+  contact_email: saloganutah@gmail.com
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Cache
+  name: ''
 - label: Tooele Group
   city: Tooele
   day: Contact Meeting Coordinator for Meeting Details

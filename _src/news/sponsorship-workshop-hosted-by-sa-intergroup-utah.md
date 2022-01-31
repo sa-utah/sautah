@@ -1,7 +1,7 @@
 ---
 tags: []
 title: Sponsorship Workshop hosted by SA Intergroup Utah
-date: 2022-03-12T20:00:00Z
+date: 
 excerpt: Join us for a workshop about offering and receiving sponsorship. March 12
   from 1pm to 6pm in Sandy.
 image: "/assets/workshop-banner-min.jpg"

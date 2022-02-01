@@ -3,22 +3,6 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
-- label: Cache Valley/ Logan Saturday Morning
-  city: Logan
-  day: Saturday
-  time_start: 8:30 AM
-  time_end: 9:30 AM
-  address: 178 W Center St. Logan, UT 84341
-  notes: New Meeting beginning on February 12th! Park on the east side and enter the
-    basement and go through the kitchen.
-  contact_name: Matt G
-  contact_phone: 801-368-9782
-  contact_email: saloganutah@gmail.com
-  contact_instructions: ''
-  link_url: ''
-  link_text: ''
-  location: Cache
-  name: ''
 - label: Tooele Group
   city: Tooele
   day: Contact Meeting Coordinator for Meeting Details
@@ -40,7 +24,8 @@ meetings:
   time_start: 6 PM
   time_end: 7 PM
   address: Call for address or leave a voicemail
-  notes: 'Call for address or leave a voicemail: Kristine 740-338-4062'
+  notes: 'Meeting is held every other week. Call for address or leave a voicemail:
+    Kristine 740-338-4062'
   contact_name: Kristine
   contact_phone: 740-338-4062
   contact_email: ''
@@ -187,8 +172,8 @@ meetings:
 
      Zoom Meeting ID: 899 4202 6673
     Passcode: $aLeh1
-  contact_name: Jim C
-  contact_phone: 818-415-1743
+  contact_name: Ryan O
+  contact_phone: 408-387-3436
   link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
   location: Utah
   name: ''
@@ -255,7 +240,7 @@ meetings:
   contact_name: Josh H
   contact_phone: 801-319-0694
   contact_instructions: ''
-  link_url: https://zoom.us/j/95683092859?pwd=VzRyaS8zTXFMTWNoR05jR1MyVVV0QT09
+  link_url: ''
   location: Utah
   name: ''
   contact_email: ''
@@ -313,8 +298,8 @@ meetings:
   time_end: 9am
   address: 765 East 340 South Suite 240 American Fork, UT 84003
   notes: Saturday morning meeting for the Open & Honest Group
-  contact_name: TBD
-  contact_phone: TBD
+  contact_name: Matt P
+  contact_phone: "(801) 828-8459"
   contact_email: ''
   contact_instructions: ''
   link_url: ''
@@ -332,6 +317,21 @@ meetings:
   contact_phone: TBD
   link_url: ''
   location: Cache
+  name: ''
+  contact_instructions: ''
+  contact_email: ''
+  link_text: ''
+- label: Ogden Tuesday
+  city: Ogden
+  day: Tuesday
+  time_start: 12pm
+  time_end: 1pm
+  address: 2484 Washington Blvd
+  notes: '5th Floor Room 501 Door Code: 2002'
+  contact_name: Steve A
+  contact_phone: 385-519-5728
+  link_url: ''
+  location: Davis & Weber
   name: ''
   contact_instructions: ''
   contact_email: ''
@@ -423,8 +423,7 @@ meetings:
   link_url: ''
   location: Iron
   time_end: 7pm
-  notes: Go up the ramp in the back. Turn right after entering the building and go
-    all the way to the back.
+  notes: Go up the ramp in the back. First room on the right.
   name: ''
   contact_instructions: ''
   contact_email: ''
@@ -450,15 +449,15 @@ meetings:
   time_start: 6pm
   time_end: 7:20pm
   address: 111 East 5600 South
-  contact_name: Garrett C
-  contact_phone: 281-723-8146
-  link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09
+  contact_name: Chandler W
+  contact_phone: 812-447-9452
+  link_url: ''
   location: Salt Lake
   notes: Independence Hall (West building in square) Suite 304
   name: ''
   contact_instructions: ''
   contact_email: ''
-  link_text: Zoom Link
+  link_text: ''
 - label: Sandy Tuesday
   city: Sandy
   day: Tuesday
@@ -530,11 +529,9 @@ meetings:
   time_start: 7:30pm
   time_end: 8:30pm
   address: 9176 South 300 West
-  notes: Suite 20- Use entrance on the North side of the building near the Embroidery
-    Warehouse. Door opens to a set of stairs that lead up to the second floor. Follow
-    them up and look to your left.
+  notes: Suite 20- Use stairs by the North side of Embroidery Warehouse
   contact_name: Jason O
-  contact_phone: 801-971-7910
+  contact_phone: 801-901-7910
   link_url: ''
   location: Salt Lake
   name: ''

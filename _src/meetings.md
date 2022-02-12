@@ -199,14 +199,13 @@ meetings:
 - label: Provo Thursday 200 North
   city: Provo
   day: Thursday
-  time_start: 6:30pm
-  time_end: 7:45pm
+  time_start: 6:00pm
+  time_end: 7:00pm
   address: 350 E Center Street
   notes: Meeting is in the basement of the law office. Enter through the south entrance
-    and go down the stairs. Meeting is in the room on the east side of the hallway
-    next to the circuit breaker box,
-  contact_name: Spencer
-  contact_phone: 801-822-9799
+    and go down the stairs. Meeting is in room "Suite 2".
+  contact_name: Javin
+  contact_phone: 385-248-6592
   link_url: ''
   location: Utah
   name: ''

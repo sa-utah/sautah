@@ -23,13 +23,15 @@ meetings:
   day: Monday
   time_start: 6 PM
   time_end: 7 PM
-  address: Call for address or leave a voicemail
-  notes: 'Meeting is held every other week. Call for address or leave a voicemail:
-    Kristine 740-338-4062'
+  address: WOMEN ONLY, No men please. Call for address or leave a voicemail
+  notes: |-
+    WOMEN ONLY, No men please. Meeting is held every other week. Call for address and leave a voicemail: Kristine 740-338-4062
+
+    We read from SA literature and share on the readings.
   contact_name: Kristine
   contact_phone: 740-338-4062
   contact_email: ''
-  contact_instructions: ''
+  contact_instructions: WOMEN ONLY, No men please
   link_url: ''
   link_text: ''
   location: Utah
@@ -199,13 +201,14 @@ meetings:
 - label: Provo Thursday 200 North
   city: Provo
   day: Thursday
-  time_start: 6:00pm
-  time_end: 7:00pm
+  time_start: 6:30pm
+  time_end: 7:45pm
   address: 350 E Center Street
   notes: Meeting is in the basement of the law office. Enter through the south entrance
-    and go down the stairs. Meeting is in room "Suite 2".
-  contact_name: Javin
-  contact_phone: 385-248-6592
+    and go down the stairs. Meeting is in the room on the east side of the hallway
+    next to the circuit breaker box,
+  contact_name: Spencer
+  contact_phone: 801-822-9799
   link_url: ''
   location: Utah
   name: ''

@@ -23,7 +23,7 @@ meetings:
   day: Monday
   time_start: 6 PM
   time_end: 7 PM
-  address: WOMEN ONLY, No men please. Call for address or leave a voicemail
+  address: WOMEN ONLY, No men please. Call for address and leave a voicemail
   notes: |-
     WOMEN ONLY, No men please. Meeting is held every other week. Call for address and leave a voicemail: Kristine 740-338-4062
 

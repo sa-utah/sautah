@@ -174,8 +174,8 @@ meetings:
 
      Zoom Meeting ID: 899 4202 6673
     Passcode: $aLeh1
-  contact_name: Ryan O
-  contact_phone: 408-387-3436
+  contact_name: Jim C
+  contact_phone: 818-415-1743
   link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
   location: Utah
   name: ''
@@ -201,14 +201,14 @@ meetings:
 - label: Provo Thursday 200 North
   city: Provo
   day: Thursday
-  time_start: 6:30pm
-  time_end: 7:45pm
+  time_start: 6pm
+  time_end: 7pm
   address: 350 E Center Street
   notes: Meeting is in the basement of the law office. Enter through the south entrance
     and go down the stairs. Meeting is in the room on the east side of the hallway
     next to the circuit breaker box,
-  contact_name: Spencer
-  contact_phone: 801-822-9799
+  contact_name: Javan
+  contact_phone: 385-246-6592
   link_url: ''
   location: Utah
   name: ''

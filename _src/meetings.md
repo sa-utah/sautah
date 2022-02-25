@@ -102,10 +102,10 @@ meetings:
 - label: St George Thursday
   city: St. George
   day: Thursday
-  time_start: 6:30pm
-  time_end: 7:30pm
-  address: 559 North 1060 East
-  notes: Alano Club in the old Industrial Park
+  time_start: 7:30pm
+  time_end: 8:30pm
+  address: 694 S Main St
+  notes: ''
   contact_name: Paul J
   contact_phone: 435-749-9908
   contact_email: ''

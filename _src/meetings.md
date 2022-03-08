@@ -451,9 +451,9 @@ meetings:
   time_start: 6pm
   time_end: 7:20pm
   address: 111 East 5600 South
-  contact_name: Chandler W
-  contact_phone: 812-447-9452
-  link_url: ''
+  contact_name: Garrett C
+  contact_phone: 281-723-8146
+  link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09
   location: Salt Lake
   notes: Independence Hall (West building in square) Suite 304
   name: ''

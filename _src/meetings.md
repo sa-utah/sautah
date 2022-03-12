@@ -308,20 +308,20 @@ meetings:
   link_text: ''
   location: Utah
   name: Open & Honest
-- label: Logan TBD
+- label: Logan
   city: Logan
-  day: TBD
-  time_start: TBD
-  time_end: TBD
-  address: TBD
-  notes: ''
-  contact_name: TBD
-  contact_phone: TBD
+  day: Saturday
+  time_start: 8:30a
+  time_end: 9:30a
+  address: 178 W Center St
+  notes: Park on the east side, enter the basement and go through the kitchen.
+  contact_name: Matt
+  contact_phone: 801-368-9782
   link_url: ''
   location: Cache
   name: ''
   contact_instructions: ''
-  contact_email: ''
+  contact_email: saloganutah@gmail.com
   link_text: ''
 - label: Ogden Tuesday
   city: Ogden

@@ -3,6 +3,22 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Provo Monday 6 PM
+  city: Provo
+  day: Monday
+  time_start: 6 PM
+  time_end: 7 PM
+  address: 350 E Center St Provo, UT
+  notes: Through main doors, down the stairs, turn right down hallway, first door
+    to the left after restrooms.
+  contact_name: Ben F
+  contact_phone: 208-615-4778
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Utah
+  name: ''
 - label: Tooele Group
   city: Tooele
   day: Contact Meeting Coordinator for Meeting Details

@@ -190,8 +190,8 @@ meetings:
   address: 350 E Center St
   notes: Through main doors, down the stairs, turn right down hallway, first door
     to the left after restrooms.
-  contact_name: Ben E
-  contact_phone: 385-201-8343
+  contact_name: Reed
+  contact_phone: 801-301-0491
   link_url: ''
   location: Utah
   name: ''

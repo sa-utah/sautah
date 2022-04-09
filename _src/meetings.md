@@ -3,6 +3,23 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Cedar City Sunday
+  city: Cedar City
+  day: Sunday
+  time_start: 6:00 PM
+  time_end: 7:00 PM
+  address: 203 E. Cobble Creek Road Cedar City, UT
+  notes: 'Go up the ramp in the back. First room on the right.
+
+    '
+  contact_name: Ben B
+  contact_phone: 435-592-3242
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Iron
+  name: ''
 - label: Provo Monday 6 PM
   city: Provo
   day: Monday

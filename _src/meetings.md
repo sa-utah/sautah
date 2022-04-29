@@ -3,39 +3,6 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
-- label: Cedar City Sunday
-  city: Cedar City
-  day: Sunday
-  time_start: 6:00 PM
-  time_end: 7:00 PM
-  address: 203 E. Cobble Creek Road Cedar City, UT
-  notes: 'Go up the ramp in the back. First room on the right.
-
-    '
-  contact_name: Ben B
-  contact_phone: 435-592-3242
-  contact_email: ''
-  contact_instructions: ''
-  link_url: ''
-  link_text: ''
-  location: Iron
-  name: ''
-- label: Provo Monday 6 PM
-  city: Provo
-  day: Monday
-  time_start: 6 PM
-  time_end: 7 PM
-  address: 350 E Center St Provo, UT
-  notes: Through main doors, down the stairs, turn right down hallway, first door
-    to the left after restrooms.
-  contact_name: Ben F
-  contact_phone: 208-615-4778
-  contact_email: ''
-  contact_instructions: ''
-  link_url: ''
-  link_text: ''
-  location: Utah
-  name: ''
 - label: Tooele Group
   city: Tooele
   day: Contact Meeting Coordinator for Meeting Details
@@ -122,8 +89,8 @@ meetings:
   day: Monday
   time_start: 7:30pm
   time_end: 8:30pm
-  address: 694 S Main St
-  notes: ''
+  address: 474 W. 200 N.
+  notes: Room 206.  Use the back stairs.
   contact_name: Brandon
   contact_phone: 702-375-5283
   contact_email: ''
@@ -137,8 +104,8 @@ meetings:
   day: Thursday
   time_start: 7:30pm
   time_end: 8:30pm
-  address: 694 S Main St
-  notes: ''
+  address: 474 W. 200 N.
+  notes: Room 206.  Use the back stairs.
   contact_name: Paul J
   contact_phone: 435-749-9908
   contact_email: ''
@@ -155,8 +122,8 @@ meetings:
   address: 350 E Center St
   notes: Through main doors, down the stairs, turn right down hallway, first door
     to the left after restrooms.
-  contact_name: Tyler G
-  contact_phone: 801-404-2882
+  contact_name: Kyler M
+  contact_phone: 385-204-8290
   link_url: ''
   location: Utah
   name: ''
@@ -223,8 +190,8 @@ meetings:
   address: 350 E Center St
   notes: Through main doors, down the stairs, turn right down hallway, first door
     to the left after restrooms.
-  contact_name: Reed
-  contact_phone: 801-301-0491
+  contact_name: Ben E
+  contact_phone: 385-201-8343
   link_url: ''
   location: Utah
   name: ''

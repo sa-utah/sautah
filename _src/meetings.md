@@ -308,7 +308,7 @@ meetings:
   link_text: ''
   location: Utah
   name: Open & Honest
-- label: Logan
+- label: Logan Saturday 8:30am
   city: Logan
   day: Saturday
   time_start: 8:30a

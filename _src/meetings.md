@@ -3,6 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Logan Saturday 6:00 am
+  city: Logan
+  day: Saturday
+  time_start: 6:00 AM
+  time_end: 7:00 AM
+  address: 40 W Cache Valley Blvd Suite 3C
+  notes: Lovestrong Offices
+  contact_name: Thomas
+  contact_phone: 801-940-4178
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Cache
+  name: ''
 - label: Tooele Group
   city: Tooele
   day: Contact Meeting Coordinator for Meeting Details

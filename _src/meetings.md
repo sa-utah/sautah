@@ -3,6 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: 'North Logan Wednesday '
+  city: North Logan
+  day: Wednesday
+  time_start: 7:00 PM
+  time_end: 8:00 PM
+  address: 3125 N Main Street, Suite 105
+  notes: Sleepy Health Utah Office (next to Hyde Park Dental)
+  contact_name: Mont
+  contact_phone: 435-881-7270
+  contact_email: ''
+  contact_instructions: Text messages preferred
+  link_url: ''
+  link_text: ''
+  location: Cache
+  name: ''
 - label: Logan Saturday 6:00 am
   city: Logan
   day: Saturday

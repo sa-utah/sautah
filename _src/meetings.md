@@ -662,7 +662,7 @@ meetings:
   time_end: TBD
   address: TBD
   contact_name: Jason M
-  contact_phone: 928-925-2961
+  contact_phone: 'TBD '
   link_url: ''
   location: San Juan
   name: ''

@@ -544,14 +544,15 @@ meetings:
   day: Thursday
   time_start: 7pm
   time_end: 8pm
-  address: LDS Hospital, Huntsman Education Center , class room A
+  address: "*Currently Zoom Only* LDS Hospital, Huntsman Education Center , class
+    room A"
   contact_name: Jerred B
   contact_phone: 801-891-9009
   link_url: https://zoom.us/j/989872403?pwd=emV3ay8zdDFlZUV4TUJOVHRWSEVpQT09
   location: Salt Lake
   name: ''
   city: Salt Lake City
-  notes: " Currently on Zoom and in-person. Step Study with all four texts."
+  notes: " Currently on Zoom- Only"
   contact_instructions: ''
   contact_email: ''
   link_text: ''

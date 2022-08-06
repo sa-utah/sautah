@@ -3,6 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Bountiful Thursday Night
+  city: 'Bountiful '
+  day: 'Thursday '
+  time_start: 8:30pm
+  time_end: 9:30pm
+  address: 25 N 200 W, Bountiful, UT 84010
+  notes: Meeting is at the South Davis Recovery Club
+  contact_name: 'Mike F. '
+  contact_phone: 801-557-9437
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Davis & Weber
+  name: ''
 - label: 'North Logan Wednesday '
   city: North Logan
   day: Wednesday

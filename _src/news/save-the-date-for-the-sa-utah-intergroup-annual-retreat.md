@@ -11,4 +11,6 @@ image: "/assets/icon/apple-touch-icon.png"
 ---
 Our retreat will be held on October 7-8 2022 at Salt Lake Community College Miller Campus 9750 S 300 W in Sandy, Utah. 
 
-For more information go to [sautahretreats.org](https://www.sautahretreats.org/)
+Registration will be opening soon.
+
+For more information go to [sautahretreats.org](https://www.sautahretreats.org/ "SA Utah Retreats")

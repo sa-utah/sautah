@@ -2,15 +2,13 @@
 tags:
 - Retreat
 - Intergroup
-title: Save the date for the SA Utah Annual Retreat!
+title: 'Registration is now open for the SA Utah Annual Retreat '
 date: 2022-10-07T06:00:00.000+00:00
 excerpt: Our retreat will be held on October 7-8 2022 at Salt Lake Community College
-  Miller Campus 9750 S 300 W in Sandy, Utah. More details to come!
-image: "/assets/icon/apple-touch-icon.png"
+  Miller Campus 9750 S 300 W in Sandy, Utah.
+image: "/assets/new-sa_logoconcepts_02-8-2-22png.png"
 
 ---
-Our retreat will be held on October 7-8 2022 at Salt Lake Community College Miller Campus 9750 S 300 W in Sandy, Utah. 
+Our retreat will be held on October 7-8 2022 at Salt Lake Community College Miller Campus 9750 S 300 W in Sandy, Utah.
 
-Registration will be opening soon.
-
-For more information go to [sautahretreats.org](https://www.sautahretreats.org/ "SA Utah Retreats")
+To register or find out more, visit [sautahretreats.org](https://www.sautahretreats.org/ "SA Utah Retreats")

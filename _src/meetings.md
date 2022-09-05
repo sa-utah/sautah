@@ -296,11 +296,10 @@ meetings:
   day: Saturday
   time_start: 9am
   time_end: 10am
-  address: 350 E Center Street Provo, UT
-  notes: Open meeting. Big Book study. Through the main doors, down the stairs, turn
-    right down the hallway, first door to the left after the restrooms.
-  contact_name: Spencer S
-  contact_phone: 385-245-7178
+  address: 603 N 970 W, Provo, UT
+  notes: Open meeting. Big Book study. Come right in through the purple door.
+  contact_name: Ben F
+  contact_phone: "(208)615-4778"
   contact_instructions: ''
   link_url: ''
   location: Utah

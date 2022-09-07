@@ -183,8 +183,8 @@ meetings:
   address: 75 North 100 East
   notes: Park in the back, enter through the white door beneath the sign that says
     Community Presbyterian Church. Go down the hall to the main room on your left.
-  contact_name: Matt H
-  contact_phone: 801-897-0561
+  contact_name: Tyler R
+  contact_phone: 801-420-5975
   link_url: ''
   location: Utah
   name: ''
@@ -243,6 +243,21 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
+- label: Provo Not a Glum Lot Friday
+  city: Provo
+  day: Friday
+  time_start: 6pm
+  time_end: 7pm
+  address: 603 N 970 W, Provo,UT
+  notes: Open meeting. Literature study. Come right in through the purple door.
+  contact_name: Ben F
+  contact_phone: "(208)615-4778"
+  contact_instructions: ''
+  link_url: ''
+  location: Utah
+  name: Not a Glum Lot
+  contact_email: ''
+  link_text: ''
 - label: Provo Thursday 200 North
   city: Provo
   day: Thursday
@@ -258,21 +273,6 @@ meetings:
   location: Utah
   name: ''
   contact_instructions: ''
-  contact_email: ''
-  link_text: ''
-- label: Provo Not a Glum Lot Friday
-  city: Provo
-  day: Friday
-  time_start: 6pm
-  time_end: 7pm
-  address: 603 N 970 W, Provo,UT
-  notes: Open meeting. Literature study. Come right in through the purple door.
-  contact_name: Ben F
-  contact_phone: "(208)615-4778"
-  contact_instructions: ''
-  link_url: ''
-  location: Utah
-  name: Not a Glum Lot
   contact_email: ''
   link_text: ''
 - label: Provo Saturday 200 North

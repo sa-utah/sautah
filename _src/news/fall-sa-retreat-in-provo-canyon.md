@@ -2,26 +2,30 @@
 tags:
 - news
 title: Fall SA Retreat in Provo Canyon
-date: 2022-09-24T06:00:00Z
+date: 2022-09-24T06:00:00.000+00:00
 excerpt: Sponsored by the Provo 8:00 a.m. Saturday Morning SA meeting at Saint Mary’s
 image: "/assets/icon/apple-touch-icon.png"
 
 ---
-**Sponsored by the Provo 8:00 a.m. Saturday Morning SA meeting at Saint Mary’s**
+Fall SA Retreat in Provo Canyon
+
+**Sponsored by the Prove 8:00 a.m. Saturday Morning SA meeting at Saint Mary’s**
 
 **When:** Saturday, September 24th
 
-**Where:** Big Springs Park, South Fork of Provo Canyon
+**Where:** Big Springs Park, South Fork of Provo Canyon, Pavilion 3
 
 **4:00 p.m**. Gather
 
-**4:30 p.m.** 12 Step Walking meditation. This Meditation/Hike is easy to moderate and about one hour. Or bring lawn games or talk.
+**4:30 p.m.** 12 Step Walking meditation/Hike easy to moderate, about one hour.
 
-**6:00 p.m.** Dinner BRING SOMETHING TO GRILL AND TO SHARE
+Or bring lawn games or talk.
+
+**6:00 p.m.** Dinner BRING SOMETHING to GRILL and a SIDE to SHARE
 
 UTENSILS, CUPS, PAPER GOODS AND A GRILL WILL BE PROVIDED
 
-**7:00 to 7:30 p.m.** Speaker Meeting TBA
+**7:00 to 7:30 p.m.** Speaker Meeting Troy R. 15 years sobriety
 
 **7:30 to 8:30 p.m**. Group share
 

@@ -543,8 +543,8 @@ meetings:
   time_start: 8pm
   time_end: 9pm
   address: '11978 S. Redwood Rd '
-  contact_name: Jon T
-  contact_phone: 865-375-0115
+  contact_name: Jordan W
+  contact_phone: "(385) 234-0311"
   link_url: ''
   location: Salt Lake
   notes: Now back to in-person only. Topic Study. Enter through southwest door and

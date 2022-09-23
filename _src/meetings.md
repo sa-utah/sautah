@@ -3,6 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Tooele Wednesday
+  city: Grantsville
+  day: Wednesday
+  time_start: 8:30 PM
+  time_end: 9:30 PM
+  address: 243 E Main Street, Grantsville, UT 84029
+  notes: ''
+  contact_name: Matt D
+  contact_phone: 801-550-6543
+  contact_email: ''
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
+  location: Tooele
+  name: SA Tooele
 - label: Bountiful Thursday Night
   city: 'Bountiful '
   day: 'Thursday '

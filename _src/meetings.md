@@ -9,10 +9,10 @@ meetings:
   time_start: 8:30 PM
   time_end: 9:30 PM
   address: 243 E Main Street, Grantsville, UT 84029
-  notes: ''
+  notes: located in the strip mall just East of Soelberg’s grocer
   contact_name: Matt D
   contact_phone: 801-550-6543
-  contact_email: ''
+  contact_email: satooele@gmail.com
   contact_instructions: ''
   link_url: ''
   link_text: ''

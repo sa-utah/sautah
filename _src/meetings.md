@@ -63,21 +63,6 @@ meetings:
   link_text: ''
   location: Cache
   name: ''
-- label: Tooele Group
-  city: Tooele
-  day: Contact Meeting Coordinator for Meeting Details
-  time_start: TBA
-  time_end: TBA
-  address: Contact Meeting Coordinator for Meeting Details
-  notes: ''
-  contact_name: Matt D
-  contact_phone: 801-550-6543
-  contact_email: satooele@gmail.com
-  location: Tooele
-  contact_instructions: Contact Meeting Coordinator for Meeting Details
-  link_url: ''
-  link_text: ''
-  name: Tooele Group
 - label: American Fork Women's Only Meeting
   city: American Fork
   day: Monday

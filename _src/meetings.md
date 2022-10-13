@@ -58,7 +58,7 @@ meetings:
   contact_name: Thomas
   contact_phone: 801-940-4178
   contact_email: ''
-  contact_instructions: ''
+  contact_instructions: Text messages preferred
   link_url: ''
   link_text: ''
   location: Cache

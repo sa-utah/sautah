@@ -652,20 +652,18 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: Zoom Link
-- label: SLC Sunday
+- label: SLC Sunday - Currently ZOOM Only
   city: Salt Lake City
   day: Sunday
   time_start: 6pm
   time_end: 7pm
-  address: 428 C Street
+  address: Currently ZOOM Only
   contact_name: Damon G
   contact_phone: 801-859-8774
   link_url: ''
-  location: Salt Lake
+  location: Online / Phone
   name: ''
-  notes: 'Education Center, Classroom G. Dress code: shirt, pants, closed-toe shoes.
-    West main entrance, down hallway, turn left, central elevators up one floor. Turn
-    right then into first hallway on left. End of hallway to second door on left.'
+  notes: ''
   contact_instructions: ''
   contact_email: ''
   link_text: ''

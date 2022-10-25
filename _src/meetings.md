@@ -571,20 +571,21 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Millcreek Friday
-  city: Salt Lake City
+- label: Murray Friday
+  city: Murray
   day: Friday
   time_start: 6:30am
   time_end: 7:30am
   address: 111 E 5600 S, Unit 304
-  contact_name: Chris
-  contact_phone: 801-895-3708
+  contact_name: Greg K
+  contact_phone: 801-661-3314
   link_url: https://meet.google.com/xuh-ssyx-mbd
   location: Salt Lake
   name: ''
-  notes: While in-person attendance is preferred, due to the current COVID crisis
-    we have created a Google Meet meeting for those who wish to join remotely. Connections
-    Counseling Services, northeast entrance, door to the right of 304
+  notes: |-
+    Independence Hall (West building in square) Suite 304
+
+    While in-person attendance is preferred, due to the current COVID crisis we have created a Google Meet meeting for those who wish to join remotely. Connections Counseling Services, northeast entrance, door to the right of 304
   contact_instructions: ''
   contact_email: ''
   link_text: ''

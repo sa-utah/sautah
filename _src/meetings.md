@@ -645,10 +645,11 @@ meetings:
   address: Currently ZOOM Only
   contact_name: Damon G
   contact_phone: 801-859-8774
-  link_url: ''
+  link_url: https://www.google.com/url?q=https://zoom.us/j/608422086?pwd%3DY1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09&sa=D&source=calendar&usd=2&usg=AOvVaw25UmwVbYS32u_MVr8bafOs
   location: Online / Phone
   name: ''
-  notes: ''
+  notes: 'SA Utah Sunday LDS Hospital Meeting Time: 6pm to 7pm Join Zoom Meeting https://zoom.us/j/608422086?pwd=Y1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
+    Meeting ID: 608 422 086 Password: 073813 '
   contact_instructions: ''
   contact_email: ''
   link_text: ''

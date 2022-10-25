@@ -458,14 +458,14 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Sandy Monday
+- label: Sandy Monday Noon
   city: Sandy
   day: Monday
   time_start: 12pm
   time_end: 1pm
   address: 9176 South 300 West
-  contact_name: Bob B
-  contact_phone: 801-893-2315
+  contact_name: Chad C
+  contact_phone: "(832) 948-8080"
   link_url: ''
   location: Salt Lake
   notes: Upstairs to suite 20

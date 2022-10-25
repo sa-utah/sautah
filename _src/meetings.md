@@ -336,21 +336,6 @@ meetings:
   link_text: Zoom Link
   location: Online / Phone
   name: Open & Honest
-- label: AF Saturday Meeting -Open & Honest Group
-  city: American Fork
-  day: Saturday
-  time_start: 8am
-  time_end: 9am
-  address: 765 East 340 South Suite 240 American Fork, UT 84003
-  notes: Saturday morning meeting for the Open & Honest Group
-  contact_name: TBD
-  contact_phone: TBD
-  contact_email: ''
-  contact_instructions: ''
-  link_url: ''
-  link_text: ''
-  location: Utah
-  name: Open & Honest
 - label: Logan Saturday 8:30am
   city: Logan
   day: Saturday

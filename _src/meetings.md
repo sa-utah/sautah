@@ -38,8 +38,8 @@ meetings:
   day: Wednesday
   time_start: 7:00 PM
   time_end: 8:00 PM
-  address: 3125 N Main Street, Suite 105
-  notes: Sleepy Health Utah Office (next to Hyde Park Dental)
+  address: 40 W Cache Valley Blvd, Suite 3C
+  notes: LoveStrong offices, 40 W Cache Valley Blvd, Suite 3C Logan, UT
   contact_name: Eric
   contact_phone: 801-833-4308
   contact_email: ''

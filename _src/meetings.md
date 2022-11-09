@@ -191,7 +191,7 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Orem Wednesday
+- label: Orem Wednesday Stop It Group
   city: Orem
   day: Wednesday
   time_start: 6:30pm
@@ -199,11 +199,11 @@ meetings:
   address: 1330 South 740 East
   notes: Basement of the counseling center. Down stairs on right-hand side of building.
     If it's locked, come in through main door and downstairs to the left.
-  contact_name: Ben F
-  contact_phone: 208-615-4778
+  contact_name: Scott C
+  contact_phone: 803-626-7583
   link_url: ''
   location: Utah
-  name: ''
+  name: Stop It Group
   contact_instructions: ''
   contact_email: ''
   link_text: ''

@@ -283,8 +283,8 @@ meetings:
   address: 50 West 200 North
   notes: Park in west lot, enter side glass door, straight then right down hall to
     library.
-  contact_name: Josh H
-  contact_phone: 801-319-0694
+  contact_name: Joshua
+  contact_phone: 801-557-1354
   contact_instructions: ''
   link_url: ''
   location: Utah

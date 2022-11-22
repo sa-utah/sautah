@@ -563,8 +563,8 @@ meetings:
   notes: Suite 20- Use stairs by the North side of Embroidery Warehouse. The door
     opens to a set of stairs that lead up to the second floor. Follow them up and
     look to your left.
-  contact_name: Jason O
-  contact_phone: 801-971-7910
+  contact_name: Sam E
+  contact_phone: 480-639-8710
   link_url: ''
   location: Salt Lake
   name: ''

@@ -199,8 +199,8 @@ meetings:
   address: 1330 South 740 East
   notes: Basement of the counseling center. Down stairs on right-hand side of building.
     If it's locked, come in through main door and downstairs to the left.
-  contact_name: Scott C
-  contact_phone: 803-626-7583
+  contact_name: Jordan
+  contact_phone: 435-669-9772
   link_url: ''
   location: Utah
   name: Stop It Group
@@ -579,13 +579,13 @@ meetings:
   address: 111 E 5600 S, Unit 304
   contact_name: Greg K
   contact_phone: 801-661-3314
-  link_url: ''
+  link_url: https://meet.google.com/xuh-ssyx-mbd
   location: Salt Lake
   name: ''
   notes: |-
     Independence Hall (West building in square) Suite 304
 
-    Connections Counseling Services, northeast entrance, door to the right of 304
+    While in-person attendance is preferred, due to the current COVID crisis we have created a Google Meet meeting for those who wish to join remotely. Connections Counseling Services, northeast entrance, door to the right of 304
   contact_instructions: ''
   contact_email: ''
   link_text: ''

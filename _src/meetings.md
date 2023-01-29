@@ -261,12 +261,13 @@ meetings:
 - label: Provo Thursday 200 North
   city: Provo
   day: Thursday
-  time_start: 6pm
-  time_end: 7pm
-  address: 350 E Center Street
-  notes: Meeting is in the basement of the law office. Enter through the south entrance
-    and go down the stairs. Meeting is in the room on the east side of the hallway
-    next to the circuit breaker box,
+  time_start: 5:30pm
+  time_end: 6:30pm
+  address: 50 W 200 N St
+  notes: |-
+    St. Mary’s Episcopal Church
+
+    Enter on the west side of the building. There is another 12 step meeting that happens in another part of the building at the same time as ours, so we will be meeting in the library.
   contact_name: Javan
   contact_phone: 385-246-6592
   link_url: ''

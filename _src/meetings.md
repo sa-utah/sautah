@@ -264,15 +264,14 @@ meetings:
   time_start: 5:30pm
   time_end: 6:30pm
   address: 50 W 200 N St
-  notes: |-
-    St. Mary’s Episcopal Church
-
-    Enter on the west side of the building. There is another 12 step meeting that happens in another part of the building at the same time as ours, so we will be meeting in the library.
+  notes: Enter on the west side of the building. There is another 12 step meeting
+    that happens in another part of the building at the same time as ours, so we will
+    be meeting in the library.
   contact_name: Javan
   contact_phone: 385-246-6592
   link_url: ''
   location: Utah
-  name: ''
+  name: St. Mary’s Episcopal Church
   contact_instructions: ''
   contact_email: ''
   link_text: ''

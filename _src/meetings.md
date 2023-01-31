@@ -228,19 +228,20 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Provo Thursday Center St
+- label: Provo Thursday Morning
   city: Provo
   day: Thursday
   time_start: 7am
   time_end: 8am
-  address: 350 E Center St
-  notes: Through main doors, down the stairs, turn right down hallway, first door
-    to the left after restrooms.
+  address: 50 W 200 N St
+  notes: Enter on the west side of the building. There is another 12 step meeting
+    that happens in another part of the building at the same time as ours, so we will
+    be meeting in the library.
   contact_name: Reed H
   contact_phone: 801-301-0491
   link_url: ''
   location: Utah
-  name: ''
+  name: St. Mary’s Episcopal Church
   contact_instructions: ''
   contact_email: ''
   link_text: ''
@@ -259,7 +260,7 @@ meetings:
   name: Not a Glum Lot
   contact_email: ''
   link_text: ''
-- label: Provo Thursday 200 North
+- label: Provo Thursday Evening
   city: Provo
   day: Thursday
   time_start: 5:30pm

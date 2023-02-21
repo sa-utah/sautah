@@ -400,15 +400,16 @@ meetings:
   link_text: ''
 - label: Kaysville Thursday
   city: Kaysville
-  day: Thursday
-  time_start: 12pm
-  time_end: 1pm
-  address: 521 Sportsplex Drive
+  day: TBD
+  time_start: TBD
+  time_end: TBD
+  address: TBD
   contact_name: John H
   contact_phone: 801-631-4883
   link_url: ''
   location: Davis & Weber
-  notes: White, barn-shaped building. Straight ahead at the top of the stairs
+  notes: If anyone is interested in starting a noon meeting in Davis County, please
+    contact John H (801-631-4883)
   name: ''
   contact_instructions: ''
   contact_email: ''

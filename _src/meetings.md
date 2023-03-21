@@ -9,9 +9,7 @@ meetings:
   time_start: 8pm
   time_end: 9pm
   address: 679 W Main Street
-  notes: |-
-    Ledgestone Hotel
-    Located in the Homestead Meeting Room
+  notes: Ledgestone Hotel - Located in the Homestead Meeting Room
   contact_name: TJ
   contact_phone: "-"
   contact_email: SAvernalut@gmail.com

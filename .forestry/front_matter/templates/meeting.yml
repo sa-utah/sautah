@@ -93,7 +93,6 @@ fields:
       - Washington
       - Intergroup
       - Tooele
-      - Uintah
       source:
         type: simple
         section: meeting-list

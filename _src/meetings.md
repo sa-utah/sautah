@@ -3,14 +3,28 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
+- label: Vernal Wednesday 2
+  city: Vernal
+  day: Wednesday
+  time_start: 8pm
+  time_end: 9pm
+  address: 679 W Main Street
+  notes: Ledgestone Hotel - Located in the Homestead Meeting Room
+  contact_name: TJ
+  contact_phone: "-"
+  contact_email: SAvernalut@gmail.com
+  location: Uintah
+  name: Wednesday Night Book Study
+  contact_instructions: ''
+  link_url: ''
+  link_text: ''
 - label: Tooele Wednesday
   city: Grantsville
   day: Wednesday
   time_start: 8:30 PM
   time_end: 9:30 PM
-  address: 99 North Center Street Grantsville, UT 84029
-  notes: 'Go to the back of the house where there’s stairs leading down to the basement
-    door. The light will be on. '
+  address: 243 E Main Street, Grantsville, UT 84029
+  notes: located in the strip mall just East of Soelberg’s grocer
   contact_name: Matt D
   contact_phone: 801-550-6543
   contact_email: satooele@gmail.com
@@ -165,14 +179,15 @@ meetings:
   day: Tuesday
   time_start: 7am
   time_end: 8am
-  address: 350 E Center St
-  notes: Through main doors, down the stairs, turn right down hallway, first door
-    to the left after restrooms.
+  address: 50 W 200 N St
+  notes: Enter on the west side of the building. There is another 12 step meeting
+    that happens in another part of the building at the same time as ours, so we will
+    be meeting in the library.
   contact_name: 'Bond H. '
   contact_phone: "(702) 306-1747"
   link_url: ''
   location: Utah
-  name: ''
+  name: St. Mary’s Episcopal Church
   contact_instructions: ''
   contact_email: ''
   link_text: ''
@@ -200,8 +215,8 @@ meetings:
   address: 1330 South 740 East
   notes: Basement of the counseling center. Down stairs on right-hand side of building.
     If it's locked, come in through main door and downstairs to the left.
-  contact_name: Scott C
-  contact_phone: 803-626-7583
+  contact_name: Jordan
+  contact_phone: 435-669-9772
   link_url: ''
   location: Utah
   name: Stop It Group
@@ -228,19 +243,20 @@ meetings:
   contact_instructions: ''
   contact_email: ''
   link_text: ''
-- label: Provo Thursday Center St
+- label: Provo Thursday Morning
   city: Provo
   day: Thursday
   time_start: 7am
   time_end: 8am
-  address: 350 E Center St
-  notes: Through main doors, down the stairs, turn right down hallway, first door
-    to the left after restrooms.
+  address: 50 W 200 N St
+  notes: Enter on the west side of the building. There is another 12 step meeting
+    that happens in another part of the building at the same time as ours, so we will
+    be meeting in the library.
   contact_name: Reed H
   contact_phone: 801-301-0491
   link_url: ''
   location: Utah
-  name: ''
+  name: St. Mary’s Episcopal Church
   contact_instructions: ''
   contact_email: ''
   link_text: ''
@@ -259,20 +275,20 @@ meetings:
   name: Not a Glum Lot
   contact_email: ''
   link_text: ''
-- label: Provo Thursday 200 North
+- label: Provo Thursday Evening
   city: Provo
   day: Thursday
-  time_start: 6pm
-  time_end: 7pm
-  address: 350 E Center Street
-  notes: Meeting is in the basement of the law office. Enter through the south entrance
-    and go down the stairs. Meeting is in the room on the east side of the hallway
-    next to the circuit breaker box,
+  time_start: 5:30pm
+  time_end: 6:30pm
+  address: 50 W 200 N St
+  notes: Enter on the west side of the building. There is another 12 step meeting
+    that happens in another part of the building at the same time as ours, so we will
+    be meeting in the library.
   contact_name: Javan
   contact_phone: 385-246-6592
   link_url: ''
   location: Utah
-  name: ''
+  name: St. Mary’s Episcopal Church
   contact_instructions: ''
   contact_email: ''
   link_text: ''
@@ -399,15 +415,16 @@ meetings:
   link_text: ''
 - label: Kaysville Thursday
   city: Kaysville
-  day: Thursday
-  time_start: 12pm
-  time_end: 1pm
-  address: 521 Sportsplex Drive
+  day: TBD
+  time_start: TBD
+  time_end: TBD
+  address: TBD
   contact_name: John H
   contact_phone: 801-631-4883
   link_url: ''
   location: Davis & Weber
-  notes: White, barn-shaped building. Straight ahead at the top of the stairs
+  notes: If anyone is interested in starting a noon meeting in Davis County, please
+    contact John H (801-631-4883)
   name: ''
   contact_instructions: ''
   contact_email: ''
@@ -543,15 +560,14 @@ meetings:
   day: Thursday
   time_start: 7pm
   time_end: 8pm
-  address: "*Currently Zoom Only* LDS Hospital, Huntsman Education Center , class
-    room A"
+  address: 400 C St E, Salt Lake City, UT 84143
   contact_name: Jerred B
   contact_phone: 801-891-9009
-  link_url: https://zoom.us/j/989872403?pwd=emV3ay8zdDFlZUV4TUJOVHRWSEVpQT09
+  link_url: ''
   location: Salt Lake
   name: ''
   city: Salt Lake City
-  notes: " Currently on Zoom- Only"
+  notes: LDS Hospital, Huntsman Education Center, classroom A
   contact_instructions: ''
   contact_email: ''
   link_text: ''
@@ -580,13 +596,13 @@ meetings:
   address: 111 E 5600 S, Unit 304
   contact_name: Greg K
   contact_phone: 801-661-3314
-  link_url: ''
+  link_url: https://meet.google.com/xuh-ssyx-mbd
   location: Salt Lake
   name: ''
   notes: |-
     Independence Hall (West building in square) Suite 304
 
-    Connections Counseling Services, northeast entrance, door to the right of 304
+    While in-person attendance is preferred, due to the current COVID crisis we have created a Google Meet meeting for those who wish to join remotely. Connections Counseling Services, northeast entrance, door to the right of 304
   contact_instructions: ''
   contact_email: ''
   link_text: ''

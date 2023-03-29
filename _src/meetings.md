@@ -3,7 +3,7 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
-- label: Vernal Wednesday 2
+- label: Vernal Wednesday
   city: Vernal
   day: Wednesday
   time_start: 8pm

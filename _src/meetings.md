@@ -164,7 +164,7 @@ meetings:
   day: Friday
   time_start: 12:00pm
   time_end: 1:00pm
-  address: 35 State Street (SR-9) Hurricane, UT 84737
+  address: 35 State Street (SR-9)
   notes: USE BASEMENT ENTRANCE AT REAR OF MUSEUM. Parking is available at rear of the building. This is a closed meeting. Format includes readings from SA approved literature with discussion, and member stories 
   contact_name: Bruce
   contact_phone: 610-731-1451
@@ -172,7 +172,7 @@ meetings:
   contact_instructions: ''
   link_url: ''
   link_text: ''
-  location: Hurricane
+  location: Washington
   name: 'Hurricane, UT Friday Noon SA Meeting'
 - label: Provo Tuesday
   city: Provo

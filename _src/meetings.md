@@ -159,21 +159,21 @@ meetings:
   link_text: ''
   location: Washington
   name: ''
-- label: St George Thursday
-  city: St. George
-  day: Thursday
-  time_start: 7:30pm
-  time_end: 8:30pm
-  address: 474 W. 200 N.
-  notes: Room 206.  Use the back stairs.
-  contact_name: Paul J
-  contact_phone: 435-749-9908
+- label: Hurricane Friday
+  city: Hurricane
+  day: Friday
+  time_start: 12:00pm
+  time_end: 1:00pm
+  address: 35 State Street (SR-9) Hurricane, UT 84737
+  notes: USE BASEMENT ENTRANCE AT REAR OF MUSEUM. Parking is available at rear of the building. This is a closed meeting. Format includes readings from SA approved literature with discussion, and member stories 
+  contact_name: Bruce
+  contact_phone: 610-731-1451
   contact_email: ''
-  contact_instructions: Texts only please
+  contact_instructions: ''
   link_url: ''
   link_text: ''
-  location: Washington
-  name: ''
+  location: Hurricane
+  name: 'Hurricane, UT Friday Noon SA Meeting'
 - label: Provo Tuesday
   city: Provo
   day: Tuesday

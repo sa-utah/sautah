@@ -494,8 +494,8 @@ meetings:
 - label: Murray Tuesday
   city: Murray
   day: Tuesday
-  time_start: 6pm
-  time_end: 7:20pm
+  time_start: 7pm
+  time_end: 8:20pm
   address: 111 East 5600 South
   contact_name: Garrett C
   contact_phone: 281-723-8146
@@ -627,8 +627,8 @@ meetings:
   day: Saturday
   time_start: 7:30am
   time_end: 8:30am
-  contact_name: Taylor Y
-  contact_phone: 801-413-3991
+  contact_name: Daniel P
+  contact_phone: 801-458-9370
   link_url: ''
   location: Salt Lake
   name: ''

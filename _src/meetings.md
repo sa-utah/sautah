@@ -497,8 +497,8 @@ meetings:
   time_start: 7pm
   time_end: 8:20pm
   address: 111 East 5600 South
-  contact_name: Garrett C
-  contact_phone: 281-723-8146
+  contact_name: Erik J
+  contact_phone: 801-205-1811
   link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09
   location: Salt Lake
   notes: Independence Hall (West building in square) Suite 304

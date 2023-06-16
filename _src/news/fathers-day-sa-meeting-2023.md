@@ -2,7 +2,7 @@
 tags:
 - news
 title: Fathers Day Special SA Meeting
-date: 2023-06-02T20:00:00Z
+date: 2023-06-03T20:00:00Z
 excerpt: June 18th, 2023 - 11AM EDT
 image: "assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg"
 

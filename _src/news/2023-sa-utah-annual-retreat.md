@@ -1,5 +1,5 @@
 ---
-title: SA Utah Annual Retreat":" It Works When You Work It
+title: SA Utah Annual Retreat - It Works When You Work It
 excerpt: Save the date! October 9-10, 2020 at the Salt Lake Community College Miller Campus
 image: /assets/retreat.jpg
 date: 2023-07-09

@@ -235,8 +235,8 @@ meetings:
 
      Zoom Meeting ID: 899 4202 6673
     Passcode: $aLeh1
-  contact_name: John P
-  contact_phone: 801-655-3435
+  contact_name: Landon F.
+  contact_phone: 801-690-1194
   link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
   location: Utah
   name: ''

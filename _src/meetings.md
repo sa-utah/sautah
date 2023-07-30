@@ -560,14 +560,14 @@ meetings:
   day: Thursday
   time_start: 7pm
   time_end: 8pm
-  address: 400 C St E, Salt Lake City, UT 84143
+  address: 180 East 2100 South, Suite 203 Salt Lake City, UT 84115
   contact_name: Jerred B
   contact_phone: 801-891-9009
   link_url: ''
   location: Salt Lake
   name: ''
   city: Salt Lake City
-  notes: LDS Hospital, Huntsman Education Center, classroom A
+  notes: Usara Office, Suite 203
   contact_instructions: ''
   contact_email: ''
   link_text: ''

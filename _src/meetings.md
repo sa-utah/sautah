@@ -284,8 +284,8 @@ meetings:
   notes: Enter on the west side of the building. There is another 12 step meeting
     that happens in another part of the building at the same time as ours, so we will
     be meeting in the library.
-  contact_name: Javan
-  contact_phone: 385-246-6592
+  contact_name: Cordell T.
+  contact_phone: 615-498-3335
   link_url: ''
   location: Utah
   name: St. Mary’s Episcopal Church

@@ -13,4 +13,4 @@ Save the date! October 13-14, 2023 at the Salt Lake Community College Miller Cam
 9750 S 300 W
 Sandy, UT
 
-For more information, please contact **sasanonutahretreat2023@gmail.com**.
+For more information: visit <https://www.sautahretreats.org> or contact **sasanonutahretreat2023@gmail.com**.

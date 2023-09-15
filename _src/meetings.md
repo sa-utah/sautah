@@ -522,8 +522,8 @@ meetings:
     time_start: 7pm
     time_end: 8pm
     address: 9176 South 300 West
-    contact_name: Matt F
-    contact_phone: 801-613-1017
+    contact_name: Trent
+    contact_phone: 385-257-9188
     link_url: ""
     location: Salt Lake
     notes: Upstairs to suite 20

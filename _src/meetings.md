@@ -116,9 +116,9 @@ meetings:
     name: ""
   - label: Divorced Dads
     city: Pleasant Grove
-    day: Monday
-    time_start: 6:15pm
-    time_end: 7:15pm
+    day: Tuesday
+    time_start: 7:00pm
+    time_end: 8:00pm
     address: Currently Zoom Only
     notes: ""
     contact_name: Danny P

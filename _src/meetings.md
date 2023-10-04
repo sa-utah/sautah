@@ -272,7 +272,7 @@ meetings:
     time_start: 6pm
     time_end: 7pm
     address: 603 N 970 W, Provo,UT
-    notes: Open meeting. Literature study. Come right in through the purple door.
+    notes: Open meeting. Literature study. Come right in through the blue door.
     contact_name: Ben F
     contact_phone: "(208)615-4778"
     contact_instructions: ""

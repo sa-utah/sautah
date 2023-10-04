@@ -322,7 +322,7 @@ meetings:
     time_start: 9am
     time_end: 10am
     address: 603 N 970 W, Provo, UT
-    notes: Open meeting. Big Book study. Come right in through the purple door.
+    notes: Open meeting. Big Book study. Come right in through the blue door.
     contact_name: Ben F
     contact_phone: "(208)615-4778"
     contact_instructions: ""

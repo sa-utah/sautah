@@ -3,7 +3,7 @@ tags:
 - news
 title: Gratitude Day
 excerpt: Gratitude Day - November 4, 2023. Registration Open Until October 28, 2023
-image: "/assets/977ff4_604468697fd24761987de8e6b3cd0f24_mv2.png"
+image: "assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg"
 date: 2023-10-09
 ---
 

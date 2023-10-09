@@ -22,9 +22,9 @@ This once-a-year recovery opportunity can be such a good boost to our personal a
 
 **Cost with lunch:** $30
 
-**Check website for updates:** https://www.casaig.org/events
+**Check website for updates:** <https://www.casaig.org/events>
 
-**To register:** https://forms.gle/B2PfiLFsreptka3AA
+**To register:** <https://forms.gle/B2PfiLFsreptka3AA>
 
 You can send payment on Venmo mentioning "Gratitude Day" in comments to: @Intergroup-CASA
-https://venmo.com/u/intergroup-casa
+<https://venmo.com/u/intergroup-casa>

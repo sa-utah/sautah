@@ -13,11 +13,17 @@ This once-a-year recovery opportunity can be such a good boost to our personal a
 
 
 **Gratitude Day (Annual Fall Recovery Marathon) - Saturday, November 4, 2023**
+
 **Location:** Online & North Bethesda, Maryland (US)
+
 **Keynote speaker:** Nick S from Milwaukee, WI (US)
+
 **Cost in-person or online:** $10
+
 **Cost with lunch:** $30
+
 **Check website for updates:** https://www.casaig.org/events
+
 **To register:** https://forms.gle/B2PfiLFsreptka3AA
 
 You can send payment on Venmo mentioning "Gratitude Day" in comments to: @Intergroup-CASA

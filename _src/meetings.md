@@ -221,7 +221,7 @@ meetings:
       Basement of the counseling center. Down stairs on right-hand side of building.
       If it's locked, come in through main door and downstairs to the left.
     contact_name: Jordan
-    contact_phone: 435-669-9772
+    contact_phone: 801-717-9070
     link_url: ""
     location: Utah
     name: Stop It Group

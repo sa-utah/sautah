@@ -271,8 +271,8 @@ meetings:
     day: Friday
     time_start: 6pm
     time_end: 7pm
-    address: 603 N 970 W, Provo,UT
-    notes: Open meeting. Literature study. Come right in through the blue door.
+    address: 603 N 970 W
+    notes: Open meeting. Literature study. Go through the white gate into the garage (side door).
     contact_name: Ben F
     contact_phone: "(208)615-4778"
     contact_instructions: ""
@@ -321,8 +321,8 @@ meetings:
     day: Saturday
     time_start: 9am
     time_end: 10am
-    address: 603 N 970 W, Provo, UT
-    notes: Open meeting. Big Book study. Come right in through the blue door.
+    address: 603 N 970 W
+    notes: Open meeting. Big Book study. Go through the white gate into the garage (side door).
     contact_name: Ben F
     contact_phone: "(208)615-4778"
     contact_instructions: ""
@@ -403,6 +403,21 @@ meetings:
     link_url: ""
     location: Davis & Weber
     name: Bountiful Primary Purpose
+    contact_instructions: ""
+    contact_email: ""
+    link_text: ""
+  - label: Ogden Thursday
+    city: Ogden
+    day: Thursday
+    time_start: 7pm
+    time_end: 8pm
+    address: USARA - 893 24th Suite 100
+    notes: ""
+    contact_name: Thomas P
+    contact_phone: 385-298-9844
+    link_url: ""
+    location: Davis & Weber
+    name: "Work It Group"
     contact_instructions: ""
     contact_email: ""
     link_text: ""

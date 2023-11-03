@@ -3,21 +3,22 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
-  - label: Vernal Wednesday
-    city: Vernal
-    day: Wednesday
-    time_start: 8pm
-    time_end: 9pm
-    address: 679 W Main Street
-    notes: Ledgestone Hotel - Located in the Homestead Meeting Room
-    contact_name: TJ
-    contact_phone: "-"
-    contact_email: SAvernalut@gmail.com
-    location: Uintah
-    name: Wednesday Night Book Study
-    contact_instructions: ""
-    link_url: ""
-    link_text: ""
+  # Paused
+  # - label: Vernal Wednesday
+  #   city: Vernal
+  #   day: Wednesday
+  #   time_start: 8pm
+  #   time_end: 9pm
+  #   address: 679 W Main Street
+  #   notes: Ledgestone Hotel - Located in the Homestead Meeting Room
+  #   contact_name: TJ
+  #   contact_phone: "-"
+  #   contact_email: SAvernalut@gmail.com
+  #   location: Uintah
+  #   name: Wednesday Night Book Study
+  #   contact_instructions: ""
+  #   link_url: ""
+  #   link_text: ""
   - label: Tooele Wednesday
     city: Grantsville
     day: Wednesday
@@ -25,8 +26,8 @@ meetings:
     time_end: 9:30 PM
     address:
     notes: Contact me for Zoom details to join remotely.
-    contact_name: Matt D
-    contact_phone: 801-550-6543
+    contact_name: Lex
+    contact_phone: 801-657-1441
     contact_email: satooele@gmail.com
     contact_instructions: ""
     link_url: ""
@@ -63,21 +64,22 @@ meetings:
     link_text: ""
     location: Cache
     name: ""
-  - label: Logan Saturday 6:00 am
-    city: Logan
-    day: Saturday
-    time_start: 6:00 AM
-    time_end: 7:00 AM
-    address: 40 W Cache Valley Blvd Suite 3C
-    notes: Lovestrong Offices
-    contact_name: Thomas
-    contact_phone: 801-940-4178
-    contact_email: ""
-    contact_instructions: Text messages preferred
-    link_url: ""
-    link_text: ""
-    location: Cache
-    name: ""
+  # Paused
+  # - label: Logan Saturday 6:00 am
+  #   city: Logan
+  #   day: Saturday
+  #   time_start: 6:00 AM
+  #   time_end: 7:00 AM
+  #   address: 40 W Cache Valley Blvd Suite 3C
+  #   notes: Lovestrong Offices
+  #   contact_name: Thomas
+  #   contact_phone: 801-940-4178
+  #   contact_email: ""
+  #   contact_instructions: Text messages preferred
+  #   link_url: ""
+  #   link_text: ""
+  #   location: Cache
+  #   name: ""
   - label: American Fork Women's Only Meeting
     city: American Fork
     day: Monday
@@ -152,9 +154,9 @@ meetings:
     time_start: 7:30pm
     time_end: 8:30pm
     address: 474 W. 200 N.
-    notes: Room 206.  Use the back stairs.
-    contact_name: Brandon
-    contact_phone: 702-375-5283
+    notes: Room 206. Enter through the doors on the North side of the building.
+    contact_name: Leland
+    contact_phone: 702-245-7281
     contact_email: ""
     contact_instructions: ""
     link_url: ""
@@ -183,9 +185,7 @@ meetings:
     time_end: 8am
     address: 50 W 200 N St
     notes:
-      Enter on the west side of the building. There is another 12 step meeting
-      that happens in another part of the building at the same time as ours, so we will
-      be meeting in the library.
+      Enter on the west side of the building. We meet in the large room to the left of the entrance.
     contact_name: "Bond H. "
     contact_phone: "(702) 306-1747"
     link_url: ""
@@ -194,23 +194,24 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: ""
-  - label: AF Tuesday
-    city: American Fork
-    day: Tuesday
-    time_start: 6pm
-    time_end: 7:30pm
-    address: 75 North 100 East
-    notes:
-      Park in the back, enter through the white door beneath the sign that says
-      Community Presbyterian Church. Go down the hall to the main room on your left.
-    contact_name: Tyler R
-    contact_phone: 801-420-5975
-    link_url: ""
-    location: Utah
-    name: ""
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
+  # Paused
+  # - label: AF Tuesday
+  #   city: American Fork
+  #   day: Tuesday
+  #   time_start: 6pm
+  #   time_end: 7:30pm
+  #   address: 75 North 100 East
+  #   notes:
+  #     Park in the back, enter through the white door beneath the sign that says
+  #     Community Presbyterian Church. Go down the hall to the main room on your left.
+  #   contact_name: Tyler R
+  #   contact_phone: 801-420-5975
+  #   link_url: ""
+  #   location: Utah
+  #   name: ""
+  #   contact_instructions: ""
+  #   contact_email: ""
+  #   link_text: ""
   - label: Orem Wednesday Stop It Group
     city: Orem
     day: Wednesday
@@ -274,7 +275,7 @@ meetings:
     address: 603 N 970 W
     notes: Open meeting. Literature study. Go through the white gate into the garage (side door).
     contact_name: Ben F
-    contact_phone: "(208)615-4778"
+    contact_phone: 208-615-4778
     contact_instructions: ""
     link_url: ""
     location: Utah
@@ -324,7 +325,7 @@ meetings:
     address: 603 N 970 W
     notes: Open meeting. Big Book study. Go through the white gate into the garage (side door).
     contact_name: Ben F
-    contact_phone: "(208)615-4778"
+    contact_phone: 208-615-4778
     contact_instructions: ""
     link_url: ""
     location: Utah
@@ -337,7 +338,7 @@ meetings:
     time_end: 1pm
     address: Online
     contact_name: Tim B
-    contact_phone: 801-949-2978‬
+    contact_phone: 801-949-2978
     link_url: https://tiny.cc/sautahzoom
     location: Online / Phone
     notes: "Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#"
@@ -346,21 +347,22 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: ""
-  - label: Zoom Wednesday
-    city: ""
-    day: Wednesday
-    time_start: 8pm
-    time_end: 9pm
-    address: Online
-    notes: ""
-    contact_name: Michael S
-    contact_phone: 203-375-0064
-    contact_email: ""
-    contact_instructions: ""
-    link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
-    link_text: Zoom Link
-    location: Online / Phone
-    name: Open & Honest
+  # Paused
+  # - label: Zoom Wednesday
+  #   city: ""
+  #   day: Wednesday
+  #   time_start: 8pm
+  #   time_end: 9pm
+  #   address: Online
+  #   notes: ""
+  #   contact_name: Michael S
+  #   contact_phone: 203-375-0064
+  #   contact_email: ""
+  #   contact_instructions: ""
+  #   link_url: https://us05web.zoom.us/j/82925937903?pwd=MllxZFMwUnNxUnZES2J5MWVhOEVqQT09
+  #   link_text: Zoom Link
+  #   location: Online / Phone
+  #   name: Open & Honest
   - label: Logan Saturday 8:30am
     city: Logan
     day: Saturday
@@ -368,29 +370,30 @@ meetings:
     time_end: 9:30a
     address: 178 W Center St
     notes: Park on the east side, enter the basement and go through the kitchen.
-    contact_name: Matt
-    contact_phone: 801-368-9782
+    contact_name: Baylor
+    contact_phone: 435-230-1566
     link_url: ""
     location: Cache
     name: ""
     contact_instructions: ""
     contact_email: saloganutah@gmail.com
     link_text: ""
-  - label: Ogden Tuesday
-    city: Ogden
-    day: Tuesday
-    time_start: 12pm
-    time_end: 1pm
-    address: 2484 Washington Blvd
-    notes: "5th Floor Room 501 Door Code: 2002"
-    contact_name: Steve A
-    contact_phone: 385-519-5728
-    link_url: ""
-    location: Davis & Weber
-    name: ""
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
+  # Paused
+  # - label: Ogden Tuesday
+  #   city: Ogden
+  #   day: Tuesday
+  #   time_start: 12pm
+  #   time_end: 1pm
+  #   address: 2484 Washington Blvd
+  #   notes: "5th Floor Room 501 Door Code: 2002"
+  #   contact_name: Steve A
+  #   contact_phone: 385-519-5728
+  #   link_url: ""
+  #   location: Davis & Weber
+  #   name: ""
+  #   contact_instructions: ""
+  #   contact_email: ""
+  #   link_text: ""
   - label: Bountiful Primary Purpose Tuesday
     city: Bountiful
     day: Tuesday
@@ -398,8 +401,8 @@ meetings:
     time_end: 7am
     address: 25 North 200 West
     notes: Hope Room
-    contact_name: Scott S
-    contact_phone: 801-540-3913
+    contact_name: Jeremy D
+    contact_phone: 801-390-3851
     link_url: ""
     location: Davis & Weber
     name: Bountiful Primary Purpose
@@ -428,28 +431,11 @@ meetings:
     time_end: 7am
     address: 25 North 200 West
     notes: Hope Room
-    contact_name: Scott S
-    contact_phone: 801-540-3913
+    contact_name: Jeremy D
+    contact_phone: 801-390-3851
     link_url: ""
     location: Davis & Weber
     name: Bountiful Primary Purpose
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
-  - label: Kaysville Thursday
-    city: Kaysville
-    day: TBD
-    time_start: TBD
-    time_end: TBD
-    address: TBD
-    contact_name: John H
-    contact_phone: 801-631-4883
-    link_url: ""
-    location: Davis & Weber
-    notes:
-      If anyone is interested in starting a noon meeting in Davis County, please
-      contact John H (801-631-4883)
-    name: ""
     contact_instructions: ""
     contact_email: ""
     link_text: ""
@@ -496,7 +482,7 @@ meetings:
     link_url: ""
     location: Iron
     time_end: 7pm
-    notes: Go up the ramp in the back. First room on the right.
+    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway.
     name: ""
     contact_instructions: ""
     contact_email: ""
@@ -507,7 +493,7 @@ meetings:
     time_start: 12pm
     time_end: 1pm
     address: 9176 South 300 West
-    contact_name: Jeremy J
+    contact_name: Jeremy
     contact_phone: "(385) 743-2711"
     link_url: ""
     location: Salt Lake
@@ -520,7 +506,7 @@ meetings:
     city: Murray
     day: Tuesday
     time_start: 7pm
-    time_end: 8:20pm
+    time_end: 8pm
     address: 111 East 5600 South
     contact_name: Erik J
     contact_phone: 801-205-1811
@@ -604,13 +590,13 @@ meetings:
     address: 111 E 5600 S, Unit 304
     contact_name: Greg K
     contact_phone: 801-661-3314
-    link_url: https://meet.google.com/xuh-ssyx-mbd
+    link_url: ""
     location: Salt Lake
     name: ""
     notes: |-
       Independence Hall (West building in square) Suite 304
-
-      While in-person attendance is preferred, due to the current COVID crisis we have created a Google Meet meeting for those who wish to join remotely. Connections Counseling Services, northeast entrance, door to the right of 304
+      
+      Connections Counseling Services, northeast entrance, door to the right of 304
     contact_instructions: ""
     contact_email: ""
     link_text: ""
@@ -660,7 +646,10 @@ meetings:
     notes: |-
       Currently online only.
 
-      Education Center, Amicus Board Room. Dress code: shirt, pants, closed-toe shoes. West main entrance, down hallway, turn left, central elevators up one floor. Turn right then into first hallway on left. End of hallway to second door on left.
+      Join Zoom Meeting
+      
+      Meeting ID: 862 3819 7798
+      Password: WorkSteps!
     contact_instructions: ""
     contact_email: ""
     link_text: Zoom Link
@@ -672,58 +661,29 @@ meetings:
     address: Currently ZOOM Only
     contact_name: Damon G
     contact_phone: 801-859-8774
-    link_url: https://www.google.com/url?q=https://zoom.us/j/608422086?pwd%3DY1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09&sa=D&source=calendar&usd=2&usg=AOvVaw25UmwVbYS32u_MVr8bafOs
+    link_url: https://zoom.us/j/608422086?pwd%3DY1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
     location: Online / Phone
-    name: ""
+    name: "Sunday LDS Hospital"
     notes:
-      "SA Utah Sunday LDS Hospital Meeting Time: 6pm to 7pm Join Zoom Meeting https://zoom.us/j/608422086?pwd=Y1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
-      Meeting ID: 608 422 086 Password: 073813 "
+      "Meeting Time: 6pm to 7pm Join Zoom Meeting https://zoom.us/j/608422086?pwd=Y1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
+      Meeting ID: 608 422 086 Password: 073813"
     contact_instructions: ""
     contact_email: ""
-    link_text: ""
-  - label: Moab TBD
-    city: Moab
-    day: TBD
-    time_start: TBD
-    time_end: TBD
-    address: TBD
-    contact_name: Jason M
-    contact_phone: "TBD "
-    link_url: ""
-    location: San Juan
-    name: ""
-    notes: Interest, looking for others…
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
-  - label: Ephraim Tuesday
-    city: Ephraim
-    day: Tuesday
-    time_start: 8:30 PM
-    time_end: 9:30 PM
-    address: 390 West 100 North
-    contact_name: Shane R
-    contact_phone: 801-884-8752
-    link_url: ""
-    location: Sanpete
-    name: ""
-    notes: ""
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
-  - label: Park City Tuesday
-    city: Park City
-    day: Tuesday
-    time_start: 8pm
-    time_end: 9pm
-    address: 1283 Deer Valley Drive
-    contact_name: Jeff H
-    contact_phone: 713-480-7318
-    link_url: ""
-    location: Summit
-    name: ""
-    notes: ""
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
+    link_text: Zoom Link
+  # Paused
+  # - label: Ephraim Tuesday
+  #   city: Ephraim
+  #   day: Tuesday
+  #   time_start: 8:30 PM
+  #   time_end: 9:30 PM
+  #   address: 390 West 100 North
+  #   contact_name: Shane R
+  #   contact_phone: 801-884-8752
+  #   link_url: ""
+  #   location: Sanpete
+  #   name: ""
+  #   notes: ""
+  #   contact_instructions: ""
+  #   contact_email: ""
+  #   link_text: ""
 ---

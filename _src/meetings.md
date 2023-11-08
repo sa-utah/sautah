@@ -670,20 +670,19 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: Zoom Link
-  # Paused
-  # - label: Ephraim Tuesday
-  #   city: Ephraim
-  #   day: Tuesday
-  #   time_start: 8:30 PM
-  #   time_end: 9:30 PM
-  #   address: 390 West 100 North
-  #   contact_name: Shane R
-  #   contact_phone: 801-884-8752
-  #   link_url: ""
-  #   location: Sanpete
-  #   name: ""
-  #   notes: ""
-  #   contact_instructions: ""
-  #   contact_email: ""
-  #   link_text: ""
+  - label: Ephraim Tuesday
+    city: Ephraim
+    day: Tuesday
+    time_start: 8:30 PM
+    time_end: 9:30 PM
+    address: 390 West 100 North
+    contact_name: Clinton
+    contact_phone: 435-813-2821
+    link_url: ""
+    location: Sanpete
+    name: ""
+    notes: ""
+    contact_instructions: ""
+    contact_email: ""
+    link_text: ""
 ---

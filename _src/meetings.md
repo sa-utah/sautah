@@ -3,22 +3,21 @@ layout: meetings
 metaTitle: Sexaholics Anonymous Meetings in Utah
 title: Meetings & Groups
 meetings:
-  # Paused
-  # - label: Vernal Wednesday
-  #   city: Vernal
-  #   day: Wednesday
-  #   time_start: 8pm
-  #   time_end: 9pm
-  #   address: 679 W Main Street
-  #   notes: Ledgestone Hotel - Located in the Homestead Meeting Room
-  #   contact_name: TJ
-  #   contact_phone: "-"
-  #   contact_email: SAvernalut@gmail.com
-  #   location: Uintah
-  #   name: Wednesday Night Book Study
-  #   contact_instructions: ""
-  #   link_url: ""
-  #   link_text: ""
+  - label: Vernal Wednesday
+    city: Vernal
+    day: Wednesday
+    time_start: 8pm
+    time_end: 9pm
+    address: 679 W Main Street
+    notes: Ledgestone Hotel - Located in the Homestead Meeting Room
+    contact_name: TJ
+    contact_phone: "-"
+    contact_email: SAvernalut@gmail.com
+    location: Uintah
+    name: Wednesday Night Book Study
+    contact_instructions: ""
+    link_url: ""
+    link_text: ""
   - label: Tooele Wednesday
     city: Grantsville
     day: Wednesday

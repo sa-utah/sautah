@@ -240,8 +240,8 @@ meetings:
 
        Zoom Meeting ID: 899 4202 6673
       Passcode: $aLeh1
-    contact_name: Landon F.
-    contact_phone: 801-690-1194
+    contact_name: Gideon
+    contact_phone: 891-530-9205
     link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
     location: Utah
     name: ""

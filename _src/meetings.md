@@ -474,13 +474,13 @@ meetings:
   - label: Cedar City Wednesday
     city: Cedar City
     day: Wednesday
-    time_start: 6pm
+    time_start: 7pm
     address: 203 E. Cobble Creek Road
     contact_name: Ben B
     contact_phone: 435-592-3242
     link_url: ""
     location: Iron
-    time_end: 7pm
+    time_end: 8pm
     notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway.
     name: ""
     contact_instructions: ""

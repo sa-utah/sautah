@@ -108,7 +108,7 @@ meetings:
       by phone: 669-900-6833 or 346-248-7799\nMeeting ID: 613 980 2805 \nTo mute/unmute:
       *6\nTo raise your hand: *9\n\n"
     contact_name: Ben T
-    contact_phone: "-"
+    contact_phone: 
     contact_email: dusty8343@gmail.com
     contact_instructions: Email contact only please
     link_url: https://zoom.us/j/6139802805

@@ -37,7 +37,7 @@ layout: page
           </td>
           <td class="meetings-contact">
             {{ meeting.contact_name }}<br>
-            <a href="tel:{{ meeting.contact_phone }}" class="text-nowrap">{{ meeting.contact_phone }}</a><br>
+            {% if meeting.contact_phone %}<a href="tel:{{ meeting.contact_phone }}" class="text-nowrap">{{ meeting.contact_phone }}</a><br>{% endif %}
             {% if meeting.contact_email %}<a href="mailto:{{ meeting.contact_email }}" class="text-nowrap">{{ meeting.contact_email }}</a>{% endif %}
             {% if meeting.contact_instructions %}<span class="font-weight-light">{{ meeting.contact_instructions }}</span>{% endif %}
           </td>

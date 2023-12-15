@@ -11,7 +11,7 @@ meetings:
     address: 679 W Main Street
     notes: Ledgestone Hotel - Located in the Homestead Meeting Room
     contact_name: TJ
-    contact_phone: "-"
+    contact_phone: 
     contact_email: SAvernalut@gmail.com
     location: Uintah
     name: Wednesday Night Book Study

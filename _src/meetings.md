@@ -266,21 +266,6 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: ""
-  - label: Provo Not a Glum Lot Friday
-    city: Provo
-    day: Friday
-    time_start: 6pm
-    time_end: 7pm
-    address: 603 N 970 W
-    notes: Open meeting. Literature study. Go through the white gate into the garage (side door).
-    contact_name: Ben F
-    contact_phone: 208-615-4778
-    contact_instructions: ""
-    link_url: ""
-    location: Utah
-    name: Not a Glum Lot
-    contact_email: ""
-    link_text: ""
   - label: Provo Thursday Evening
     city: Provo
     day: Thursday
@@ -322,7 +307,7 @@ meetings:
     time_start: 9am
     time_end: 10am
     address: 603 N 970 W
-    notes: Open meeting. Big Book study. Go through the white gate into the garage (side door).
+    notes: Open meeting. Big Book study. We meet in the front room of the house; come in through the blue door.
     contact_name: Ben F
     contact_phone: 208-615-4778
     contact_instructions: ""

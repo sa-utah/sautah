@@ -398,7 +398,7 @@ meetings:
     day: Thursday
     time_start: 7pm
     time_end: 8pm
-    address: USARA - 893 24th Suite 100
+    address: USARA - 893 24th, Suite 200
     notes: ""
     contact_name: Thomas P
     contact_phone: 385-298-9844

@@ -405,7 +405,7 @@ meetings:
     link_url: ""
     location: Davis & Weber
     name: "Work It Group"
-    contact_instructions: ""
+    contact_instructions: "Text messages preferred"
     contact_email: ""
     link_text: ""
   - label: Bountiful Primary Purpose Thursday

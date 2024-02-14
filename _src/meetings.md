@@ -404,7 +404,7 @@ meetings:
     contact_phone: 385-298-9844
     link_url: ""
     location: Davis & Weber
-    name: "Work It Group"
+    name: "It Works Group"
     contact_instructions: "Text messages preferred"
     contact_email: ""
     link_text: ""

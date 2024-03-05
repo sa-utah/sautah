@@ -116,20 +116,20 @@ meetings:
     location: Online / Phone
     name: ""
   - label: Divorced Dads
-    city: Pleasant Grove
+    city: American Fork
     day: Tuesday
-    time_start: 7:00pm
-    time_end: 8:00pm
-    address: Currently Zoom Only
-    notes: ""
-    contact_name: Danny P
-    contact_phone: 801-515-6610
+    time_start: 6:00pm
+    time_end: 7:30pm
+    address: 75 N 100 E
+    notes: "Divorced or Separated Dads SA Group – DDSA"
+    contact_name: Richie B
+    contact_phone: 801-358-7545
     contact_email: ""
     contact_instructions: ""
-    link_url: https://uetn-org.zoom.us/j/87366561529?pwd=ZVg5RU5YQ2RubFJzRG5kcjd1NVdpZz09
+    link_url: ""
     link_text: ""
     location: Utah
-    name: Divorced or Separated Dads SA Group – DDSA
+    name: American Fork Presbyterian Church
   - label: Intergroup Business
     city: ""
     day: Second Saturday

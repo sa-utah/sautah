@@ -215,7 +215,7 @@ meetings:
     city: Orem
     day: Wednesday
     time_start: 6:30pm
-    time_end: 8pm
+    time_end: 7:30pm
     address: 1330 South 740 East
     notes:
       Basement of the counseling center. Down stairs on right-hand side of building.

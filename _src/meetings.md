@@ -398,13 +398,13 @@ meetings:
     day: Thursday
     time_start: 7pm
     time_end: 8pm
-    address: USARA - 893 24th, Suite 300
+    address: Men only -USARA - 893 24th, Suite 300
     notes: "Men only"
     contact_name: Thomas P
     contact_phone: 385-298-9844
     link_url: ""
     location: Davis & Weber
-    name: "It Works Group - Men Only"
+    name: "It Works Group"
     contact_instructions: "Text messages preferred"
     contact_email: ""
     link_text: ""

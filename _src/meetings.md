@@ -218,8 +218,7 @@ meetings:
     time_end: 7:30pm
     address: 1330 South 740 East
     notes:
-      Basement of the counseling center. Down stairs on right-hand side of building.
-      If it's locked, come in through main door and downstairs to the left.
+      Basement of the counseling center. Come in through main door and downstairs to the left.
     contact_name: Jordan
     contact_phone: 801-717-9070
     link_url: ""
@@ -240,8 +239,8 @@ meetings:
 
        Zoom Meeting ID: 899 4202 6673
       Passcode: $aLeh1
-    contact_name: Gideon
-    contact_phone: 801-530-9205
+    contact_name: Terren
+    contact_phone: 801-420-5799
     link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
     location: Utah
     name: ""

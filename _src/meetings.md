@@ -287,7 +287,7 @@ meetings:
     city: Provo
     day: Saturday
     time_start: 8am
-    time_end: 9:15am
+    time_end: 9am
     address: 50 West 200 North
     notes:
       Park in west lot, enter side glass door, straight then right down hall to

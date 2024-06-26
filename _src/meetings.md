@@ -115,13 +115,13 @@ meetings:
     link_text: Zoom Link
     location: Online / Phone
     name: ""
-  - label: American Fork Open Meeting
+  - label: American Fork Tuesday
     city: American Fork
     day: Tuesday
     time_start: 6:00pm
     time_end: 7:30pm
     address: 75 N 100 E
-    notes: "SA Open Meeting - Park and enter through the west doors and come straight down the hall."
+    notes: "Park and enter through the west doors and come straight down the hall."
     contact_name: Richie B
     contact_phone: 801-358-7545
     contact_email: ""

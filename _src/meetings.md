@@ -18,21 +18,21 @@ meetings:
     contact_instructions: ""
     link_url: ""
     link_text: ""
-  - label: Tooele Wednesday
-    city: Grantsville
-    day: Wednesday
-    time_start: 8:30 PM
-    time_end: 9:30 PM
-    address:
-    notes: Contact me for Zoom details to join remotely.
-    contact_name: Lex
-    contact_phone: 801-657-1441
-    contact_email: satooele@gmail.com
-    contact_instructions: ""
-    link_url: ""
-    link_text: ""
-    location: Tooele
-    name: SA Tooele
+  # - label: Tooele Wednesday
+  #   city: Grantsville
+  #   day: Wednesday
+  #   time_start: 8:30 PM
+  #   time_end: 9:30 PM
+  #   address:
+  #   notes: Contact me for Zoom details to join remotely.
+  #   contact_name: Lex
+  #   contact_phone: 801-657-1441
+  #   contact_email: satooele@gmail.com
+  #   contact_instructions: ""
+  #   link_url: ""
+  #   link_text: ""
+  #   location: Tooele
+  #   name: SA Tooele
   - label: Bountiful Thursday Night
     city: "Bountiful "
     day: "Thursday "
@@ -115,13 +115,13 @@ meetings:
     link_text: Zoom Link
     location: Online / Phone
     name: ""
-  - label: Divorced Dads
+  - label: American Fork Open Meeting
     city: American Fork
     day: Tuesday
     time_start: 6:00pm
     time_end: 7:30pm
     address: 75 N 100 E
-    notes: "Divorced or Separated Dads SA Group – DDSA"
+    notes: "SA Open Meeting - Park and enter through the west doors and come straight down the hall."
     contact_name: Richie B
     contact_phone: 801-358-7545
     contact_email: ""

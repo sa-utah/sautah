@@ -627,9 +627,7 @@ meetings:
     location: Salt Lake
     name: Work It
     notes: |-
-      USARA Office
-      
-      Currently online only.
+      USARA Office -
 
       Join Zoom Meeting
       

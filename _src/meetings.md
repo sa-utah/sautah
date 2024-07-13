@@ -620,13 +620,15 @@ meetings:
     day: Saturday
     time_start: 8:30am
     time_end: 9:30am
-    address: 428 C Street
+    address: 180 East 2100 South, Suite 203
     contact_name: Tim B
     contact_phone: 801-949-2978
     link_url: https://us02web.zoom.us/j/86238197798?pwd=OTA2ZmY5YUVzcURMRllId3JyRVliZz09
     location: Salt Lake
     name: Work It
     notes: |-
+      USARA Office
+      
       Currently online only.
 
       Join Zoom Meeting

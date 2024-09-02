@@ -470,6 +470,21 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: ""
+  - label: Cedar City Saturday
+    city: Cedar City
+    day: Saturday
+    time_start: 8am
+    address: 203 E. Cobble Creek Road
+    contact_name: Dane
+    contact_phone: 435-592-5236
+    link_url: ""
+    location: Iron
+    time_end: 9am
+    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway.
+    name: ""
+    contact_instructions: ""
+    contact_email: ""
+    link_text: ""
   - label: Sandy Monday Noon
     city: Sandy
     day: Monday
@@ -490,7 +505,7 @@ meetings:
     day: Tuesday
     time_start: 7pm
     time_end: 8pm
-    address: 111 East 5600 South
+    address: 111 East 5600 South, 3rd floor immediately to the right of room 304
     contact_name: Erik J
     contact_phone: 801-205-1811
     link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09

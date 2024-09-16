@@ -491,8 +491,8 @@ meetings:
     time_start: 12pm
     time_end: 1pm
     address: 9176 South 300 West
-    contact_name: Jeremy
-    contact_phone: "(385) 743-2711"
+    contact_name: Brian
+    contact_phone: "(801) 634-8038"
     link_url: ""
     location: Salt Lake
     notes: Upstairs to suite 20

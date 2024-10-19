@@ -651,20 +651,20 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: Zoom Link
-  - label: SLC Sunday - Currently ZOOM Only
+  - label: SLC Sunday - Hybrid Meeting
     city: Salt Lake City
     day: Sunday
     time_start: 6pm
     time_end: 7pm
-    address: Currently ZOOM Only
-    contact_name: Damon G
-    contact_phone: 801-859-8774
-    link_url: https://zoom.us/j/608422086?pwd%3DY1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
-    location: Online / Phone
+    address: 180 East 2100 South, Suite 203
+    contact_name: Tim B
+    contact_phone: 801-949-2978
+    link_url: https://zoom.us/j/608422086?pwd=Y1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
+    location: Salt Lake
     name: "Sunday LDS Hospital"
     notes:
       "Meeting Time: 6pm to 7pm Join Zoom Meeting https://zoom.us/j/608422086?pwd=Y1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
-      Meeting ID: 608 422 086 Password: 073813"
+      Meeting ID: 608 422 086 - Password: 073813 "
     contact_instructions: ""
     contact_email: ""
     link_text: Zoom Link

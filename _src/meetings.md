@@ -536,12 +536,12 @@ meetings:
     time_start: 8pm
     time_end: 9pm
     address: "11978 S. Redwood Rd "
-    contact_name: Jordan W
-    contact_phone: "(385) 234-0311"
+    contact_name: Todd
+    contact_phone: "801-699-5412"
     link_url: ""
     location: Salt Lake
     notes:
-      Now back to in-person only. Topic Study. Enter through southwest door and
+      Topic Study. Enter through southwest door and
       follow signs to basement meeting room.
     name: Sobriety First Group
     contact_instructions: ""
@@ -604,13 +604,13 @@ meetings:
     time_start: 7am
     time_end: 8am
     address: 2015 East Newcastle Drive
-    contact_name: Sean J
-    contact_phone: 801-759-8760
+    contact_name: Dave
+    contact_phone: 801-556-2775
     link_url: ""
     location: Salt Lake
     name: Sobriety First Group
     notes:
-      Now back to in-person only. Step Study. Enter Church using classroom entrance,
+      Step Study. Enter Church using classroom entrance,
       then to classroom 1B
     contact_instructions: ""
     contact_email: ""

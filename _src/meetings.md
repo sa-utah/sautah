@@ -307,12 +307,12 @@ meetings:
     time_end: 10am
     address: 603 N 970 W
     notes: Open meeting. Big Book study. We meet in the front room of the house; come in through the blue door.
-    contact_name: Ben F
-    contact_phone: 208-615-4778
+    contact_name: Sam D
+    contact_phone: 801-592-3689
     contact_instructions: ""
     link_url: ""
     location: Utah
-    name: " Not a Glum Lot"
+    name: "Not a Glum Lot"
     contact_email: ""
     link_text: ""
   - label: Online Weekday IG

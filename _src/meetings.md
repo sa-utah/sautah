@@ -562,24 +562,6 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: ""
-  - label: Sandy Thursday
-    city: Sandy
-    day: Thursday
-    time_start: 7:30pm
-    time_end: 8:30pm
-    address: 9176 South 300 West
-    notes:
-      Suite 20- Use stairs by the North side of Embroidery Warehouse. The door
-      opens to a set of stairs that lead up to the second floor. Follow them up and
-      look to your left.
-    contact_name: Sam E
-    contact_phone: 480-639-8710
-    link_url: ""
-    location: Salt Lake
-    name: ""
-    contact_instructions: ""
-    contact_email: ""
-    link_text: ""
   - label: Murray Friday
     city: Murray
     day: Friday

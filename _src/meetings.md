@@ -462,10 +462,10 @@ meetings:
     address: 203 E. Cobble Creek Road
     contact_name: Ben B
     contact_phone: 435-592-3242
-    link_url: ""
+    link_url: https://sites.google.com/view/saui-cc
     location: Iron
     time_end: 7pm
-    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website: https://sites.google.com/view/saui-cc
+    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website: 
     name: ""
     contact_instructions: ""
     contact_email: ""
@@ -477,10 +477,10 @@ meetings:
     address: 203 E. Cobble Creek Road
     contact_name: Dane
     contact_phone: 435-592-5236
-    link_url: ""
+    link_url: "https://sites.google.com/view/saui-cc"
     location: Iron
     time_end: 9am
-    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website: https://sites.google.com/view/saui-cc
+    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website:
     name: ""
     contact_instructions: ""
     contact_email: ""

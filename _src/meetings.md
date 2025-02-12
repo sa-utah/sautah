@@ -480,7 +480,7 @@ meetings:
     link_url: ""
     location: Iron
     time_end: 9am
-    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway.
+    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website: https://sites.google.com/view/saui-cc
     name: ""
     contact_instructions: ""
     contact_email: ""

@@ -465,7 +465,7 @@ meetings:
     link_url: ""
     location: Iron
     time_end: 7pm
-    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway.
+    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website: https://sites.google.com/view/saui-cc
     name: ""
     contact_instructions: ""
     contact_email: ""

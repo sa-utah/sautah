@@ -79,24 +79,24 @@ meetings:
   #   link_text: ""
   #   location: Cache
   #   name: ""
-  - label: American Fork Women's Only Meeting
-    city: American Fork
-    day: Monday
-    time_start: 6 PM
-    time_end: 7 PM
-    address: WOMEN ONLY, No men please. Call for address and leave a voicemail
-    notes: |-
-      WOMEN ONLY, No men please. Meeting is held every other week. Call for address and leave a voicemail: Kristine 740-338-4062
-
-      We read from SA literature and share on the readings.
-    contact_name: Kristine
-    contact_phone: 740-338-4062
-    contact_email: ""
-    contact_instructions: WOMEN ONLY, No men please
-    link_url: ""
-    link_text: ""
-    location: Utah
-    name: American Fork Women's Only Meeting
+  # Cancelled per Kristine
+  # - label: American Fork Women's Only Meeting
+  #   city: American Fork
+  #   day: Monday
+  #   time_start: 6 PM
+  #   time_end: 7 PM
+  #   address: WOMEN ONLY, No men please. Call for address and leave a voicemail
+  #   notes: |-
+  #   WOMEN ONLY, No men please. Meeting is held every other week. Call for address and leave a voicemail: Kristine 740-338-4062
+  #  We read from SA literature and share on the readings.
+  #  contact_name: Kristine
+  #  contact_phone: 740-338-4062
+  #  contact_email: ""
+  #  contact_instructions: WOMEN ONLY, No men please
+  #  link_url: ""
+  #  link_text: ""
+  #  location: Utah
+  #  name: American Fork Women's Only Meeting
   - label: Sobriety First Tuesday Zoom Meeting
     city: ""
     day: Tuesday

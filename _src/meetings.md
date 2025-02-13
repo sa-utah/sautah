@@ -465,11 +465,11 @@ meetings:
     link_url: https://sites.google.com/view/saui-cc
     location: Iron
     time_end: 7pm
-    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website: 
+    notes: Go up the ramp in the back. Turn right after entering and to the back of the hallway.
     name: ""
     contact_instructions: ""
     contact_email: ""
-    link_text: ""
+    link_text: "For more info, visit our website"
   - label: Cedar City Saturday
     city: Cedar City
     day: Saturday
@@ -480,11 +480,11 @@ meetings:
     link_url: "https://sites.google.com/view/saui-cc"
     location: Iron
     time_end: 9am
-    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway. For more info, visit our website:
+    notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway.
     name: ""
     contact_instructions: ""
     contact_email: ""
-    link_text: ""
+    link_text: "For more info, visit our website"
   - label: Sandy Monday Noon
     city: Sandy
     day: Monday

@@ -11,7 +11,7 @@ meetings:
     address: 679 W Main Street
     notes: Ledgestone Hotel - Located in the Homestead Meeting Room
     contact_name: TJ
-    contact_phone: 
+    contact_phone:
     contact_email: SAvernalut@gmail.com
     location: Uintah
     name: Wednesday Night Book Study
@@ -108,7 +108,7 @@ meetings:
       by phone: 669-900-6833 or 346-248-7799\nMeeting ID: 613 980 2805 \nTo mute/unmute:
       *6\nTo raise your hand: *9\n\n"
     contact_name: Kerry B
-    contact_phone: 
+    contact_phone:
     contact_email: kerryb@agileunderstood.com
     contact_instructions: Email contact only please
     link_url: https://zoom.us/j/6139802805
@@ -183,8 +183,7 @@ meetings:
     time_start: 7am
     time_end: 8am
     address: 50 W 200 N St
-    notes:
-      Enter on the west side of the building. We meet in the large room to the left of the entrance.
+    notes: Enter on the west side of the building. We meet in the large room to the left of the entrance.
     contact_name: "Bond H. "
     contact_phone: "(702) 306-1747"
     link_url: ""
@@ -217,8 +216,7 @@ meetings:
     time_start: 6:30pm
     time_end: 7:30pm
     address: 1330 South 740 East
-    notes:
-      Basement of the counseling center. Come in through main door and downstairs to the left.
+    notes: Basement of the counseling center. Come in through main door and downstairs to the left.
     contact_name: Jordan
     contact_phone: 801-717-9070
     link_url: ""
@@ -239,8 +237,8 @@ meetings:
 
        Zoom Meeting ID: 899 4202 6673
       Passcode: $aLeh1
-    contact_name: Terren
-    contact_phone: 801-420-5799
+    contact_name: Thomas W.
+    contact_phone: 801-448-3009
     link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
     location: Utah
     name: ""
@@ -540,8 +538,7 @@ meetings:
     contact_phone: "801-699-5412"
     link_url: ""
     location: Salt Lake
-    notes:
-      Topic Study. Enter through southwest door and
+    notes: Topic Study. Enter through southwest door and
       follow signs to basement meeting room.
     name: Sobriety First Group
     contact_instructions: ""
@@ -575,7 +572,7 @@ meetings:
     name: ""
     notes: |-
       Independence Hall (West building in square) Suite 304
-      
+
       Connections Counseling Services, northeast entrance, door to the right of 304
     contact_instructions: ""
     contact_email: ""
@@ -591,8 +588,7 @@ meetings:
     link_url: ""
     location: Salt Lake
     name: Sobriety First Group
-    notes:
-      Step Study. Enter Church using classroom entrance,
+    notes: Step Study. Enter Church using classroom entrance,
       then to classroom 1B
     contact_instructions: ""
     contact_email: ""
@@ -627,7 +623,7 @@ meetings:
       USARA Office -
 
       Join Zoom Meeting
-      
+
       Meeting ID: 862 3819 7798
       Password: WorkSteps!
     contact_instructions: ""

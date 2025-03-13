@@ -533,13 +533,12 @@ meetings:
     day: Wednesday
     time_start: 8pm
     time_end: 9pm
-    address: "11978 S. Redwood Rd "
+    address: "Redwood Rd, Riverton"
     contact_name: Todd
     contact_phone: "801-699-5412"
     link_url: ""
     location: Salt Lake
-    notes: Topic Study. Enter through southwest door and
-      follow signs to basement meeting room.
+    notes: Topic Study. Call for address and instructions.
     name: Sobriety First Group
     contact_instructions: ""
     contact_email: ""

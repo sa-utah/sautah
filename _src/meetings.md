@@ -439,15 +439,15 @@ meetings:
     city: Kaysville
     day: Saturday
     time_end: 9:45am
-    address: 497 N Main Street, Suite A
-    contact_name: Camille G.
-    contact_phone: 801-821-6221
+    address: 1330 Flint Meadow Dr, Kaysville, UT 84037
+    contact_name: Mike M.
+    contact_phone: 801-663-4156
     link_url: ""
     location: Davis & Weber
     time_start: 8:30am
     notes:
       This meeting accommodates both in-person and virtual attendees. Reach out
-      to Camille for information on how to attend virtually. This meeting is for both
+      to Mike for information on how to attend virtually. This meeting is for both
       men and women.
     name: ""
     contact_instructions: ""

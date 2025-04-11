@@ -503,12 +503,12 @@ meetings:
     day: Tuesday
     time_start: 7pm
     time_end: 8pm
-    address: 111 East 5600 South, 3rd floor immediately to the right of room 304
+    address: 5295 S. Commerce Dr
     contact_name: Martin A
     contact_phone: 801-835-3544
     link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09
     location: Salt Lake
-    notes: Independence Hall (West building in square) Suite 304
+    notes: Suite 575
     name: ""
     contact_instructions: ""
     contact_email: ""
@@ -563,16 +563,13 @@ meetings:
     day: Friday
     time_start: 6:30am
     time_end: 7:30am
-    address: 111 E 5600 S, Unit 304
+    address: 5295 S. Commerce Dr
     contact_name: Greg K
     contact_phone: 801-661-3314
     link_url: ""
     location: Salt Lake
     name: ""
-    notes: |-
-      Independence Hall (West building in square) Suite 304
-
-      Connections Counseling Services, northeast entrance, door to the right of 304
+    notes: Suite 575
     contact_instructions: ""
     contact_email: ""
     link_text: ""
@@ -602,8 +599,8 @@ meetings:
     link_url: ""
     location: Salt Lake
     name: ""
-    address: 111 East 5600 South
-    notes: Independence Hall (West building in square) Suite 304
+    address: 5295 S. Commerce Dr
+    notes: Suite 575
     contact_instructions: ""
     contact_email: ""
     link_text: ""

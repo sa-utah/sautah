@@ -1,5 +1,5 @@
 media:
-  input: src/assets
+  input: _src/assets
   output: /assets
 content:
   - name: news

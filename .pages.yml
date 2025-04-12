@@ -21,6 +21,9 @@ content:
        - name: image
          label: Image
          type: image
+       - name: body
+         label: Body
+         type: rich-text
          options:
            path: _src/assets
            extensions: [jpg, png, webp]

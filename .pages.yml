@@ -22,7 +22,7 @@ content:
          label: Image
          type: image
          options:
-           path: screenshots
+           path: _src/assets
            extensions: [jpg, png, webp]
 
          

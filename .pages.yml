@@ -6,8 +6,23 @@ content:
     label: News
     type: collection
     path: _src/news
+    view:
+      fields: [ title, date ]
     fields:
-      - { name: title, label: Title, type: string }
-      - { name: date, label: Date, type: date }
-      - { name: excerpt, label: Excerpt, type: string }
-      - { name: image, label: Image, type: image }
+       - name: title
+         label: Title
+         type: string
+       - name: date
+         label: Date
+         type: date
+       - name: excerpt
+         label: Excerpt
+         type: string
+       - name: image
+         label: Image
+         type: image
+         options:
+           path: screenshots
+           extensions: [jpg, png, webp]
+
+         

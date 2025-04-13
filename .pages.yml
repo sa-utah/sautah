@@ -10,7 +10,7 @@ content:
       - name: meetings
         label: Meetings
         type: object
-        list: false
+        list: true
         fields: 
           - name: label
             label: Label

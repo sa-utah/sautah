@@ -528,17 +528,17 @@ meetings:
     contact_instructions: ""
     contact_email: ""
     link_text: ""
-  - label: Riverton Sobriety First Wednesday
-    city: Riverton
+  - label: Sandy Sobriety First Wednesday
+    city: Sandy
     day: Wednesday
     time_start: 8pm
     time_end: 9pm
-    address: "Redwood Rd, Riverton"
+    address: "2015 East Newcastle Drive"
     contact_name: Todd
     contact_phone: "801-699-5412"
     link_url: ""
     location: Salt Lake
-    notes: Topic Study. Call for address and instructions.
+    notes: Topic Study. Enter Church using classroom entrance, then to classroom 1B
     name: Sobriety First Group
     contact_instructions: ""
     contact_email: ""

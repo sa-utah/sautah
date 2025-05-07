@@ -55,48 +55,14 @@ meetings:
     time_end: 8:00 PM
     address: 40 W Cache Valley Blvd, Suite 3C
     notes: LoveStrong offices, 40 W Cache Valley Blvd, Suite 3C Logan, UT
-    contact_name: 
-    contact_phone: 
+    contact_name: Thomas A.
+    contact_phone: 618-420-9981
     contact_email: 
-    contact_instructions: Text messages preferred
+    contact_instructions: 
     link_url: ""
     link_text: ""
     location: Cache
     name: ""
-  # Paused
-  # - label: Logan Saturday 6:00 am
-  #   city: Logan
-  #   day: Saturday
-  #   time_start: 6:00 AM
-  #   time_end: 7:00 AM
-  #   address: 40 W Cache Valley Blvd Suite 3C
-  #   notes: Lovestrong Offices
-  #   contact_name: Thomas
-  #   contact_phone: 801-940-4178
-  #   contact_email: ""
-  #   contact_instructions: Text messages preferred
-  #   link_url: ""
-  #   link_text: ""
-  #   location: Cache
-  #   name: ""
-  # Cancelled per Kristine
-  # - label: American Fork Women's Only Meeting
-  #   city: American Fork
-  #   day: Monday
-  #   time_start: 6 PM
-  #   time_end: 7 PM
-  #   address: WOMEN ONLY, No men please. Call for address and leave a voicemail
-  #   notes: |-
-  #   WOMEN ONLY, No men please. Meeting is held every other week. Call for address and leave a voicemail: Kristine 740-338-4062
-  #  We read from SA literature and share on the readings.
-  #  contact_name: Kristine
-  #  contact_phone: 740-338-4062
-  #  contact_email: ""
-  #  contact_instructions: WOMEN ONLY, No men please
-  #  link_url: ""
-  #  link_text: ""
-  #  location: Utah
-  #  name: American Fork Women's Only Meeting
   - label: Sobriety First Tuesday Zoom Meeting
     city: ""
     day: Tuesday
@@ -351,13 +317,13 @@ meetings:
     time_end: 9:30a
     address: 178 W Center St
     notes: Park on the east side, enter the basement and go through the kitchen.
-    contact_name: Baylor
-    contact_phone: 435-230-1566
+    contact_name: Thomas A.
+    contact_phone: 618-420-9981
     link_url: ""
     location: Cache
     name: ""
     contact_instructions: ""
-    contact_email: saloganutah@gmail.com
+    contact_email: 
     link_text: ""
   # Paused
   # - label: Ogden Tuesday

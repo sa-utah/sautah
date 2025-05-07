@@ -55,9 +55,9 @@ meetings:
     time_end: 8:00 PM
     address: 40 W Cache Valley Blvd, Suite 3C
     notes: LoveStrong offices, 40 W Cache Valley Blvd, Suite 3C Logan, UT
-    contact_name: Eric
-    contact_phone: 801-833-4308
-    contact_email: ""
+    contact_name: 
+    contact_phone: 
+    contact_email: 
     contact_instructions: Text messages preferred
     link_url: ""
     link_text: ""

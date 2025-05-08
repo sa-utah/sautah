@@ -73,10 +73,10 @@ meetings:
       "A standing Zoom meeting sponsored by the Sobriety First group.\n\nDial in
       by phone: 669-900-6833 or 346-248-7799\nMeeting ID: 613 980 2805 \nTo mute/unmute:
       *6\nTo raise your hand: *9\n\n"
-    contact_name: Kerry B
-    contact_phone:
-    contact_email: kerryb@agileunderstood.com
-    contact_instructions: Email contact only please
+    contact_name: Matt F
+    contact_phone: 801-613-1017
+    contact_email: 
+    contact_instructions:
     link_url: https://zoom.us/j/6139802805
     link_text: Zoom Link
     location: Online / Phone

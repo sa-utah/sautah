@@ -2,61 +2,61 @@ media:
   input: _src/assets
   output: /assets 
 content:
-  - name: meetings
-    label: Meetings
-    type: file
-    path: _src/meetings.md
-    fields:
-      - name: meetings
-        label: Meetings
-        type: object
-        list: true
-        fields: 
-          - name: label
-            label: Label
-            type: string
-          - name: city
-            label: City
-            type: string
-          - name: day
-            label: Day
-            type: string
-          - name: time_start
-            label: Start Time
-            type: string
-          - name: time_end
-            label: End Time
-            type: string
-          - name: notes
-            label: Notes
-            type: text
-          - name: address
-            label: Address
-            type: string
-          - name: contact_name
-            label: Contact Name
-            type: string
-          - name: contact_phone
-            label: Contact Phone
-            type: string
-          - name: contact_email
-            label: Contact Email
-            type: string
-          - name: location
-            label: Location
-            type: string
-          - name: name
-            label: Name
-            type: string
-          - name: contact_instructions
-            label: Contact Instructions
-            type: text
-          - name: link_url
-            label: Link URL
-            type: string
-          - name: link_text
-            label: Link Text
-            type: string
+  # - name: meetings
+  #   label: Meetings
+  #   type: file
+  #   path: _src/meetings.md
+  #   fields:
+  #     - name: meetings
+  #       label: Meetings
+  #       type: object
+  #       list: true
+  #       fields: 
+  #         - name: label
+  #           label: Label
+  #           type: string
+  #         - name: city
+  #           label: City
+  #           type: string
+  #         - name: day
+  #           label: Day
+  #           type: string
+  #         - name: time_start
+  #           label: Start Time
+  #           type: string
+  #         - name: time_end
+  #           label: End Time
+  #           type: string
+  #         - name: notes
+  #           label: Notes
+  #           type: text
+  #         - name: address
+  #           label: Address
+  #           type: string
+  #         - name: contact_name
+  #           label: Contact Name
+  #           type: string
+  #         - name: contact_phone
+  #           label: Contact Phone
+  #           type: string
+  #         - name: contact_email
+  #           label: Contact Email
+  #           type: string
+  #         - name: location
+  #           label: Location
+  #           type: string
+  #         - name: name
+  #           label: Name
+  #           type: string
+  #         - name: contact_instructions
+  #           label: Contact Instructions
+  #           type: text
+  #         - name: link_url
+  #           label: Link URL
+  #           type: string
+  #         - name: link_text
+  #           label: Link Text
+  #           type: string
   - name: news
     label: News
     type: collection

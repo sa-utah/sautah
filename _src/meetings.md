@@ -514,15 +514,15 @@ meetings:
     time_start: 7pm
     time_end: 8pm
     address: 180 East 2100 South, Suite 203
-    contact_name: Jerred B
-    contact_phone: 801-891-9009
+    contact_name: Harold M
+    contact_phone: 801-558-4290
     link_url: ""
     location: Salt Lake
     name: ""
     city: Salt Lake City
     notes: Usara Office, Suite 203
     contact_instructions: ""
-    contact_email: ""
+    contact_email: "haroldsa.19@gmail.com"
     link_text: ""
   - label: Murray Friday
     city: Murray

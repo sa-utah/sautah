@@ -4,7 +4,8 @@ metaTitle: Sexaholics Anonymous in Utah
 bodyClass: home
 ---
 {% set home_news = collections.news | reverse %}
-{% set news_feature_size = 3 %}
+{% set news_feature_size = 2 %}
+{# {% set news_feature_size = 3 %} For when there's more recent news #}
 
 <div class="hero jumbotron parallax text-white text-center">
   <div class="container d-flex h-100 flex-column justify-content-center align-items-center">
@@ -18,7 +19,8 @@ bodyClass: home
 <div class="container bg-white shadow-sm p-4 p-sm-5">
   <div class="row">
     {%- for post in home_news.slice(0, news_feature_size) -%}
-    <div class="col-12 col-md-4">
+    {# <div class="col-12 col-md-4"> For when we have 3 featured news #}
+    <div class="col-12 col-md-6">
       <div class="card mb-4 mb-sm-0">
         <img src="{{ post.data.image | url }}" class="card-img-top">
         <div class="card-body">

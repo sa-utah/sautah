@@ -20,7 +20,7 @@ social:
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>{{ metaTitle + " | SA Utah" or title + " | SA Utah" }}</title>
+		<title>{% if metaTitle %}{{ metaTitle }} | SA Utah{% else %}{{ title }} | SA Utah{% endif %}</title>
 		<meta name="title" content="{{ title }}">
 		{# <meta name="description" content="{{ social.description }}"> #}
 		{# {% include "partials/_opengraph.njk" %} #}

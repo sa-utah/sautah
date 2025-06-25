@@ -1,6 +1,6 @@
 ---
 title: Special SA Father's Day Meeting
-date: 2025-06-03
+date: 2025-04-12
 excerpt: Special SA Meeting – Father’s Day Edition | Sunday, June 15, 2025
 image: /assets/20210926_150313.jpg
 ---

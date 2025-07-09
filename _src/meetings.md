@@ -203,8 +203,8 @@ meetings:
 
        Zoom Meeting ID: 899 4202 6673
       Passcode: $aLeh1
-    contact_name: Thomas W.
-    contact_phone: 801-448-3009
+    contact_name: Steve E.
+    contact_phone: 801-699-8105
     link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
     location: Utah
     name: ""

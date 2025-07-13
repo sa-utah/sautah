@@ -24,7 +24,6 @@ h1, h2, h3 {
 .hero {
   background-image: url('/assets/default.jpg');
   min-height: 300px;
-  height: 50vh;
   margin-top: 50px;
   margin-bottom: -3rem;
 }

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contribute to SAIUT
-metaTitle: Contribute to SAIUT
+title: Contribute to SA Intergroup UT
+metaTitle: Contribute to SA Intergroup UT
 ---
 
 ## Why Contribute?

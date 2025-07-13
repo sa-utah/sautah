@@ -10,14 +10,13 @@
       </button>
     
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <div class="navbar-nav ml-auto">
-          {# <a class="nav-item nav-link" href="#">Home</a> #}
-          <a class="nav-item nav-link" href="{{ '/meetings' | url }}">Find a Meeting</a>
-          <a class="nav-item nav-link" href="{{ '/for-newcomers' | url }}">For Newcomers</a>
-          <a class="nav-item nav-link" href="{{ '/about-sa' | url }}">About SA</a>
-          <a class="nav-item nav-link" href="{{ '/service' | url }}">Service</a>
-          <a class="nav-item nav-link" href="{{ '/contact' | url }}">Contact Us</a>
-          <a class="nav-item nav-link" href="{{ '/contribute' | url }}">Contribute</a>
+        <div class="navbar-nav ml-auto align-items-center">
+          <a class="btn btn-primary font-weight-bold mx-2" href="{{ '/meetings' | url }}">Find a Meeting</a>
+          <a class="nav-item nav-link{% if page.url == '/for-newcomers/' %} active-tab-underline{% endif %}" href="{{ '/for-newcomers' | url }}">For Newcomers</a>
+          <a class="nav-item nav-link{% if page.url == '/about-sa/' %} active-tab-underline{% endif %}" href="{{ '/about-sa' | url }}">About SA</a>
+          <a class="nav-item nav-link{% if page.url == '/service/' %} active-tab-underline{% endif %}" href="{{ '/service' | url }}">Service</a>
+          <a class="nav-item nav-link{% if page.url == '/contact/' %} active-tab-underline{% endif %}" href="{{ '/contact' | url }}">Contact Us</a>
+          <a class="nav-item nav-link{% if page.url == '/contribute/' %} active-tab-underline{% endif %}" href="{{ '/contribute' | url }}">Contribute</a>
           {# <div class="nav-item dropdown">
             <a class="nav-item nav-link dropdown-toggle" href="{{ '/get-involved' | url }}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Get Involved

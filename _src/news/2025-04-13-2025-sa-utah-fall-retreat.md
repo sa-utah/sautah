@@ -22,7 +22,12 @@ registration: https://s-events.regfox.com/2025-utah-retreat
         <p class="lead text-center">We are excited to announce the dates for our <strong>2025 SA/S-Anon Utah Annual Retreat</strong> — and you won’t want to miss it!</p>
     <ul class="list-unstyled mb-4 text-center">
       <li style="font-size:1.5rem"><strong>When:</strong> October 10 – 11, 2025</li>
-      <li><strong style="font-size:1.5rem">Where:</strong> Officers’ Club, University of Utah Campus<br>150 Fort Douglas Blvd, Salt Lake City, UT 84113 <a href="https://maps.app.goo.gl/FxLSK5MUizjWUPUu8" target="_blank" rel="noopener" class="btn btn-sm btn-outline-primary ml-2">Map</a></li>
+      <li><strong style="font-size:1.5rem">Where:</strong> Officers’ Club, University of Utah Campus<br>
+        <a href="https://maps.app.goo.gl/FxLSK5MUizjWUPUu8" target="_blank" rel="noopener" class="btn btn-sm btn-outline-primary ml-2" style="vertical-align:middle;">
+          <i class="secondary fas fa-map-marked-alt" aria-label="Google Maps"></i>
+        </a>
+        150 Fort Douglas Blvd, Salt Lake City, UT 84113
+      </li>
     </ul>
     <p>This year’s retreat will be a powerful weekend of connection, healing, and spiritual growth for both SA and S-Anon members across Utah and beyond.</p>
     <p>We’re honored to welcome <strong>Amjed B</strong> as our SA keynote speaker and <strong>Levi H</strong> as our S-Anon speaker.</p>

@@ -1,6 +1,7 @@
 ---
 title: 2025 SA Utah Fall Retreat
-date: 2025-04-13
+startDate: 2025-04-13
+endDate: 2025-10-12
 excerpt: October 10-12, 2025
 image: /assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg
 ---

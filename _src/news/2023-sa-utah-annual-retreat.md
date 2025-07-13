@@ -2,7 +2,8 @@
 title: SA Utah Annual Retreat - It Works When You Work It
 excerpt: Save the date! October 13-14, 2023 at the Salt Lake Community College Miller Campus
 image: /assets/SA-SAnon-Retreat-2023.jpg
-date: 2023-07-09
+startDate: 2023-07-09
+endDate: 2023-10-14
 tags: news
 ---
 

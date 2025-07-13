@@ -2,7 +2,8 @@
 tags:
 - news
 title: Fall SA Retreat in Provo Canyon
-date: 2022-09-24T06:00:00.000+00:00
+startDate: 2022-06-24T06:00:00.000+00:00
+endDate: 2022-09-24T20:00:00.000+00:00
 excerpt: Sponsored by the Provo 8:00 a.m. Saturday Morning SA meeting at Saint Mary’s
 image: "/assets/20210926_150313.jpg"
 

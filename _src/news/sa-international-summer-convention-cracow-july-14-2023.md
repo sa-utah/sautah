@@ -2,7 +2,8 @@
 tags:
 - news
 title: SA International Summer Convention with S-Anon Participation
-date: 2023-06-01T20:00:00Z
+startDate: 2023-06-01
+endDate: 2023-07-16
 excerpt: Cracow, Poland – July 14-16, 2023
 image: "/assets/20210926_150313.jpg"
 

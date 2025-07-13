@@ -2,7 +2,8 @@
 title: March 9-10, 2024 - Joint Virtual Convention MAR & EMER
 excerpt: Save The Date - March 9-10, 2024. Joint Virtual Convention MAR(Middle-Atlantic Region, USA) & EMER(Europe and Middle-East Region)
 image: /assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg
-date: 2023-10-22
+startDate: 2023-10-22
+endDate: 2024-03-10
 tags: news
 ---
 

@@ -3,7 +3,8 @@ tags:
 - news
 - events
 title: Virtual Unity Conference
-date: 2020-09-18T17:00:00-06:00
+startDate: 2020-09-18T17:00:00-06:00
+endDate: 2020-09-20T17:00:00-06:00
 excerpt: '30th Annual Unity Conference: October 24, 2020. Hear from multiple SA and
   S-Anon speakers from all over the U.S.'
 image: "/assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg"
@@ -49,6 +50,6 @@ In Service,
 
 Mark & Martha
 
-Send us your questions:  
-Mark – [mark@markp.org](mailto:mark@markp.org)  
+Send us your questions:
+Mark – [mark@markp.org](mailto:mark@markp.org)
 Martha – [marsmimosa@aol.com](mailto:marsmimosa@aol.com)

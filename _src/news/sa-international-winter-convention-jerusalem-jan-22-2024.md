@@ -2,7 +2,8 @@
 tags:
 - news
 title: SA International Winter Convention with S-Anon
-date: 2023-06-02T20:00:00Z
+startDate: 2023-06-02
+endDate: 2024-01-24
 excerpt: Jerusalem, Israel – January 22-24, 2024
 image: "/assets/default.jpg"
 

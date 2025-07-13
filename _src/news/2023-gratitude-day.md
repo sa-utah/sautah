@@ -4,7 +4,8 @@ tags:
 title: Gratitude Day
 excerpt: Gratitude Day - November 4, 2023. Registration Open Until October 28, 2023
 image: "assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg"
-date: 2023-10-09
+startDate: 2023-10-09
+endDate: 2023-11-04
 ---
 
 The registration deadline is Saturday, October 28th. Please help the planning committee prepare by registration ASAP. Whether you can attend in-person or only online, part of the day or the entire day, we’re asking you to register before October 27th. It only takes a minute or two.

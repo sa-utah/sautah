@@ -3,9 +3,8 @@ layout: base
 metaTitle: Sexaholics Anonymous in Utah
 bodyClass: home
 ---
-{% set home_news = collections.news | reverse %}
-{% set news_feature_size = 2 %}
-{# {% set news_feature_size = 3 %} For when there's more recent news #}
+{# Use new upcomingNews collection from Eleventy config #}
+{% set upcoming_news = collections.upcomingNews %}
 
 <div class="hero jumbotron parallax text-white text-center">
   <div class="container d-flex h-100 flex-column justify-content-center align-items-center">
@@ -17,37 +16,41 @@ bodyClass: home
   </div>
 </div>
 <div class="container bg-white shadow-sm p-4 p-sm-5">
-  <div class="row">
-    {%- for post in home_news.slice(0, news_feature_size) -%}
-    {# <div class="col-12 col-md-4"> For when we have 3 featured news #}
-    <div class="col-12 col-md-6">
-      <div class="card mb-4 mb-sm-0">
-        <img src="{{ post.data.image | url }}" class="card-img-top">
-        <div class="card-body">
-          <h2 class="card-title h5">{{ post.data.title }}</h2>
-          <p class="card-text">{{ post.data.excerpt }}</p>
-          <a href="{{ post.url | url }}" class="btn btn-outline-primary">Read More</a>
-        </div>
+  <div class="row mb-4">
+    <div class="col-12">
+      <div class="alert alert-info text-center" style="font-size:1.25rem;">
+        <strong>Vision:</strong> To provide a safe, supportive, and anonymous environment for recovery from sexaholism in Utah. Learn more on our <a href="{{ '/about-sa' | url }}">About SA</a> and <a href="{{ '/for-newcomers' | url }}">For Newcomers</a> pages.
       </div>
     </div>
-    {%- endfor -%}
   </div>
-  <h2 class="text-center mt-5 mb-3">Other News</h2>
+  <h3>Events</h3>
+  <br>
   <div class="row">
-    {%- for post in home_news.slice(news_feature_size, home_news.length) -%}
-    <div class="col col-sm-6">
-      <div class="card mb-4">
-        <div class="card-body">
-          <h3 class="card-title h5">{{ post.data.title }}</h3>
-          <p class="card-text">{{ post.data.excerpt }}</p>
-          <a href="{{ post.url | url }}" class="card-link">Read More</a>
+
+
+    {%- if upcoming_news.length > 0 -%}
+      {%- for post in upcoming_news -%}
+      <div class="col-12 col-md-6">
+        <div class="card mb-4 mb-sm-0">
+          <img src="{{ post.data.image | url }}" class="card-img-top">
+          <div class="card-body">
+            <h2 class="card-title h5">{{ post.data.title }}</h2>
+            <p class="card-text">{{ post.data.excerpt }}</p>
+            <p class="card-text"><strong>Date:</strong> {{ post.data.startDate }}{% if post.data.endDate %} - {{ post.data.endDate }}{% endif %}</p>
+            <a href="{{ post.url | url }}" class="btn btn-outline-primary">Read More</a>
+          </div>
         </div>
       </div>
-    </div>
-  {% if loop.index % 2 === 0 %}
+      {%- endfor -%}
+    {%- else -%}
+      <div class="col-12">
+        <div class="alert alert-info text-center">No upcoming news or events at this time.</div>
+      </div>
+    {%- endif -%}
   </div>
-  <div class="row">
-  {% endif %}
-    {%- endfor -%}
+  <div class="row mt-4">
+    <div class="col-12 text-center">
+      <a href="{{ '/past-events' | url }}" class="btn btn-secondary">View Past Events</a>
+    </div>
   </div>
 </div>

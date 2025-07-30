@@ -57,8 +57,8 @@ meetings:
     notes: LoveStrong offices, 40 W Cache Valley Blvd, Suite 3C Logan, UT
     contact_name: Thomas A.
     contact_phone: 618-420-9981
-    contact_email: 
-    contact_instructions: 
+    contact_email:
+    contact_instructions:
     link_url: ""
     link_text: ""
     location: Cache
@@ -75,7 +75,7 @@ meetings:
       *6\nTo raise your hand: *9\n\n"
     contact_name: Matt F
     contact_phone: 801-613-1017
-    contact_email: 
+    contact_email:
     contact_instructions:
     link_url: https://zoom.us/j/6139802805
     link_text: Zoom Link
@@ -279,6 +279,21 @@ meetings:
     name: "Not a Glum Lot"
     contact_email: ""
     link_text: ""
+  - label: Provo Sunday
+    city: Provo
+    day: Sunday
+    time_start: 7pm
+    time_end: 8pm
+    address: 770 S 700 W
+    notes: Located in the Boulders Neighborhood across the train tracks. Parking is directly east of the center, next to the open grass area. Meeting takes place in the main open room on the left of the hall.
+    contact_name: Jason J
+    contact_phone: 385-309-1249
+    contact_instructions: ""
+    link_url: ""
+    location: Utah
+    name: ""
+    contact_email: ""
+    link_text: ""
   - label: Online Weekday IG
     day: Monday – Friday
     time_start: 12pm
@@ -323,7 +338,7 @@ meetings:
     location: Cache
     name: ""
     contact_instructions: ""
-    contact_email: 
+    contact_email:
     link_text: ""
   # Paused
   # - label: Ogden Tuesday

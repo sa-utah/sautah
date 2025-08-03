@@ -103,13 +103,12 @@ meetings:
     time_end: 11:30am
     address: Online
     notes:
-      "Meeting ID: 87288098212, Password: 535316, One tap mobile: +16699006833,,87288098212#,
-      (save as a contact in phone) (712) 770-4146,,,535316#"
+      "Password: 1010"
     contact_name: Tim B
     contact_phone: 801-949-2978
     contact_email: ""
     contact_instructions: ""
-    link_url: https://us02web.zoom.us/j/87288098212?pwd=UTE4bjV2K0xWcmNYL0V1d2lyQTU5Zz09
+    link_url: https://zoom.us/j/6139802805
     link_text: ""
     location: Intergroup
     name: ""
@@ -305,7 +304,7 @@ meetings:
     location: Online / Phone
     notes: "Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#"
     city: ""
-    name: ""
+    name: "Utah Unity & Fellowship are Important"
     contact_instructions: ""
     contact_email: ""
     link_text: ""

@@ -36,10 +36,18 @@ layout: page
             <span class="font-weight-bold">{{ meeting.city }}</span>
           </td>
           <td class="meetings-contact">
+            <h6>{{ meeting.contact_position }}</h6>
             {{ meeting.contact_name }}<br>
             {% if meeting.contact_phone %}<a href="tel:{{ meeting.contact_phone }}" class="text-nowrap">{{ meeting.contact_phone }}</a><br>{% endif %}
             {% if meeting.contact_email %}<a href="mailto:{{ meeting.contact_email }}" class="text-nowrap">{{ meeting.contact_email }}</a><br>{% endif %}
             {% if meeting.contact_instructions %}<span class="font-weight-light">{{ meeting.contact_instructions }}</span>{% endif %}
+          </td>
+          <td class="meetings-contact">
+            {% if meeting.contact2_position %}<h6>{{ meeting.contact2_position }}</h6>{% endif %}
+            {% if meeting.contact2_name %}{{ meeting.contact2_name }}{% endif %}
+            {% if meeting.contact2_phone %}<a href="tel:{{ meeting.contact2_phone }}" class="text-nowrap">{{ meeting.contact2_phone }}</a><br>{% endif %}
+            {% if meeting.contact2_email %}<a href="mailto:{{ meeting.contact2_email }}" class="text-nowrap">{{ meeting.contact2_email }}</a><br>{% endif %}
+            {% if meeting.contact2_instructions %}<span class="font-weight-light">{{ meeting.contact2_instructions }}</span></a><br>{% endif %}
           </td>
           <td class="meetings-notes">
             {% if meeting.name %}{{ meeting.name }}<br>{% endif %}

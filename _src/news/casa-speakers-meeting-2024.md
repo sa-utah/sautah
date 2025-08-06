@@ -2,7 +2,8 @@
 title: CASA Speakers Meeting
 excerpt: Saturday - April 6, 2024
 image: /assets/af1qipnvqmb0sctzt1cfobn4gfrqbruy2zo89i-gkmqs-w2560-h641.jpg
-date: 2024-03-17
+startDate: 2024-03-17
+endDate: 2024-04-06
 tags: news
 ---
 

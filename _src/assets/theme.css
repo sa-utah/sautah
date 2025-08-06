@@ -24,7 +24,6 @@ h1, h2, h3 {
 .hero {
   background-image: url('/assets/default.jpg');
   min-height: 300px;
-  height: 50vh;
   margin-top: 50px;
   margin-bottom: -3rem;
 }
@@ -95,4 +94,10 @@ h1, h2, h3 {
 }
 .meetings-notes {
   width: 40%;
+}
+
+.active-tab-underline {
+  border-bottom: 3px solid #1b4388;
+  color: #1b4388 !important;
+  background: transparent;
 }

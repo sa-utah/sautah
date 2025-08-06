@@ -5,12 +5,12 @@ images:
 title: Default Title
 ---
 
-<div class="jumbotron parallax mb-0" style="background-image: url({{ '/assets/' | url }}{{ images.jumbotron }})">
+<div class="jumbotron py-1 parallax mb-0" style="background-image: url({{ '/assets/' | url }}{{ images.jumbotron }})">
   <div class="container">
-    <h1 class="my-5 text-center text-white text-uppercase display-4 font-weight-bold">{{ title }}</h1>
+    <h1 class="my-2 text-center text-white text-uppercase display-4 font-weight-bold">{{ title }}</h1>
   </div>
 </div>
-<div class="py-2 py-sm-5">
+<div class="py-1 py-sm-1">
   <div class="container">
     {{ content | safe }}
   </div>

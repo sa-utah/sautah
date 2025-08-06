@@ -1,8 +1,9 @@
 ---
 title: Southwest Regional Unity Conference
+startDate: 2024-07-13
+endDate: 2024-10-13
 excerpt: October 11th-13th
 image: /assets/retreat.jpg
-date: 2024-07-13
 tags: news
 ---
 

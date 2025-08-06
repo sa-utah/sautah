@@ -1,0 +1,38 @@
+---
+layout: page
+metaTitle: Past SA Utah Events
+title: Past Events
+---
+
+<div class="container">
+  <p>For upcoming events, visit the <a href="/">home page</a>.</p>
+  <div class="row mb-4">
+    <div class="col-12">
+      <div class="alert alert-info text-center">
+        <strong>Looking for more?</strong> Check <a href="/about-sa">About SA</a>, <a href="/for-newcomers">For Newcomers</a>, or <a href="/meetings">Find a Meeting</a> for more resources.
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    {%- set sorted_past = collections.pastNews | sort(attribute='data.endDate') | reverse -%}
+    {%- if sorted_past.length > 0 -%}
+      {%- for post in sorted_past -%}
+      <div class="col-12 col-md-6"  style="padding-bottom:1rem;">
+        <div class="card mb-4 mb-sm-0">
+          <img src="{{ post.data.image | url }}" class="card-img-top">
+          <div class="card-body">
+            <h2 class="card-title h5">{{ post.data.title }}</h2>
+            <p class="card-text">{{ post.data.excerpt }}</p>
+            <p class="card-text"><strong>Date:</strong> {{ post.data.startDate }}{% if post.data.endDate %} - {{ post.data.endDate }}{% endif %}</p>
+            <a href="{{ post.url | url }}" class="btn btn-outline-primary">Read More</a>
+          </div>
+        </div>
+      </div>
+      {%- endfor -%}
+    {%- else -%}
+      <div class="col-12">
+        <div class="alert alert-info text-center">No past events found.</div>
+      </div>
+    {%- endif -%}
+  </div>
+</div>

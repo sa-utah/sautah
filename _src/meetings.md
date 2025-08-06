@@ -33,7 +33,7 @@ meetings:
     notes: Meeting is at the South Davis Recovery Club
     contact_position: Secretary
     contact_name: Jaden
-    contact_phone: 801-557-9437 - repeated number
+    contact_phone: 801-557-9437
     contact_email: ""
     contact_instructions: ""
     contact2_position: GSR
@@ -79,7 +79,7 @@ meetings:
     contact_position: Secretary & GSR
     contact_name: Matt F
     contact_phone: 801-613-1017
-    contact_email: 
+    contact_email:
     contact_instructions:
     contact2_position:
     contact2_name:
@@ -117,9 +117,7 @@ meetings:
     time_start: 10:30am
     time_end: 11:30am
     address: Online
-    notes:
-      "Meeting ID: 87288098212, Password: 535316, One tap mobile: +16699006833,,87288098212#,
-      (save as a contact in phone) (712) 770-4146,,,535316#"
+    notes: "Password: 1010"
     contact_position: Secretary
     contact_name: Jose
     contact_phone: 612-558-6456
@@ -130,7 +128,7 @@ meetings:
     contact2_phone: 801-949-2978
     contact2_email:
     contact2_instructions:
-    link_url: https://us02web.zoom.us/j/87288098212?pwd=UTE4bjV2K0xWcmNYL0V1d2lyQTU5Zz09
+    link_url: https://zoom.us/j/6139802805
     link_text: ""
     location: Intergroup
     name: ""
@@ -256,7 +254,7 @@ meetings:
     name: ""
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
+    contact2_position: GSR
     contact2_name: Terren W
     contact2_phone: 801-420-5799
     contact2_email:
@@ -360,21 +358,21 @@ meetings:
     time_start: 7pm
     time_end: 8pm
     address: 770 S 700 W
-    notes: Franklin Community Center
     contact_position: Secretary & GSR
     contact_name: Jason J
     contact_phone: 385-309-1249
     contact_instructions: 
-    link_url: 
-    location: Utah
-    name:
     contact_email: 
     contact2_position:
     contact2_name: 
     contact2_phone: 
     contact2_email:
     contact2_instructions:
+    location: Utah
+    name:
+    link_url: 
     link_text: 
+    notes: Located in the Boulders Neighborhood across the train tracks. Parking is directly east of the center, next to the open grass area. Meeting takes place in the main open room on the left of the hall.
   - label: Online Weekday IG
     day: Monday – Friday
     time_start: 12pm
@@ -387,7 +385,7 @@ meetings:
     location: Online / Phone
     notes: "Meeting ID: 233882267, Password: 001309, One tap mobile number: +14086380968,,233882267#"
     city: ""
-    name: ""
+    name: "Utah Unity & Fellowship are Important"
     contact_instructions: ""
     contact_email: ""
     contact2_position: GSR

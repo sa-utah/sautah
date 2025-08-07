@@ -14,7 +14,7 @@ meetings:
     contact_name: TJ
     contact_phone:
     contact_email: SAvernalut@gmail.com
-    contact2_position:
+    contact2_position: GSR
     contact2_name:
     contact2_phone:
     contact2_email:
@@ -33,7 +33,7 @@ meetings:
     notes: Meeting is at the South Davis Recovery Club
     contact_position: Secretary
     contact_name: Jaden
-    contact_phone: 801-557-9437
+    contact_phone: 
     contact_email: ""
     contact_instructions: ""
     contact2_position: GSR
@@ -81,7 +81,7 @@ meetings:
     contact_phone: 801-613-1017
     contact_email:
     contact_instructions:
-    contact2_position:
+    contact2_position: GSR
     contact2_name:
     contact2_phone:
     contact2_email:
@@ -98,8 +98,8 @@ meetings:
     address: 75 N 100 E
     notes: "Park and enter through the west doors and come straight down the hall."
     contact_position: Secretary
-    contact_name: Sam V
-    contact_phone: 385-535-0774
+    contact_name: 
+    contact_phone: 
     contact_email: ""
     contact_instructions: ""
     contact2_position: GSR
@@ -224,9 +224,6 @@ meetings:
     contact_position: Secretary
     contact_name: Joshua C
     contact_phone: 801-557-1354
-    link_url: ""
-    location: Utah
-    name: Stop It Group
     contact_instructions: ""
     contact_email: ""
     contact2_position: GSR
@@ -235,6 +232,9 @@ meetings:
     contact2_email:
     contact2_instructions:
     link_text: ""
+    link_url: ""
+    location: Utah
+    name: Stop It Group
   - label: Lehi Wednesday
     city: Lehi
     day: Wednesday
@@ -243,16 +243,11 @@ meetings:
     address: 55 W Main St
     notes: |-
       Newcomers welcome. Enter from front of church building.
-
-
-       Zoom Meeting ID: 899 4202 6673
+      Zoom Meeting ID: 899 4202 6673
       Passcode: $aLeh1
     contact_position: Secretary
     contact_name: Steve E
     contact_phone: 801-699-8105
-    link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
-    location: Utah
-    name: ""
     contact_instructions: ""
     contact_email: ""
     contact2_position: GSR
@@ -260,7 +255,10 @@ meetings:
     contact2_phone: 801-420-5799
     contact2_email:
     contact2_instructions:
-    link_text: ""
+    link_text: Zoom Link
+    link_url: https://us02web.zoom.us/j/89942026673?pwd=UUViaEwwSm0va2k0WUkzdEhxL2Zadz09
+    location: Utah
+    name: ""
   - label: Provo Thursday Morning
     city: Provo
     day: Thursday
@@ -339,7 +337,7 @@ meetings:
     time_end: 10am
     address: 603 N 970 W
     notes: Open meeting. Big Book and 12&12 study meeting. We meet in the garage located on the right side of the house.
-    contact_position: GSR
+    contact_position: Secretary
     contact_name: Nathan M
     contact_phone: 503-979-9444
     contact_instructions: ""
@@ -637,11 +635,11 @@ meetings:
     contact2_phone: 801-835-3544
     contact2_email:
     contact2_instructions:
+    link_text: Zoom Link
     link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09
     location: Salt Lake
     notes: Suite 575
     name: ""
-    link_text: ""
   - label: Sandy Tuesday
     city: Sandy
     day: Tuesday
@@ -759,9 +757,10 @@ meetings:
     contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_name: GSR
-    contact2_phone: Daniel P
-    contact2_email: 801-458-9370
+    contact2_position: GSR
+    contact2_name: Daniel P
+    contact2_phone: 801-458-9370
+    contact2_email: 
     contact2_instructions:
     link_text: ""
     link_url: ""

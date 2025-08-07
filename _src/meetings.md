@@ -10,7 +10,7 @@ meetings:
     time_end: 8pm
     address: 679 W Main Street
     notes: Ledgestone Hotel - Located in the Homestead Meeting Room
-    contact_position: GSR
+    contact_position: Secretary
     contact_name: TJ
     contact_phone:
     contact_email: SAvernalut@gmail.com
@@ -76,7 +76,7 @@ meetings:
       "A standing Zoom meeting sponsored by the Sobriety First group.\n\nDial in
       by phone: 669-900-6833 or 346-248-7799\nMeeting ID: 613 980 2805 \nTo mute/unmute:
       *6\nTo raise your hand: *9\n\n"
-    contact_position: Secretary & GSR
+    contact_position: Secretary
     contact_name: Matt F
     contact_phone: 801-613-1017
     contact_email:
@@ -139,16 +139,16 @@ meetings:
     time_end: 8:30pm
     address: 474 W 200 N
     notes: Room 206. Enter through the doors on the North side of the building.
-    contact_position: GSR
-    contact_name: Leland
-    contact_phone: 702-245-7281
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_email: ""
     contact_instructions: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
-    contact2_email:
-    contact2_instructions:
+    contact2_position: GSR
+    contact2_name: Leland
+    contact2_phone: 702-245-7281
+    contact2_email: 
+    contact2_instructions: 
     link_url: ""
     link_text: ""
     location: Washington
@@ -160,13 +160,14 @@ meetings:
     time_end: 1:00pm
     address: 35 State Street (SR-9)
     notes: USE BASEMENT ENTRANCE AT REAR OF MUSEUM. Parking is available at rear of the building. This is a closed meeting. Format includes readings from SA approved literature with discussion, and member stories
-    contact_position: GSR
-    contact_name: Bruce
-    contact_phone: 610-731-1451
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_email: ""
     contact_instructions: ""
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Bruce
+    contact2_phone: 610-731-1451
     contact2_email:
     contact2_instructions:
     link_url: ""
@@ -180,17 +181,17 @@ meetings:
     time_end: 8am
     address: 50 W 200 N St
     notes: Enter on the west side of the building. We meet in the large room to the left of the entrance.
-    contact_position: GSR
-    contact_name: Bond H
-    contact_phone: "(702) 306-1747"
+    contact_position: Secretary
+    contact_name: John S
+    contact_phone: 801-400-2281
     link_url: ""
     location: Utah
     name: St. Mary’s Episcopal Church
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name: John S
-    contact2_phone: 801-400-2281
+    contact2_position: GSR
+    contact2_name: Bond H
+    contact2_phone: 702-306-1747
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -270,17 +271,17 @@ meetings:
       Enter on the west side of the building. There is another 12 step meeting
       that happens in another part of the building at the same time as ours, so we will
       be meeting in the library.
-    contact_position: GSR
-    contact_name: Reed H
-    contact_phone: 801-301-0491
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     link_url: ""
     location: Utah
     name: St. Mary’s Episcopal Church
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Reed H
+    contact2_phone: 801-301-0491
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -294,14 +295,14 @@ meetings:
       Enter on the west side of the building. There is another 12 step meeting
       that happens in another part of the building at the same time as ours, so we will
       be meeting in the library.
-    contact_position: GSR
-    contact_name: Cordell T
-    contact_phone: 615-498-3335
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Cordell T
+    contact2_phone: 615-498-3335
     contact2_email:
     contact2_instructions:
     link_url: ""
@@ -317,17 +318,17 @@ meetings:
     notes:
       Park in west lot, enter side glass door, straight then right down hall to
       library.
-    contact_position: GSR
-    contact_name: Joshua C
-    contact_phone: 801-557-1354
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     link_url: ""
     location: Utah
     name: St. Mary’s Episcopal Church
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Joshua C
+    contact2_phone: 801-557-1354
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -339,16 +340,16 @@ meetings:
     address: 603 N 970 W
     notes: Open meeting. Big Book and 12&12 study meeting. We meet in the garage located on the right side of the house.
     contact_position: GSR
-    contact_name: Sam D
-    contact_phone: 801-592-3689
+    contact_name: Nathan M
+    contact_phone: 503-979-9444
     contact_instructions: ""
     link_url: ""
     location: Utah
     name: "Not a Glum Lot"
     contact_email: ""
-    contact2_position:
-    contact2_name: Nathan M
-    contact2_phone: 503-979-9444
+    contact2_position: GSR
+    contact2_name: Sam D
+    contact2_phone: 801-592-3689
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -358,14 +359,14 @@ meetings:
     time_start: 7pm
     time_end: 8pm
     address: 770 S 700 W
-    contact_position: Secretary & GSR
+    contact_position: Secretary
     contact_name: Jason J
     contact_phone: 385-309-1249
     contact_instructions: 
     contact_email: 
-    contact2_position:
-    contact2_name: 
-    contact2_phone: 
+    contact2_position: GSR
+    contact2_name: Jason J
+    contact2_phone: 385-309-1249
     contact2_email:
     contact2_instructions:
     location: Utah
@@ -456,17 +457,17 @@ meetings:
     time_end: 7am
     address: 25 North 200 West
     notes: Hope Room
-    contact_position: GSR
-    contact_name: Jeremy D
-    contact_phone: 801-390-3851
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     link_url: ""
     location: Davis & Weber
     name: Bountiful Primary Purpose
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Jeremy D
+    contact2_phone: 801-390-3851
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -477,7 +478,7 @@ meetings:
     time_end: 8pm
     address: Men only - USARA - 893 24th, Suite 300
     notes: "Men only"
-    contact_position: Secretary & GSR
+    contact_position: Secretary
     contact_name: Thomas P
     contact_phone: 385-298-9844
     link_url: ""
@@ -485,9 +486,9 @@ meetings:
     name: "It Works Group"
     contact_instructions: "Text messages preferred"
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Thomas P
+    contact2_phone: 385-298-9844
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -498,17 +499,17 @@ meetings:
     time_end: 7am
     address: 25 North 200 West
     notes: Hope Room
-    contact_position: GSR
-    contact_name: Jeremy D
-    contact_phone: 801-390-3851
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     link_url: ""
     location: Davis & Weber
     name: Bountiful Primary Purpose
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Jeremy D
+    contact2_phone: 801-390-3851
     contact2_email:
     contact2_instructions:
     link_text: ""
@@ -538,10 +539,16 @@ meetings:
     day: Saturday
     time_end: 9:45am
     address: 1330 Flint Meadow Dr, Kaysville, UT 84037
-    contact_position: GSR
+    contact_position: Secretary
     contact_name: Mike M
     contact_phone: 801-663-4156
-    link_url: ""
+    contact_instructions: ""
+    contact_email: ""
+    contact2_position: GSR
+    contact2_name: Mike M
+    contact2_phone: 801-663-4156
+    contact2_email:
+    contact2_instructions:
     location: Davis & Weber
     time_start: 8:30am
     notes:
@@ -549,13 +556,7 @@ meetings:
       to Mike for information on how to attend virtually. This meeting is for both
       men and women.
     name: ""
-    contact_instructions: ""
-    contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
-    contact2_email:
-    contact2_instructions:
+    link_url: ""
     link_text: ""
   - label: Cedar City Wednesday
     city: Cedar City
@@ -588,14 +589,14 @@ meetings:
     time_end: 9am
     notes: Men-Only Meeting. Go up the ramp in the back. Turn right after entering and to the back of the hallway.
     name: ""
-    contact_position: GSR
-    contact_name: Dane
-    contact_phone: 435-592-5236
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Dane
+    contact2_phone: 435-592-5236
     contact2_email:
     contact2_instructions:
     link_text: "For more info, visit our website"
@@ -605,35 +606,35 @@ meetings:
     time_start: 12pm
     time_end: 1pm
     address: 9176 South 300 West
-    contact_position: GSR
-    contact_name: Brian
-    contact_phone: "(801) 634-8038"
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
+    contact_instructions: ""
+    contact_email: ""
+    contact2_position: GSR
+    contact2_name: Brian
+    contact2_phone: 801-634-8038
+    contact2_email:
+    contact2_instructions:
+    link_text: ""
     link_url: ""
     location: Salt Lake
     notes: Upstairs to suite 20
     name: ""
-    contact_instructions: ""
-    contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
-    contact2_email:
-    contact2_instructions:
-    link_text: ""
   - label: Murray Tuesday
     city: Murray
     day: Tuesday
     time_start: 7pm
     time_end: 8pm
     address: 5295 S. Commerce Dr
-    contact_position: GSR
-    contact_name: Martin A
-    contact_phone: 801-835-3544
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Martin A
+    contact2_phone: 801-835-3544
     contact2_email:
     contact2_instructions:
     link_url: https://us04web.zoom.us/j/842035041?pwd=UThvTENkblRCelFKcjF6SUQ1MS9lUT09
@@ -647,35 +648,35 @@ meetings:
     time_start: 7pm
     time_end: 8pm
     address: 9176 South 300 West
-    contact_position: GSR
-    contact_name: Trent
-    contact_phone: 385-257-9188
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
+    contact_instructions: ""
+    contact_email: ""
+    contact2_position: GSR
+    contact2_name: Trent
+    contact2_phone: 385-257-9188
+    contact2_email:
+    contact2_instructions:
+    link_text: ""
     link_url: ""
     location: Salt Lake
     notes: Upstairs to suite 20
     name: ""
-    contact_instructions: ""
-    contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
-    contact2_email:
-    contact2_instructions:
-    link_text: ""
   - label: Sandy Sobriety First Wednesday
     city: Sandy
     day: Wednesday
     time_start: 8pm
     time_end: 9pm
     address: "2015 East Newcastle Drive"
-    contact_position: GSR
-    contact_name: Todd
-    contact_phone: "801-699-5412"
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Todd
+    contact2_phone: 801-699-5412
     contact2_email:
     contact2_instructions:
     link_url: ""
@@ -731,9 +732,9 @@ meetings:
     time_start: 7am
     time_end: 8am
     address: 2015 East Newcastle Drive
-    contact_position: GSR
-    contact_name: Dave
-    contact_phone: 801-556-2775
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     link_url: ""
     location: Salt Lake
     name: Sobriety First Group
@@ -741,46 +742,46 @@ meetings:
       then to classroom 1B
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Dave
+    contact2_phone: 801-556-2775
     contact2_email:
     contact2_instructions:
     link_text: ""
   - label: Murray Saturday
+    address: 5295 S. Commerce Dr
     city: Murray
     day: Saturday
     time_start: 7:30am
     time_end: 8:30am
-    contact_position: GSR
-    contact_name: Daniel P
-    contact_phone: 801-458-9370
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
+    contact_instructions: ""
+    contact_email: ""
+    contact2_name: GSR
+    contact2_phone: Daniel P
+    contact2_email: 801-458-9370
+    contact2_instructions:
+    link_text: ""
     link_url: ""
     location: Salt Lake
     name: ""
-    address: 5295 S. Commerce Dr
     notes: Suite 575
-    contact_instructions: ""
-    contact_email: ""
-    contact2_name:
-    contact2_phone:
-    contact2_email:
-    contact2_instructions:
-    link_text: ""
   - label: SLC Work It Saturday
     city: Salt Lake City
     day: Saturday
     time_start: 8:30am
     time_end: 9:30am
     address: 180 East 2100 South, Suite 203
-    contact_position: GSR
-    contact_name: Tim B
-    contact_phone: 801-949-2978
+    contact_position: Secretary
+    contact_name: Sebastian
+    contact_phone: 385-866-7968
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name: Sebastian
-    contact2_phone: 385-866-7968
+    contact2_position: GSR
+    contact2_name: Tim B 
+    contact2_phone: 801-949-2978
     contact2_email:
     contact2_instructions:
     link_url: https://us02web.zoom.us/j/86238197798?pwd=OTA2ZmY5YUVzcURMRllId3JyRVliZz09
@@ -800,14 +801,14 @@ meetings:
     time_start: 6pm
     time_end: 7pm
     address: 180 East 2100 South, Suite 203
-    contact_position: GSR
-    contact_name: Tim B
-    contact_phone: 801-949-2978
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Tim B
+    contact2_phone: 801-949-2978
     contact2_email:
     contact2_instructions:
     link_url: https://zoom.us/j/608422086?pwd=Y1VmV2xsSWc4QVpaR3FHZDNOZnJsZz09
@@ -827,14 +828,14 @@ meetings:
     location: Sanpete
     name: ""
     notes: ""
-    contact_position: GSR
-    contact_name: Clinton K
-    contact_phone: 435-813-2821
+    contact_position: Secretary
+    contact_name: 
+    contact_phone: 
     contact_instructions: ""
     contact_email: ""
-    contact2_position:
-    contact2_name:
-    contact2_phone:
+    contact2_position: GSR
+    contact2_name: Clinton K
+    contact2_phone: 435-813-2821
     contact2_email:
     contact2_instructions:
     link_text: ""

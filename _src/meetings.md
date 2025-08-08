@@ -57,7 +57,7 @@ meetings:
     contact_phone: 618-420-9981
     contact_email: 
     contact_instructions: 
-    contact2_position:
+    contact2_position: GSR
     contact2_name:
     contact2_phone:
     contact2_email:

@@ -12,7 +12,7 @@ During in-person meetings, we pass a basket to collect voluntary cash contributi
 
 ---
 
-## Contribute To SA Utah
+## Contribute To SA Utah Intergroup
 
 > **Contribution limits (per Intergroup policy):** up to **$3,000 per group per calendar year** and up to **$1,500 per individual per calendar year**.
 
@@ -34,9 +34,9 @@ Please note that **PayPal deducts 1.99% + 0.49 USD** for domestic charity transa
 
 ---
 
-## Contribute to SA (National)
+## Contribute to SA International
 
-Groups and individuals may also support SA at the national level. Visit the official SA contribution page here:
+Groups and individuals may also support SA international. Visit the official SA contribution page here:
 
 - **National SA:** <https://www.sa.org/contribute/>
 

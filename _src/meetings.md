@@ -766,7 +766,7 @@ meetings:
     link_url: ""
     location: Salt Lake
     name: ""
-    notes: Suite 575
+    notes: Suite 575, Men Only
   - label: SLC Work It Saturday
     city: Salt Lake City
     day: Saturday

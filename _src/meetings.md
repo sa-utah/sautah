@@ -335,8 +335,10 @@ meetings:
     day: Saturday
     time_start: 9am
     time_end: 10am
-    address: 603 N 970 W
-    notes: Open meeting. Big Book and 12&12 study meeting. We meet in the garage located on the right side of the house.
+    address: 50 W 200 N St
+    notes:
+      Open meeting. Big Book and 12&12 study meeting. Park in west lot, enter side glass
+      door, straight then right down hall to library.
     contact_position: Secretary
     contact_name: Nathan M
     contact_phone: 503-979-9444
